@@ -118,6 +118,28 @@ Easter egg: jeśli w dniu 3 wybierzesz leżak nr 7, Bożenka przychodzi na wczas
   - for Skill Issue, office software, or both?
   - ideas: "Nasze CV przestały wyglądać jak formularze ZUS.", "System działa. Nie pytamy jak.", "Bożenka powiedziała żebyśmy wzięli. Wzięliśmy."
 
+## Zarząd
+
+### Mariusz Krawczyk — Prezes Zarządu
+
+Syn Zdzisława (założyciela). MBA Koźmiński. Prezes od 2018 — oficjalnie.
+
+W 2019 zaproponował zmianę nazwy firmy na **Codeex**. Bożenka nie zaktualizowała papieru firmowego. Sprawę zamknięto.
+
+Od 2021 pracuje "hybrydowo". Nikt nie jest pewien z jakiego miasta. Pojawia się na wigilii firmowej, na zdjęciu do stopki maila i wtedy, gdy trzeba podpisać coś, czego Bożenka nie może podpisać sama — co zdarza się rzadziej niż kiedyś.
+
+Ma LinkedIn z hasłem *"Building the future of Polish enterprise software."* Ostatni post z 2023.
+
+Skill Issue uważa za *"ciekawy kierunek"*. Marta zrobiła mu prezentację w grudniu. Powiedział że *"wróci z feedbackiem"*. Jeszcze nie wrócił.
+
+**Cytat:** *"Musimy pogadać o strategii."*
+
+Do zrobienia:
+- [ ] Portret Mariusza (suit, LinkedIn-style, lekko rozmyty jakby był na złym call)
+- [ ] Zdecydować czy pojawia się na stronie czy tylko w lore
+
+---
+
 ## Team
 
 Trzy osobne podstrony / zakładki:
