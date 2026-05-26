@@ -1,6 +1,5 @@
 import { useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Link } from 'react-router-dom'
 import sigmaImg    from '../assets/CODEXPOL_loga/SIGMA_FK.png'
 import hermesImg   from '../assets/CODEXPOL_loga/HERMES.png'
 import teczkaImg   from '../assets/CODEXPOL_loga/TECZKA_95.png'
@@ -52,7 +51,6 @@ export default function Products() {
   return (
     <div className="subpage">
       <header className="subpage-header">
-        <Link to="/" className="subpage-back">← Codexpol</Link>
         <h1>{t('products.title')}</h1>
         <p className="subpage-sub">{t('products.subtitle')}</p>
       </header>

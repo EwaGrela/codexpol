@@ -62,7 +62,6 @@ export default function Team() {
   return (
     <div className="subpage">
       <header className="subpage-header">
-        <Link to="/" className="subpage-back">← Codexpol</Link>
         <h1>{t('teamStrip.label')}</h1>
       </header>
 

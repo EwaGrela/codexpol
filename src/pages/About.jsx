@@ -1,5 +1,4 @@
 import { useTranslation } from 'react-i18next'
-import { Link } from 'react-router-dom'
 
 export default function About() {
   const { t } = useTranslation()
@@ -8,7 +7,6 @@ export default function About() {
   return (
     <div className="subpage">
       <header className="subpage-header">
-        <Link to="/" className="subpage-back">← Codexpol</Link>
         <h1>{t('about.title')}</h1>
         <p className="subpage-sub">{t('about.sub')}</p>
       </header>

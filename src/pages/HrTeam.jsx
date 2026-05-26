@@ -1,5 +1,4 @@
 import { useTranslation } from 'react-i18next'
-import { Link } from 'react-router-dom'
 import bozenkaImg from '../assets/personas/bozenka.png'
 import martaImg from '../assets/personas/marta.png'
 import julkaImg from '../assets/personas/julka2.png'
@@ -31,7 +30,6 @@ export default function HrTeam() {
   return (
     <div className="tech-page">
       <header className="tech-header">
-        <Link to="/" className="tech-back">← Codexpol</Link>
         <h1>Kadry</h1>
         <p className="tech-sub">Ludzie, którzy pilnują, żeby wszystko działało. Nie tylko software.</p>
       </header>

@@ -1,5 +1,4 @@
 import { useTranslation } from 'react-i18next'
-import { Link } from 'react-router-dom'
 
 function GameCard({ data }) {
   return (
@@ -31,7 +30,6 @@ export default function Games() {
   return (
     <div className="subpage games-page">
       <header className="subpage-header games-header">
-        <Link to="/" className="subpage-back">← Codexpol</Link>
         <h1>{t('games.title')}</h1>
         <p className="subpage-sub">{t('games.subtitle')}</p>
       </header>
