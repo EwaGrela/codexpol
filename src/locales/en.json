@@ -1,0 +1,92 @@
+{
+  "nav": {
+    "history": "History",
+    "team": "Team",
+    "services": "What we do",
+    "skillIssue": "Skill Issue",
+    "lang": "PL"
+  },
+  "hero": {
+    "headline": "Since 1989.",
+    "headline2": "We've survived everything.",
+    "sub": "We build software that works. Sometimes software that surprises.",
+    "cta": "Meet us"
+  },
+  "history": {
+    "title": "History",
+    "events": [
+      { "year": "1989", "text": "Poland is born. So are we." },
+      { "year": "1991", "text": "First computer game! It sold...badly." },
+      { "year": "1993", "text": "Bożenka joins. She's still here." },
+      { "year": "1995", "text": "We pivot to office software. Nobody is excited." },
+      { "year": "1999", "text": "We survive Y2K. The millennium bug. The payroll system too. As did the bugs in the wall panelling..." },
+      { "year": "2007", "text": "The printer incident. Details sealed by mutual agreement." },
+      { "year": "2012", "text": "We buy a ping-pong table. Nobody plays ping-pong. Should have bought a foosball table..." },
+      { "year": "2016", "text": "Marta joins. As cover. She doesn't know it yet, but she'll stay." },
+      { "year": "2020", "text": "Pandemic. We already worked remotely, so essentially nothing happened." },
+      { "year": "2022", "text": "Hania joins as a junior." },
+      { "year": "2024", "text": "Hania builds Skill Issue on a Friday afternoon." },
+      { "year": "2025", "text": "Bożenka notices. \"Hm. This is actually good.\"" },
+      { "year": "2026", "text": "Julka joins. Skill Issue goes live." }
+    ]
+  },
+  "team": {
+    "title": "Team",
+    "bozena": {
+      "name": "Bożenka from HR",
+      "title": "Head of HR & Administration",
+      "since": "At Codexpol since 1993",
+      "bio": "Has outlasted four CEOs, two office moves, and the printer incident. Does not accept CVs with the word \"passionate\". Does not use the word \"passionate\".",
+      "quote": "CEOs come and go. I stay."
+    },
+    "marta": {
+      "name": "Marta",
+      "title": "Head of Product",
+      "since": "At Codexpol since 2016",
+      "bio": "Was supposed to stay two years. She's still here. Makes roadmaps, manages clients, runs Secret Santa with a spreadsheet that has conditional formatting.",
+      "quote": "That's a good start."
+    },
+    "julka": {
+      "name": "Julka from HR",
+      "title": "HR Specialist",
+      "since": "At Codexpol since 2025",
+      "bio": "Joined straight from university. Has already reorganised three processes. Runs a Notion board nobody uses. Has a doc called \"suggestions (please read)\" — Marta has opened it twice.",
+      "quote": "Bestie, that is NPC energy."
+    },
+    "hania": {
+      "name": "Hania Sikorska",
+      "title": "Mid-level Developer",
+      "quote": "Hania is still water. She carves the banks.",
+      "attribution": "— Bożenka from HR"
+    }
+  },
+  "services": {
+    "title": "What we do",
+    "office": {
+      "label": "Office software",
+      "badge": "30 years running",
+      "text": "We've been doing this for 30 years. It's stable, it works, our clients are satisfied. Which clients? They'd prefer not to be named."
+    },
+    "skillIssue": {
+      "label": "Skill Issue",
+      "badge": "New",
+      "text": "Hania built it on a Friday. Bożenka said we're taking it. Marta made a roadmap. Julka has feedback.",
+      "cta": "Try Skill Issue →"
+    }
+  },
+  "origin": {
+    "title": "How it started",
+    "p1": "Hania studied bioinformatics and joined Codexpol in 2022. Quiet in meetings. Opens PRs that make people ask: \"when did she even do that?\"",
+    "p2": "On a Friday afternoon in 2024, tired of watching her friends send CVs into the void and get nothing back, she built something. It was supposed to be a job listing scraper, so she told nobody.",
+    "p3": "Bożenka found it on Monday, in the internal tools folder, looking for the leave request system.",
+    "quote": "Hania is still water. She carves the banks.",
+    "attribution": "— Bożenka from HR, after Hania showed her Skill Issue",
+    "cta": "See what she built →"
+  },
+  "footer": {
+    "address": "ul. Złota 59, 00-120 Warszawa, Poland",
+    "nip": "VAT: PL 527-000-00-00",
+    "regon": "REGON: 012345678",
+    "copy": "Codexpol Sp. z o.o. © 1989–2026. All rights reserved. Especially the ones from the 90s..."
+  }
+}

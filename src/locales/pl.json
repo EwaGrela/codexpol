@@ -1,0 +1,92 @@
+{
+  "nav": {
+    "history": "Historia",
+    "team": "Zespół",
+    "services": "Co robimy",
+    "skillIssue": "Skill Issue",
+    "lang": "EN"
+  },
+  "hero": {
+    "headline": "Od 1989.",
+    "headline2": "Przeżyliśmy wszystko.",
+    "sub": "Budujemy software, który działa. Czasem nawet software, który zaskakuje.",
+    "cta": "Poznaj nas"
+  },
+  "history": {
+    "title": "Historia",
+    "events": [
+      { "year": "1989", "text": "Polska powstaje. A my wraz z nią" },
+      { "year": "1991", "text": "Pierwsza gra komputerowa! Sprzedała się...słabo." },
+      { "year": "1993", "text": "Dołącza Bożenka. Jest z nami do dziś." },
+      { "year": "1995", "text": "Pivotujemy na software biurowy. Nikt nie jest podekscytowany." },
+      { "year": "1999", "text": "Przeżywamy rok 2000. Pluskwa milenijna. System kadrowy też. Podobnie pluskwy w boazerii..." },
+      { "year": "2007", "text": "Incydent z drukarką. Szczegóły objęte tajemnicą." },
+      { "year": "2012", "text": "Kupujemy ping-ponga. Nikt nie gra w ping-ponga. Trzeba było kupić piłkarzyki..." },
+      { "year": "2016", "text": "Marta dołącza. Na zastępstwo. Jeszcze nie wiem, ale zostanie" },
+      { "year": "2020", "text": "Pandemia. Już pracowaliśmy zdalnie, więc właściwie nic się nie stało" },
+      { "year": "2022", "text": "Hania dołącza jako junior." },
+      { "year": "2024", "text": "Hania buduje Skill Issue w piątek po południu." },
+      { "year": "2025", "text": "Bożenka to zauważa. „Ej, ale to jest niezłe.”" },
+      { "year": "2026", "text": "Julka dołącza. Skill Issue wychodzi na świat." }
+    ]
+  },
+  "team": {
+    "title": "Zespół",
+    "bozena": {
+      "name": "Bożenka z Kadr",
+      "title": "Kierownik ds. Kadr i Administracji",
+      "since": "W Codexpolu od 1993",
+      "bio": "Przeżyła czterech prezesów, dwie przeprowadzki i incydent z drukarką. Nie akceptuje CV ze słowem „pasja”. Nie używa słowa „pasja”.",
+      "quote": "Prezesi przychodzą i odchodzą. Ja zostaję."
+    },
+    "marta": {
+      "name": "Marta",
+      "title": "Head of Product",
+      "since": "W Codexpolu od 2016",
+      "bio": "Miała zostać dwa lata. Jest do dziś. Robi roadmapy, zarządza klientami, prowadzi Secret Santa z arkuszem warunkowego formatowania.",
+      "quote": "To dobry początek."
+    },
+    "julka": {
+      "name": "Julka z HR-u",
+      "title": "HR Specialist",
+      "since": "W Codexpolu od 2025",
+      "bio": "Dołączyła prosto po studiach. Zreorganizowała już trzy procesy. Prowadzi Notion board, którego nikt nie czyta. Ma plik „suggestions (please read)” — Marta otworzyła go dwa razy.",
+      "quote": "Bestie, to jest NPC energy."
+    },
+    "hania": {
+      "name": "Hania Sikorska",
+      "title": "Mid-level Developer",
+      "quote": "Hania to cicha woda. Brzegi rwie.",
+      "attribution": "— Bożenka z Kadr"
+    }
+  },
+  "services": {
+    "title": "Co robimy",
+    "office": {
+      "label": "Software biurowy",
+      "badge": "Od 30 lat",
+      "text": "Robimy to od 30 lat. Jest stabilny, działa, nasi klienci są zadowoleni. Jacy klienci? Woleliby nie być wymieniani z nazwy."
+    },
+    "skillIssue": {
+      "label": "Skill Issue",
+      "badge": "Nowość",
+      "text": "Hania zbudowała to w piątek. Bożenka powiedziała, że bierzemy. Marta zrobiła roadmapę. Julka ma feedback.",
+      "cta": "Wypróbuj Skill Issue →"
+    }
+  },
+  "origin": {
+    "title": "Jak to się zaczęło",
+    "p1": "Hania ukończyła bioinformatykę i dołączyła do Codexpolu w 2022. Cicha w spotkaniach. Otwiera PR-y, które sprawiają, że ludzie pytają: „kiedy ona to zrobiła?”",
+    "p2": "W piątek po południu 2024 roku, zmęczona patrzeniem jak znajomi wysyłają CV w próżnię i nie dostają nic z powrotem, zbudowała coś. To miał być scraper do przeglądania ofert pracy, więc nikomu nie powiedziała.",
+    "p3": "Bożenka znalazła to w poniedziałek, w folderze z narzędziami wewnętrznymi, szukając systemu wniosków urlopowych.",
+    "quote": "Hania to cicha woda. Brzegi rwie.",
+    "attribution": "— Bożenka z Kadr, po tym jak Hania pokazała jej Skill Issue",
+    "cta": "Zobacz, co zbudowała →"
+  },
+  "footer": {
+    "address": "ul. Złota 59, 00-120 Warszawa",
+    "nip": "NIP: 527-000-00-00",
+    "regon": "REGON: 012345678",
+    "copy": "Codexpol Sp. z o.o. © 1989–2026. Wszystkie prawa zastrzeżone. Nawet te z lat 90. Szczególnie te z lat 90..."
+  }
+}
