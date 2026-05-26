@@ -1,4 +1,5 @@
 import { useTranslation } from 'react-i18next'
+import { Link } from 'react-router-dom'
 import logo from '../assets/logo_codexpol.png'
 
 export default function Nav() {
@@ -7,14 +8,14 @@ export default function Nav() {
 
   return (
     <nav className="nav">
-      <a href="#" className="nav-logo">
+      <Link to="/" className="nav-logo">
         <img src={logo} alt="Codexpol" height="32" />
-      </a>
+      </Link>
       <ul className="nav-links">
-        <li><a href="#history">{t('nav.history')}</a></li>
-        <li><a href="#team">{t('nav.team')}</a></li>
-        <li><a href="#services">{t('nav.services')}</a></li>
-        <li><a href="#origin" className="nav-cta">{t('nav.skillIssue')}</a></li>
+        <li><Link to="/o-nas">{t('nav.about')}</Link></li>
+        <li><Link to="/produkty">{t('nav.products')}</Link></li>
+        <li><Link to="/kadry">{t('nav.team')}</Link></li>
+        <li><a href="#wkrotce" className="nav-cta">{t('nav.soon')}</a></li>
       </ul>
       <button className="lang-toggle" onClick={toggle}>{t('nav.lang')}</button>
     </nav>

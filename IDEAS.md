@@ -69,6 +69,49 @@ Otwarte pytania:
 
 ---
 
+## Gra z 1991 roku
+
+Pierwsza i jedyna gra Codexpol. Sprzedała się słabo.
+
+### PODRÓŻ SŁUŻBOWA (1991)
+
+**Gatunek:** Przygodówka / symulator delegacji  
+**Platforma:** Atari 800XL, PC (DOS)  
+**Sprzedaż:** ok. 23 kopie
+
+Wcielasz się w Zenka Wróblewskiego, referenta z działu logistyki, który jedzie na trzydniową delegację do Katowic w celu podpisania faktury. Która jest błędna. Gra zaczyna się na peronie o 5:42.
+
+Mechaniki:
+- zarządzanie druczkami (delegacja, dieta, pokwitowanie noclegu)
+- negocjacje z recepcjonistką w hotelu (pokój zarezerwowany na inne nazwisko)
+- rozmowy z kontrahentem, który nigdy nie jest w biurze
+- finałowa misja: złożenie rozliczenia w księgowości w ciągu 7 dni od powrotu
+
+Grafika: 4-kolorowa, bardzo szczegółowa. Twórcy są z niej dumni do dziś.  
+Problem sprzedażowy: nikt w 1991 nie chciał grać w pracę.  
+Opinia prasowa (*Bajtek*, nr 11/1991): „Technicznie poprawna. Nie rozumiemy po co."
+
+---
+
+### WCZASY POD GRUSZĄ (1991)
+
+**Gatunek:** Symulator wypoczynku / dramat egzystencjalny  
+**Platforma:** Atari 800XL  
+**Sprzedaż:** 11 kopii (w tym 4 zwroty)
+
+Masz tydzień w ośrodku wczasowym Funduszu Wczasów Pracowniczych w Ustroniu. Pokój na trzecim piętrze, bez windy. Śniadanie 7:00–7:45, nie ma negocjacji. Basen nieczynny z powodu remontu (od 1988, status nieznany). Animatorzy nie istnieją.
+
+Mechaniki:
+- harmonogram dnia (śniadanie → plaża → obiad → sjesta → kolacja → telewizja w świetlicy)
+- zarządzanie relacją z sąsiadem z pokoju 304, który gra w karty do 23:00
+- wycieczka fakultatywna do zamku — autokar się spóźnia, bilety trzeba kupić osobno
+- dzień 6: decyzja czy wracać wcześniej czy dotrwać do końca dla zasady
+
+Zakończenia: trzy. Żadne nie jest dobre.  
+Easter egg: jeśli w dniu 3 wybierzesz leżak nr 7, Bożenka przychodzi na wczasy do tego samego ośrodka. Nie ma dla niej opcji dialogowych. Mówi tylko: „Pracujesz?".
+
+---
+
 ## New sections
 
 - [ ] Client testimonials — 3–4 made-up quotes, dry Codexpol humor style
