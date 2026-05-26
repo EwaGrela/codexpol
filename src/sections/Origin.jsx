@@ -16,7 +16,7 @@ export default function Origin() {
           <p className="origin-quote-text">„{t('origin.quote')}"</p>
           <cite className="origin-attribution">{t('origin.attribution')}</cite>
         </blockquote>
-        <a href="https://skillissue.codexpol.pl" className="origin-cta">
+        <a href="#team" className="origin-cta">
           {t('origin.cta')}
         </a>
       </div>

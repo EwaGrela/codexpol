@@ -14,12 +14,15 @@
 }
 
 .nav-logo {
-  font-weight: 600;
-  font-size: 15px;
-  letter-spacing: 0.06em;
-  color: var(--heading);
-  text-transform: uppercase;
   flex-shrink: 0;
+  display: flex;
+  align-items: center;
+}
+
+.nav-logo img {
+  height: 32px;
+  width: auto;
+  display: block;
 }
 
 .nav-links {
@@ -152,7 +155,33 @@
 .history {
   background: var(--bg-alt);
   padding: 64px 0;
-  overflow: hidden;
+  position: relative;
+}
+
+.history::after {
+  content: '›';
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 80px;
+  height: 100%;
+  top: 0;
+  transform: none;
+  background: linear-gradient(to right, transparent, var(--bg-alt) 70%);
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 16px;
+  font-size: 24px;
+  color: var(--text-muted);
+  pointer-events: none;
+  animation: nudge 2s ease-in-out infinite;
+}
+
+@keyframes nudge {
+  0%, 100% { padding-right: 16px; }
+  50% { padding-right: 8px; }
 }
 
 .section-label {
@@ -168,8 +197,9 @@
 
 .timeline {
   display: flex;
+  flex-wrap: nowrap;
   overflow-x: auto;
-  padding: 0 32px 20px;
+  padding: 0 32px 24px;
   scrollbar-width: thin;
   scrollbar-color: var(--border) transparent;
   -webkit-overflow-scrolling: touch;
@@ -181,6 +211,21 @@
   padding: 4px 24px 4px 20px;
   border-left: 1px solid var(--border);
   position: relative;
+  transition: width 0.25s ease, background 0.2s;
+  cursor: default;
+}
+
+.timeline-entry:hover {
+  width: 280px;
+  background: rgba(173, 53, 41, 0.04);
+}
+
+.timeline-entry:hover .timeline-year {
+  opacity: 1;
+}
+
+.timeline-entry:hover .timeline-text {
+  color: var(--text);
 }
 
 .timeline-entry::before {
@@ -229,11 +274,33 @@
 .team-card {
   border: 1px solid var(--border);
   border-radius: 10px;
-  padding: 28px 26px;
+  overflow: hidden;
   background: var(--bg);
   display: flex;
   flex-direction: column;
-  gap: 16px;
+}
+
+.team-portrait {
+  width: 100%;
+  height: 280px;
+  overflow: hidden;
+  background: #f0ece4;
+}
+
+.team-portrait img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top center;
+  display: block;
+}
+
+.team-card-body {
+  padding: 22px 24px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  flex: 1;
 }
 
 .avatar {
@@ -273,12 +340,12 @@
   font-size: 14px;
   color: var(--text-muted);
   line-height: 1.6;
-  margin-top: 4px;
+  margin-top: 8px;
 }
 
 .team-quote {
   margin-top: auto;
-  padding: 12px 0 0 14px;
+  padding: 14px 0 0 14px;
   border-left: 2px solid var(--red);
   font-size: 13px;
   font-style: italic;
@@ -477,6 +544,100 @@
 }
 
 .origin-cta:hover { opacity: 0.7; }
+
+/* ── Tech page ───────────────────────────────────────────────────── */
+.tech-page {
+  min-height: 100vh;
+  background: var(--bg);
+}
+
+.tech-header {
+  background: var(--bg-dark);
+  padding: 48px 24px 56px;
+  text-align: center;
+  position: relative;
+}
+
+.tech-back {
+  position: absolute;
+  top: 20px;
+  left: 24px;
+  font-size: 14px;
+  color: rgba(232, 226, 216, 0.5);
+  transition: color 0.15s;
+}
+
+.tech-back:hover { color: var(--heading-inv); }
+
+.tech-header h1 {
+  color: var(--heading-inv);
+  font-size: clamp(32px, 5vw, 56px);
+  letter-spacing: -0.03em;
+  margin-bottom: 12px;
+}
+
+.tech-sub {
+  font-size: 16px;
+  color: rgba(232, 226, 216, 0.55);
+}
+
+.tech-grid {
+  max-width: var(--max-w);
+  margin: 56px auto 0;
+  padding: 0 24px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.tech-card {
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  overflow: hidden;
+  background: var(--bg);
+  display: flex;
+  flex-direction: column;
+}
+
+.tech-portrait {
+  width: 100%;
+  height: 280px;
+  overflow: hidden;
+  background: #f0ece4;
+}
+
+.tech-portrait img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top center;
+  display: block;
+}
+
+.tech-card-body {
+  padding: 22px 24px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  flex: 1;
+}
+
+.hania-portrait {
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: top center;
+  flex-shrink: 0;
+}
+
+@media (max-width: 800px) {
+  .tech-grid { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 600px) {
+  .tech-grid { grid-template-columns: 1fr; }
+}
 
 /* ── Footer ──────────────────────────────────────────────────────── */
 .site-footer {

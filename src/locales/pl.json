@@ -58,6 +58,41 @@
       "title": "Mid-level Developer",
       "quote": "Hania to cicha woda. Brzegi rwie.",
       "attribution": "— Bożenka z Kadr"
+    },
+    "tomek": {
+      "name": "Tomek",
+      "title": "Tech Lead",
+      "since": "W Codexpolu od 2014",
+      "bio": "Zaczął jako senior developer, został tech leadem, bo nikt inny nie chciał prowadzić standupów o 9:15. Zna każdą linię legacy kodu. Część z nich nawet rozumie. Nosi koszulki z napisami, które są śmieszne tylko dla programistów — i jest z tego dumny.",
+      "quote": "Don't panic. It's just code."
+    },
+    "ewa": {
+      "name": "Ewa",
+      "title": "Senior Fullstack Engineer",
+      "since": "W Codexpolu od 2019",
+      "bio": "Pisze backend zanim inni skończą kawę, a frontend poprawia zanim ktoś zdąży otworzyć ticket. Code review traktuje jako sport kontaktowy. Jej komentarze są krótkie, rzeczowe i lekko przerażające.",
+      "quote": "Refactor to nie przekleństwo."
+    },
+    "filip": {
+      "name": "Filip",
+      "title": "Frontend Developer",
+      "since": "W Codexpolu od 2022",
+      "bio": "Jedyny w biurze, który ma zdanie na temat typografii, odstępów i tego, dlaczego ten odcień niebieskiego jest zły. Robi też UX, bo ktoś musi. Tomek twierdzi, że to nie jest jego zakres obowiązków. Filip twierdzi, że Tomek się myli.",
+      "quote": "Pixel perfect to nie obsesja. To standard."
+    },
+    "damian": {
+      "name": "Damian",
+      "title": "Data Analyst",
+      "since": "W Codexpolu od 2021",
+      "bio": "Zamienia dane w wykresy, wykresy w wnioski, wnioski w prezentacje. Wie dokładnie, co mówią liczby. To jest właśnie problem.",
+      "quote": "Dane nie kłamią. Ludzie kłamią. Dane pokazują jak."
+    },
+    "tatiana": {
+      "name": "Tatiana",
+      "title": "Tester",
+      "since": "W Codexpolu od 2020",
+      "bio": "Znajduje bugi w rzeczach, które \"na pewno działają\". Jej lista testów ma więcej pozycji niż lista życzeń Filipa do następnego sprintu. Nawet Ewa i Tomek boją się jej Slacka.",
+      "quote": "Bugs don't sleep. Neither do I."
     }
   },
   "services": {

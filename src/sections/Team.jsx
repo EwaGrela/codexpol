@@ -1,4 +1,15 @@
 import { useTranslation } from 'react-i18next'
+import bozenkaImg from '../assets/personas/bozenka.png'
+import martaImg from '../assets/personas/marta.png'
+import julkaImg from '../assets/personas/julka2.png'
+
+function Portrait({ src, alt }) {
+  return (
+    <div className="team-portrait">
+      <img src={src} alt={alt} />
+    </div>
+  )
+}
 
 function Avatar({ initial, color }) {
   return (
@@ -8,11 +19,11 @@ function Avatar({ initial, color }) {
   )
 }
 
-function TeamCard({ data, initial, color }) {
+function TeamCard({ data, img }) {
   return (
     <div className="team-card">
-      <Avatar initial={initial} color={color} />
-      <div>
+      <Portrait src={img} alt={data.name} />
+      <div className="team-card-body">
         <div className="team-name">{data.name}</div>
         <div className="team-role">{data.title}</div>
         <div className="team-since">{data.since}</div>
@@ -34,9 +45,9 @@ export default function Team() {
     <section className="team-section" id="team">
       <p className="section-label">{t('team.title')}</p>
       <div className="team-grid">
-        <TeamCard data={bozena} initial="B" color="#b87333" />
-        <TeamCard data={marta}  initial="M" color="#2a7a6e" />
-        <TeamCard data={julka}  initial="J" color="#5b4d9e" />
+        <TeamCard data={bozena} img={bozenkaImg} />
+        <TeamCard data={marta}  img={martaImg} />
+        <TeamCard data={julka}  img={julkaImg} />
       </div>
       <div className="hania-wrap">
         <div className="hania-card">

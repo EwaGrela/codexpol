@@ -1,4 +1,5 @@
 import { useTranslation } from 'react-i18next'
+import logo from '../assets/logo_codexpol.png'
 
 export default function Nav() {
   const { t, i18n } = useTranslation()
@@ -6,12 +7,14 @@ export default function Nav() {
 
   return (
     <nav className="nav">
-      <a href="#" className="nav-logo">Codexpol</a>
+      <a href="#" className="nav-logo">
+        <img src={logo} alt="Codexpol" height="32" />
+      </a>
       <ul className="nav-links">
         <li><a href="#history">{t('nav.history')}</a></li>
         <li><a href="#team">{t('nav.team')}</a></li>
         <li><a href="#services">{t('nav.services')}</a></li>
-        <li><a href="https://skillissue.codexpol.pl" className="nav-cta">{t('nav.skillIssue')}</a></li>
+        <li><a href="#origin" className="nav-cta">{t('nav.skillIssue')}</a></li>
       </ul>
       <button className="lang-toggle" onClick={toggle}>{t('nav.lang')}</button>
     </nav>

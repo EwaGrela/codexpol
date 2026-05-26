@@ -16,7 +16,7 @@ export default function Services() {
           <span className="service-badge">{t('services.skillIssue.badge')}</span>
           <div className="service-label">{t('services.skillIssue.label')}</div>
           <p className="service-text">{t('services.skillIssue.text')}</p>
-          <a href="https://skillissue.codexpol.pl" className="service-cta">
+          <a href="#origin" className="service-cta">
             {t('services.skillIssue.cta')}
           </a>
         </div>
