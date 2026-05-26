@@ -821,66 +821,101 @@
 
 /* ── Team strip (home) ───────────────────────────────────────────── */
 .team-strip {
-  padding: 56px 32px;
   border-bottom: 1px solid var(--border);
 }
 
-.team-strip-cols {
+.team-strip > .section-label {
+  padding: 56px 32px 0;
+}
+
+.team-strip-blocks {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 48px;
-  margin-top: 24px;
+  margin-top: 32px;
 }
 
-.team-strip-label {
-  font-size: 11px;
-  font-weight: 600;
-  letter-spacing: 0.08em;
+.team-block {
+  padding: 36px 40px 48px;
+  border-top: 1px solid var(--border);
+}
+
+.team-block + .team-block {
+  border-left: 1px solid var(--border);
+}
+
+.team-block-dark {
+  background: var(--bg-alt);
+}
+
+.team-block-header {
+  margin-bottom: 28px;
+}
+
+.team-block-label {
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
   text-transform: uppercase;
+  color: var(--heading);
+  margin-bottom: 8px;
+}
+
+.team-block-sub {
+  font-size: 13px;
   color: var(--text-muted);
-  margin-bottom: 16px;
+  line-height: 1.55;
+  max-width: 340px;
 }
 
-.avatar-row {
+.team-block-members {
   display: flex;
-  gap: 16px;
+  gap: 20px;
   flex-wrap: wrap;
-  margin-bottom: 20px;
+  margin-bottom: 28px;
 }
 
-.avatar-item {
+.team-block-member {
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 6px;
+  width: 72px;
 }
 
-.avatar-portrait {
-  width: 52px;
-  height: 52px;
+.team-block-portrait {
+  width: 64px;
+  height: 64px;
   border-radius: 50%;
   object-fit: cover;
   object-position: top center;
   border: 1px solid var(--border);
 }
 
-.avatar-name {
+.team-block-name {
   font-size: 11px;
-  color: var(--text-muted);
+  font-weight: 600;
+  color: var(--text);
   text-align: center;
-  max-width: 60px;
   line-height: 1.3;
 }
 
-.team-strip-link {
+.team-block-role {
+  font-size: 10px;
+  color: var(--text-muted);
+  text-align: center;
+  line-height: 1.3;
+}
+
+.team-block-link {
   font-size: 13px;
   font-weight: 500;
   color: var(--red);
 }
-.team-strip-link:hover { opacity: 0.7; }
+.team-block-link:hover { opacity: 0.7; }
 
-@media (max-width: 600px) {
-  .team-strip-cols { grid-template-columns: 1fr; gap: 36px; }
+@media (max-width: 680px) {
+  .team-strip-blocks { grid-template-columns: 1fr; }
+  .team-block + .team-block { border-left: none; border-top: 1px solid var(--border); }
 }
 
 /* ── Coming soon (home) ──────────────────────────────────────────── */
@@ -888,7 +923,11 @@
   background: var(--bg-dark);
   color: var(--text-inv);
   padding: 96px 32px;
-  text-align: center;
+}
+
+.coming-soon-inner {
+  max-width: 640px;
+  margin: 0 auto;
 }
 
 .coming-soon-label {
@@ -901,21 +940,39 @@
   font-weight: 700;
   letter-spacing: -0.03em;
   color: var(--text-inv);
-  margin-bottom: 20px;
+  margin-bottom: 16px;
 }
 
-.coming-soon-sub {
-  font-size: clamp(16px, 2vw, 20px);
-  color: rgba(232, 226, 216, 0.75);
-  max-width: 480px;
-  margin: 0 auto 12px;
+.coming-soon-tagline {
+  font-size: clamp(15px, 2vw, 18px);
+  color: rgba(232, 226, 216, 0.7);
   line-height: 1.6;
+  margin-bottom: 32px;
 }
 
-.coming-soon-built {
-  font-size: 14px;
-  color: rgba(232, 226, 216, 0.45);
-  margin-bottom: 32px;
+.coming-soon-features {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.coming-soon-features li {
+  font-size: 15px;
+  color: rgba(232, 226, 216, 0.6);
+  padding-left: 20px;
+  position: relative;
+  line-height: 1.5;
+}
+
+.coming-soon-features li::before {
+  content: '—';
+  position: absolute;
+  left: 0;
+  color: var(--red);
+  font-weight: 700;
 }
 
 .coming-soon-note {
@@ -1061,6 +1118,92 @@
   .product-slide-logo { border-right: none; border-bottom: 1px solid var(--border); padding: 36px 24px; }
   .product-slide-body { padding: 28px 24px 36px; }
 }
+
+/* ── Team overview page (/zespol) ────────────────────────────────── */
+.team-overview {
+  display: flex;
+  flex-direction: column;
+}
+
+.team-overview-group {
+  padding: 56px 40px;
+  border-bottom: 1px solid var(--border);
+}
+
+.team-overview-group-dark {
+  background: var(--bg-alt);
+}
+
+.team-overview-group-header {
+  max-width: 800px;
+  margin: 0 auto 40px;
+}
+
+.team-overview-group-title {
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--heading);
+  margin-bottom: 8px;
+}
+
+.team-overview-group-sub {
+  font-size: 14px;
+  color: var(--text-muted);
+  line-height: 1.6;
+}
+
+.team-overview-members {
+  display: flex;
+  gap: 32px;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 800px;
+  margin: 0 auto 32px;
+}
+
+.team-overview-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  width: 100px;
+}
+
+.team-overview-portrait {
+  width: 88px;
+  height: 88px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: top center;
+  border: 1px solid var(--border);
+}
+
+.team-overview-name {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--heading);
+  text-align: center;
+  line-height: 1.3;
+}
+
+.team-overview-role {
+  font-size: 11px;
+  color: var(--text-muted);
+  text-align: center;
+  line-height: 1.3;
+}
+
+.team-overview-link {
+  display: block;
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--red);
+  max-width: 800px;
+  margin: 0 auto;
+}
+.team-overview-link:hover { opacity: 0.7; }
 
 /* ── Games page ──────────────────────────────────────────────────── */
 .games-page { background: var(--bg-dark); }

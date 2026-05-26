@@ -170,15 +170,21 @@
   "teamStrip": {
     "label": "People",
     "kadryLabel": "HR & Admin",
-    "techLabel": "Tech",
-    "kadryLink": "Meet the team →",
+    "kadrySub": "Bożenka, Marta and Julka. They keep the order, the processes, and make sure nobody forgets to book their leave.",
+    "techLabel": "Tech team",
+    "techSub": "Tomek, Ewa, Filip, Damian and Tatiana. They write code, analyse data and find bugs — especially Tatiana.",
+    "kadryLink": "Meet HR & Admin →",
     "techLink": "Meet the tech team →"
   },
   "soon": {
     "label": "Coming soon",
     "title": "Skill Issue",
-    "sub": "Upload your CV. Get an honest assessment and matched job offers.",
-    "built": "Built by Hania. Approved by Bożenka.",
+    "tagline": "Your CV as a recruiter, ATS, and the job market actually see it.",
+    "features": [
+      "CV assessment — honest, no sugarcoating",
+      "ATS score with specific improvement tips",
+      "Matched job offers from Polish and international boards"
+    ],
     "note": "Coming soon."
   },
   "products": {

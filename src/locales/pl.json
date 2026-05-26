@@ -169,16 +169,22 @@
   },
   "teamStrip": {
     "label": "Ludzie",
-    "kadryLabel": "Kadry",
-    "techLabel": "Tech",
-    "kadryLink": "Poznać kadry →",
-    "techLink": "Poznać tech team →"
+    "kadryLabel": "Kadry i administracja",
+    "kadrySub": "Bożenka, Marta i Julka. Pilnują porządku, procesów i tego, żeby nikt nie zapomniał o urlopach.",
+    "techLabel": "Tech team",
+    "techSub": "Tomek, Ewa, Filip, Damian i Tatiana. Piszą kod, analizują dane i szukają bugów — szczególnie Tatiana.",
+    "kadryLink": "Poznaj kadry →",
+    "techLink": "Poznaj tech team →"
   },
   "soon": {
     "label": "Wkrótce",
     "title": "Skill Issue",
-    "sub": "Wgraj CV. Dostań szczerą opinię i dopasowane oferty pracy.",
-    "built": "Zbudowane przez Hanię. Zatwierdzone przez Bożenkę.",
+    "tagline": "Twoje CV widziane oczami rekrutera, ATS-a i rynku pracy.",
+    "features": [
+      "Ocena CV — szczera, bez owijania w bawełnę",
+      "Wynik ATS i konkretne wskazówki co poprawić",
+      "Dopasowane oferty pracy z polskich i zagranicznych serwisów"
+    ],
     "note": "Już wkrótce."
   },
   "products": {
