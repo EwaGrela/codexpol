@@ -9,7 +9,7 @@ export default function Nav() {
   return (
     <nav className="nav">
       <Link to="/" className="nav-logo">
-        <img src={logo} alt="Codexpol" height="32" />
+        <img src={logo} alt="Codexpol" height="40" />
       </Link>
       <ul className="nav-links">
         <li><Link to="/o-nas">{t('nav.about')}</Link></li>
