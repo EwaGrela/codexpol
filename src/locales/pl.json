@@ -16,6 +16,10 @@
     "title": "Historia",
     "events": [
       {
+        "year": "1988",
+        "text": "Zdzisław Krawczyk wraca z Libii. Trzydzieści miesięcy na kontrakcie budowlanym w Trypolisie. Tak się wtedy zarabiało. Dość dolarów, żeby spróbować czegoś własnego."
+      },
+      {
         "year": "1989",
         "text": "Polska powstaje. A my wraz z nią"
       },
@@ -92,9 +96,25 @@
       "bio": "Dołączyła prosto po studiach. Zreorganizowała już trzy procesy. Prowadzi Notion board, którego nikt nie czyta. Ma plik „suggestions (please read)” — Marta otworzyła go dwa razy.",
       "quote": "Bestie, to jest NPC energy."
     },
+    "zdzislaw": {
+      "name": "Zdzisław Krawczyk",
+      "title": "Założyciel",
+      "since": "Codexpol 1989",
+      "bio": "Zarobił w Libii, wrócił z pomysłem. Założył Codexpol w 1989 — firma komputerowa, cokolwiek to wtedy znaczyło. Na software biurowy wpłynęło się stopniowo, w połowie lat 90. Przekazał firmę Mariuszowi w 2018. Pyta czasem jak idzie. Mariusz mówi, że oddzwoni.",
+      "quote": "Trzeba było od czegoś zacząć. Miałem dolary i chciałem robić w komputerach. Wyszło inaczej, ale działa."
+    },
+    "mariusz": {
+      "name": "Mariusz Krawczyk",
+      "title": "Prezes Zarządu",
+      "since": "W Codexpolu od 2018 (oficjalnie)",
+      "bio": "Syn Zdzisława. Przejął firmę w 2018. MBA Koźmiński. W 2019 zaproponował zmianę nazwy na „Codeex”. Bożenka nie zaktualizowała papieru firmowego. Sprawy nie wznowiono. Od 2021 pracuje hybrydowo — z jakiego kraju, różnie. Ostatnio z Bali. Pojawia się na wigilii firmowej, na zdjęciu do stopki maila i gdy trzeba podpisać coś, czego Bożenka podpisać nie może. Co zdarza się coraz rzadziej.",
+      "quote": "Musimy pogadać o strategii."
+    },
     "hania": {
       "name": "Hania Sikorska",
       "title": "Mid-level Developer",
+      "since": "W Codexpolu od 2022",
+      "bio": "Skończyła bioinformatykę. Przyszła jako junior, cicha w spotkaniach, aktywna w pull requestach. W piątek po południu 2024 roku zbudowała scraper do wyszukiwania ofert pracy po CV. Nikomu nie powiedziała. W poniedziałek znalazła go Bożenka.",
       "quote": "Hania to cicha woda. Brzegi rwie.",
       "attribution": "— Bożenka z Kadr"
     },
@@ -172,9 +192,11 @@
     "kadryLabel": "Kadry i administracja",
     "kadrySub": "Bożenka, Marta i Julka. Pilnują porządku, procesów i tego, żeby nikt nie zapomniał o urlopach.",
     "techLabel": "Tech team",
-    "techSub": "Tomek, Ewa, Filip, Damian i Tatiana. Piszą kod, analizują dane i szukają bugów — szczególnie Tatiana.",
+    "techSub": "Tomek, Ewa, Hania, Filip, Damian i Tatiana. Piszą kod, analizują dane i szukają bugów — szczególnie Tatiana.",
     "kadryLink": "Poznaj kadry →",
-    "techLink": "Poznaj tech team →"
+    "techLink": "Poznaj tech team →",
+    "zarzadLabel": "Zarząd",
+    "zarzadSub": "Zdzisław założył. Mariusz kontynuuje. Ostatnio z Bali."
   },
   "soon": {
     "label": "Wkrótce",

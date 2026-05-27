@@ -16,6 +16,10 @@
     "title": "History",
     "events": [
       {
+        "year": "1988",
+        "text": "Zdzisław Krawczyk returns from Libya. Thirty months on a construction contract in Tripoli. That's how you earned serious money back then. Enough dollars to try something of his own."
+      },
+      {
         "year": "1989",
         "text": "Poland is born. So are we."
       },
@@ -92,9 +96,25 @@
       "bio": "Joined straight from university. Has already reorganised three processes. Runs a Notion board nobody uses. Has a doc called \"suggestions (please read)\" — Marta has opened it twice.",
       "quote": "Bestie, that is NPC energy."
     },
+    "zdzislaw": {
+      "name": "Zdzisław Krawczyk",
+      "title": "Founder",
+      "since": "Codexpol 1989",
+      "bio": "Earned it in Libya, came back with an idea. Founded Codexpol in 1989 — a computer company, whatever that meant at the time. Office software came gradually, in the mid-90s. Handed the company to Mariusz in 2018. Still asks how it's going sometimes. Mariusz says he'll call back.",
+      "quote": "Had to start somewhere. I had dollars and wanted to work in computers. Turned out differently, but it works."
+    },
+    "mariusz": {
+      "name": "Mariusz Krawczyk",
+      "title": "CEO",
+      "since": "At Codexpol since 2018 (officially)",
+      "bio": "Son of Zdzisław. Took over in 2018. MBA from Koźmiński. In 2019 proposed rebranding to \"Codeex\". Bożenka didn't update the letterhead. The matter was dropped. Has worked hybrid since 2021 — from which country varies. Recently from Bali. Shows up at the Christmas party, in the email footer photo, and when something needs signing that Bożenka can't sign herself. Which happens less and less.",
+      "quote": "We need to talk strategy."
+    },
     "hania": {
       "name": "Hania Sikorska",
       "title": "Mid-level Developer",
+      "since": "At Codexpol since 2022",
+      "bio": "Studied bioinformatics. Joined as a junior, quiet in meetings, active in pull requests. On a Friday afternoon in 2024 she built a CV-based job listing scraper. Told nobody. Bożenka found it on Monday.",
       "quote": "Hania is still water. She carves the banks.",
       "attribution": "— Bożenka from HR"
     },
@@ -172,9 +192,11 @@
     "kadryLabel": "HR & Admin",
     "kadrySub": "Bożenka, Marta and Julka. They keep the order, the processes, and make sure nobody forgets to book their leave.",
     "techLabel": "Tech team",
-    "techSub": "Tomek, Ewa, Filip, Damian and Tatiana. They write code, analyse data and find bugs — especially Tatiana.",
+    "techSub": "Tomek, Ewa, Hania, Filip, Damian and Tatiana. They write code, analyse data and find bugs — especially Tatiana.",
     "kadryLink": "Meet HR & Admin →",
-    "techLink": "Meet the tech team →"
+    "techLink": "Meet the tech team →",
+    "zarzadLabel": "Management",
+    "zarzadSub": "Zdzisław founded it. Mariusz continues. Recently from Bali."
   },
   "soon": {
     "label": "Coming soon",
