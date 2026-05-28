@@ -54,7 +54,7 @@ function ZarzadCard({ data, portrait }) {
 
 function ZarzadSection({ zdzislaw, mariusz, label, sub }) {
   return (
-    <div className="team-overview-group">
+    <div className="team-overview-group" id="zarzad">
       <div className="team-overview-group-header">
         <h2 className="team-overview-group-title">{label}</h2>
         <p className="team-overview-group-sub">{sub}</p>
@@ -67,9 +67,9 @@ function ZarzadSection({ zdzislaw, mariusz, label, sub }) {
   )
 }
 
-function GroupSection({ members, names, title, sub, to, linkText, dark }) {
+function GroupSection({ members, names, title, sub, to, linkText, dark, id }) {
   return (
-    <div className={`team-overview-group${dark ? ' team-overview-group-dark' : ''}`}>
+    <div id={id} className={`team-overview-group${dark ? ' team-overview-group-dark' : ''}`}>
       <div className="team-overview-group-header">
         <h2 className="team-overview-group-title">{title}</h2>
         <p className="team-overview-group-sub">{sub}</p>
@@ -99,6 +99,12 @@ export default function Team() {
         <h1>{t('teamStrip.label')}</h1>
       </header>
 
+      <nav className="team-jumpnav">
+        <a href="#zarzad">{t('teamStrip.zarzadLabel')}</a>
+        <a href="#kadry">{t('teamStrip.kadryLabel')}</a>
+        <a href="#tech">{t('teamStrip.techLabel')}</a>
+      </nav>
+
       <div className="team-overview">
         <ZarzadSection
           zdzislaw={names.zdzislaw}
@@ -107,6 +113,7 @@ export default function Team() {
           sub={t('teamStrip.zarzadSub')}
         />
         <GroupSection
+          id="kadry"
           members={HR_MEMBERS}
           names={names}
           title={t('teamStrip.kadryLabel')}
@@ -115,6 +122,7 @@ export default function Team() {
           linkText={t('teamStrip.kadryLink')}
         />
         <GroupSection
+          id="tech"
           members={TECH_MEMBERS}
           names={names}
           title={t('teamStrip.techLabel')}

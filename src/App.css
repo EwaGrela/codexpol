@@ -1141,6 +1141,33 @@
 }
 
 /* ── Team overview page (/zespol) ────────────────────────────────── */
+.team-jumpnav {
+  display: flex;
+  gap: 0;
+  border-bottom: 1px solid var(--border);
+  background: var(--bg);
+  position: sticky;
+  top: 64px;
+  z-index: 10;
+}
+
+.team-jumpnav a {
+  padding: 12px 24px;
+  font-family: var(--font-condensed);
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  border-bottom: 2px solid transparent;
+  transition: color 0.15s, border-color 0.15s;
+}
+
+.team-jumpnav a:hover {
+  color: var(--heading);
+  border-bottom-color: var(--red);
+}
+
 .team-overview {
   display: flex;
   flex-direction: column;
