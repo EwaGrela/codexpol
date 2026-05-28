@@ -183,6 +183,10 @@
     "regon": "REGON: 012345678",
     "copy": "Codexpol Sp. z o.o. © 1989–2026. All rights reserved. Especially the ones from the 90s..."
   },
+  "homeAbout": {
+    "p1": "Office software since 1989. Poland changed governments, regulations, and centuries — we just kept coding.",
+    "p2": "Today we also do network security, AI tooling, and a few things clients would rather we didn't mention."
+  },
   "productStrip": {
     "label": "Office software",
     "more": "All products →"

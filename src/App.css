@@ -772,6 +772,22 @@
 }
 
 /* ── Product strip (home) ────────────────────────────────────────── */
+.home-about {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 64px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.home-about p {
+  margin: 0;
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: var(--fg-muted);
+}
+
 .product-strip {
   padding: 56px 32px 48px;
   border-bottom: 1px solid var(--border);
