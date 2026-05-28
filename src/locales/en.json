@@ -238,6 +238,16 @@
         "name": "VATOWIEC",
         "tagline": "Appears whenever the Finance Ministry changes something \"just slightly\" again.",
         "desc": "VAT and JPK declaration software. A small module with enormous psychological support power for accounting departments. Updated after every regulatory change. There are many."
+      },
+      "zapora": {
+        "name": "ZAPORA",
+        "tagline": "Stands between your infrastructure and several thousand servers with bad intentions.",
+        "desc": "Poland's first dedicated anti-DDoS system. Handles volumetric attacks, SYN floods, and other things whose names sound worse than they are. Bożenka thinks it's \"some security program\". She's not wrong."
+      },
+      "legacy": {
+        "name": "LEGACY",
+        "tagline": "Tomek understood it. Tomek is on leave. Now the AI understands it.",
+        "desc": "An AI-powered tool for analysing, documenting, and migrating legacy code to modern technologies. Works with COBOL, VB6, Delphi, 'some Perl from 2003', and several other things you're running in production and prefer not to discuss. Legacy doesn't ask why the code looks the way it does. It just reads it."
       }
     }
   },

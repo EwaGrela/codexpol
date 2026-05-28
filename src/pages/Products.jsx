@@ -5,6 +5,8 @@ import hermesImg   from '../assets/CODEXPOL_loga/HERMES.png'
 import teczkaImg   from '../assets/CODEXPOL_loga/TECZKA_95.png'
 import komBitImg   from '../assets/CODEXPOL_loga/KOM_BIT.png'
 import vatowiecImg from '../assets/CODEXPOL_loga/VATOWIEC.png'
+import zaporaImg   from '../assets/CODEXPOL_loga/zapora.png'
+import legacyImg   from '../assets/CODEXPOL_loga/legacy.png'
 
 const LOGOS = {
   sigmaFk:  sigmaImg,
@@ -12,9 +14,11 @@ const LOGOS = {
   teczka95: teczkaImg,
   komBit:   komBitImg,
   vatowiec: vatowiecImg,
+  zapora:   zaporaImg,
+  legacy:   legacyImg,
 }
 
-const PRODUCT_KEYS = ['sigmaFk', 'hermes', 'teczka95', 'komBit', 'vatowiec']
+const PRODUCT_KEYS = ['sigmaFk', 'hermes', 'teczka95', 'komBit', 'vatowiec', 'zapora', 'legacy']
 
 function ProductSlide({ id, data }) {
   return (

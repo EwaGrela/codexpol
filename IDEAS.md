@@ -1,5 +1,37 @@
 # Codexpol — Ideas & Improvements
 
+## Copywriting — przegląd języka
+
+Cały tekst wymaga przejścia pod kątem lekkości — miejscami za ciężko, za korporacyjnie.
+Najlepiej razem: przeglądamy `pl.json` sekcja po sekcji, podrasowujemy na bieżąco.
+`en.json` aktualizujemy po polskim — EN jest wtórny.
+
+## Estetyka — kierunek
+
+Inspiracja: https://exatel.pl/ — nie 1:1, ale klimat.
+
+- **Ciężar i powaga** — design ma wyglądać jak prawdziwy enterprise, humor wychodzi tylko z copy. Teraz jest trochę za "webowy startup". Więcej wagi, mniej białego.
+- **Typografia** — bardziej ciasna, techniczna, gęstsza. Exatel jest structured i poważny.
+- **Grid** — modułowe bloki zamiast luźnego flow, szczególnie dla produktów.
+- **Trust indicators** — statystyki w Codexpol voice: *"37 lat na rynku. 5 produktów. 1 incydent z drukarką."*
+- **Loga produktów** — zostawiamy jak są, ale ich estetyka jest punktem odniesienia dla strony. Są spójne, mają swój klimat — strona powinna do nich pasować, nie odwrotnie.
+
+## Strona główna — uproszczenie
+
+Home page powinna być: Hero → ProductStrip → krótki paragraf o firmie → Footer.
+TeamStrip i ComingSoon do usunięcia z home — team i Skill Issue są w navbarze.
+Paragraf: 2–3 zdania w stylu Codexpol o tym kim jesteśmy. Treść do napisania.
+
+## Blog firmowy
+
+Opcje:
+
+- **Markdown w repo** — posty jako `.md` pliki, Vite importuje, żadnej bazy, działa na staticu
+- **Headless CMS** (Contentful, Sanity) — backend cudzy, React pobiera przez API, bezpłatne plany wystarczą
+- **Tylko lore** — nie budować technicznie, tylko wspomnieć że istniał. *"Bożenka prowadziła firmowego bloga w latach 2009–2011. Zostały trzy posty."* — najbardziej Codexpol
+
+Jeśli budować: bohaterowie jako autorzy (Bożenka, Marta, Mariusz który napisał jeden post o strategii i zniknął). Django/Flask tylko jeśli naprawdę potrzebny backend.
+
 ## Structure
 
 - [ ] Move Bożenka/Marta/Julka team cards to a subpage (`/kadry` or `/hr`)

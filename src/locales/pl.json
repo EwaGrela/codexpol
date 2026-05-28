@@ -234,10 +234,20 @@
         "tagline": "Wszystko, czego dział HR boi się dotykatć ręcznie w Excelu.",
         "desc": "Kadry, płace, ZUS i urlopy w jednym miejscu. System szczególnie lubiany przez biura rachunkowe i Grażyny, które „klikają tu od piętnastu lat i ma działać”."
       },
-      "vatowiec": {
-        "name": "VATOWIEC",
-        "tagline": "Pojawia się zawsze, gdy Ministerstwo Finansów coś znowu zmieniło „tylko trochę”.",
-        "desc": "Program do deklaracji VAT i JPK. Nieduży moduł o ogromnej mocy psychicznego wsparcia dla księgowości. Aktualizowany po każdej zmianie przepisów. Jest ich dużo."
+      “vatowiec”: {
+        “name”: “VATOWIEC”,
+        “tagline”: “Pojawia się zawsze, gdy Ministerstwo Finansów coś znowu zmieniło „tylko trochę”.”,
+        “desc”: “Program do deklaracji VAT i JPK. Nieduży moduł o ogromnej mocy psychicznego wsparcia dla księgowości. Aktualizowany po każdej zmianie przepisów. Jest ich dużo.”
+      },
+      “zapora”: {
+        “name”: “ZAPORA”,
+        “tagline”: “Stoi między twoją infrastrukturą a kilkoma tysiącami serwerów, które nie mają dobrych intencji.”,
+        “desc”: “Pierwszy polski dedykowany system antyDDoS. Radzi sobie z atakami wolumetrycznymi, SYN flood i innymi rzeczami, których nazwy brzmią gorzej niż są. Bożenka uważa, że to „jakiś program do bezpieczeństwa”. Ma rację.”
+      },
+      “legacy”: {
+        “name”: “LEGACY”,
+        “tagline”: “Tomek to rozumiał. Tomek jest na urlopie. Teraz rozumie to AI.”,
+        “desc”: “AI-powered narzędzie do analizy, dokumentowania i przepisywania legacy kodu na nowsze technologie. Działa na COBOL, VB6, Delphi, „jakimś Perlu z 2003” i kilku innych rzeczach, które macie na produkcji i wolicie o tym nie mówić. Legacy nie pyta dlaczego kod wygląda tak jak wygląda. Po prostu go czyta.”
       }
     }
   },
