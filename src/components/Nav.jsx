@@ -15,6 +15,7 @@ export default function Nav() {
         <li><Link to="/o-nas">{t('nav.about')}</Link></li>
         <li><Link to="/produkty">{t('nav.products')}</Link></li>
         <li><Link to="/zespol">{t('nav.team')}</Link></li>
+        <li><Link to="/gry">{t('nav.games')}</Link></li>
         <li><a href="#wkrotce" className="nav-cta">{t('nav.soon')}</a></li>
       </ul>
       <button className="lang-toggle" onClick={toggle}>{t('nav.lang')}</button>
