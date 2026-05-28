@@ -13,7 +13,6 @@ export default function Hero() {
         {t('hero.headline2')}
       </h1>
       <p className="hero-sub">{t('hero.sub')}</p>
-      <a href="#historia" className="hero-cta">{t('hero.cta')} ↓</a>
     </section>
   )
 }

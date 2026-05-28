@@ -138,21 +138,6 @@
   line-height: 1.6;
 }
 
-.hero-cta {
-  display: inline-block;
-  border: 1px solid rgba(232, 226, 216, 0.2);
-  border-radius: 6px;
-  padding: 12px 28px;
-  font-size: 15px;
-  color: rgba(232, 226, 216, 0.8);
-  transition: border-color 0.2s, color 0.2s;
-}
-
-.hero-cta:hover {
-  border-color: rgba(232, 226, 216, 0.55);
-  color: var(--heading-inv);
-}
-
 /* ── History ─────────────────────────────────────────────────────── */
 .history {
   background: var(--bg-alt);
