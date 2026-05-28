@@ -784,7 +784,7 @@
 }
 
 .product-strip {
-  padding: 80px 40px 72px;
+  padding: 52px 40px 44px;
   border-bottom: 1px solid var(--border);
   border-top: 3px solid var(--navy);
 }
@@ -793,8 +793,10 @@
   display: flex;
   gap: 40px;
   align-items: center;
-  flex-wrap: wrap;
-  margin: 28px 0 32px;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  margin: 20px 0 24px;
+  padding-bottom: 4px;
 }
 
 .product-strip-item {
@@ -805,7 +807,7 @@
 }
 
 .product-strip-item img {
-  height: 96px;
+  height: 72px;
   width: auto;
   object-fit: contain;
   filter: grayscale(20%);
