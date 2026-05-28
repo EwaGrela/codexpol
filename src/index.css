@@ -17,12 +17,12 @@
   --border: #ddd8ce;
   --border-dark: rgba(255, 255, 255, 0.09);
   --nav-bg: #0d1e36;
-  --max-w: 1080px;
+  --max-w: 1280px;
 
   --font-condensed: 'Barlow Condensed', 'Arial Narrow', system-ui, sans-serif;
 
   font-family: system-ui, -apple-system, 'Segoe UI', sans-serif;
-  font-size: 17px;
+  font-size: 18px;
   line-height: 1.65;
   color: var(--text);
   background: var(--bg);
