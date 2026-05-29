@@ -173,7 +173,7 @@
 
 .section-label {
   font-family: var(--font-condensed);
-  font-size: 13px;
+  font-size: 16px;
   font-weight: 700;
   letter-spacing: 0.14em;
   text-transform: uppercase;
@@ -195,8 +195,8 @@
 
 .timeline-entry {
   flex: 0 0 auto;
-  width: 196px;
-  padding: 4px 24px 4px 20px;
+  width: 260px;
+  padding: 8px 28px 8px 24px;
   border-left: 1px solid var(--border);
   position: relative;
   transition: width 0.25s ease, background 0.2s;
@@ -204,7 +204,7 @@
 }
 
 .timeline-entry:hover {
-  width: 280px;
+  width: 360px;
   background: rgba(173, 53, 41, 0.04);
 }
 
@@ -233,7 +233,7 @@
 .timeline-year {
   display: block;
   font-family: ui-monospace, Consolas, monospace;
-  font-size: 12px;
+  font-size: 15px;
   font-weight: 600;
   color: var(--red);
   margin-bottom: 7px;
@@ -241,9 +241,9 @@
 }
 
 .timeline-text {
-  font-size: 14px;
+  font-size: 16px;
   color: var(--text-muted);
-  line-height: 1.55;
+  line-height: 1.6;
 }
 
 /* ── Team ────────────────────────────────────────────────────────── */
