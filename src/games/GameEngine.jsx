@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { useTranslation } from 'react-i18next'
 
 const COLORS = {
   w: '#f0f0f0',  // white
@@ -38,6 +39,7 @@ function ColoredArt({ text }) {
 }
 
 export default function GameEngine({ scenes, start, initialFlags = {} }) {
+  const { t } = useTranslation()
   const [sceneId, setSceneId] = useState(start)
   const [flags, setFlags] = useState(initialFlags)
 
@@ -78,7 +80,7 @@ export default function GameEngine({ scenes, start, initialFlags = {} }) {
               <div className="game-ending-label">{scene.endingLabel}</div>
             )}
             <button className="game-btn game-btn-restart" onClick={restart}>
-              ↩ Zagraj ponownie
+              {t('games.ctaRestart')}
             </button>
           </>
         ) : (

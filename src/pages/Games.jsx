@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 
-function GameCard({ data, href }) {
+function GameCard({ data, href, t }) {
   return (
     <div className="game-card">
       <div className="game-number">{data.number}</div>
@@ -21,8 +21,8 @@ function GameCard({ data, href }) {
       </blockquote>
       <div className="game-card-footer">
         {href
-          ? <Link to={href} className="game-card-cta">Zagraj →</Link>
-          : <span className="game-card-cta game-card-cta--soon">wkrótce</span>
+          ? <Link to={href} className="game-card-cta">{t('games.cta')}</Link>
+          : <span className="game-card-cta game-card-cta--soon">{t('games.ctaSoon')}</span>
         }
       </div>
     </div>
@@ -42,8 +42,8 @@ export default function Games() {
       </header>
 
       <div className="games-diptych">
-        <GameCard data={podroz} href="/gry/podroz" />
-        <GameCard data={wczasy} href="/gry/wczasy" />
+        <GameCard data={podroz} href="/gry/podroz" t={t} />
+        <GameCard data={wczasy} href="/gry/wczasy" t={t} />
       </div>
 
       <p className="games-epilogue">{t('games.epilogue')}</p>
