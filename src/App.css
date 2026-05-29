@@ -839,6 +839,58 @@
 }
 .product-strip-more:hover { opacity: 0.7; }
 
+/* ── Trust strip (home) ──────────────────────────────────────────── */
+.trust-strip {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  background: var(--bg-dark);
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+}
+
+.trust-stat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 48px 24px;
+  gap: 4px;
+  border-right: 1px solid rgba(255,255,255,0.06);
+}
+.trust-stat:last-child { border-right: none; }
+
+.trust-number {
+  font-family: var(--font-condensed);
+  font-size: 96px;
+  font-weight: 800;
+  line-height: 1;
+  color: #fff;
+  letter-spacing: -0.02em;
+}
+
+.trust-label {
+  font-family: var(--font-condensed);
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--red);
+}
+
+.trust-sub {
+  font-size: 12px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: rgba(255,255,255,0.3);
+  margin-top: 2px;
+}
+
+@media (max-width: 600px) {
+  .trust-strip { grid-template-columns: 1fr; }
+  .trust-stat { border-right: none; border-bottom: 1px solid rgba(255,255,255,0.06); padding: 32px 24px; }
+  .trust-stat:last-child { border-bottom: none; }
+  .trust-number { font-size: 72px; }
+}
+
 /* ── Team strip (home) ───────────────────────────────────────────── */
 .team-strip {
   border-bottom: 1px solid var(--border);

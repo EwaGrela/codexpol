@@ -3,6 +3,7 @@ import { useTranslation } from 'react-i18next'
 import Nav from './components/Nav'
 import Hero from './sections/Hero'
 import ProductStrip from './sections/ProductStrip'
+import TrustStrip from './sections/TrustStrip'
 import Footer from './sections/Footer'
 import About from './pages/About'
 import Team from './pages/Team'
@@ -30,6 +31,7 @@ function Home() {
       <main>
         <Hero />
         <ProductStrip />
+        <TrustStrip />
         <section className="home-about">
           <p>{t('homeAbout.p1')}</p>
           <p>{t('homeAbout.p2')}</p>

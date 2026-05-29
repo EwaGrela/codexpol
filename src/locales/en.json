@@ -286,5 +286,22 @@
     "title": "About",
     "sub": "Office software since 1989. Poland, governments, economic transformations — we just kept coding.",
     "historyTitle": "History"
+  },
+  "trust": {
+    "years": {
+      "number": "37",
+      "label": "years",
+      "sub": "since 1989"
+    },
+    "products": {
+      "number": "7",
+      "label": "flagship",
+      "sub": "products"
+    },
+    "incident": {
+      "number": "1",
+      "label": "incident",
+      "sub": "with a printer"
+    }
   }
 }

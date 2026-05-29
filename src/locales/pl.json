@@ -286,5 +286,22 @@
     "title": "O nas",
     "sub": "Software biurowy od 1989. Polska, zmiany rządów, transformacje gospodarcze — my po prostu kodowaliśmy.",
     "historyTitle": "Historia"
+  },
+  "trust": {
+    "years": {
+      "number": "37",
+      "label": "lat",
+      "sub": "od 1989"
+    },
+    "products": {
+      "number": "7",
+      "label": "flagowych",
+      "sub": "produktów"
+    },
+    "incident": {
+      "number": "1",
+      "label": "incydent",
+      "sub": "z drukarką"
+    }
   }
 }
