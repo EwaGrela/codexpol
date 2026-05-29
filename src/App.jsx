@@ -13,6 +13,7 @@ import Products from './pages/Products'
 import Games from './pages/Games'
 import Podroz from './pages/Podroz'
 import Wczasy from './pages/Wczasy'
+import Soon from './pages/Soon'
 import './App.css'
 
 function Layout() {
@@ -56,6 +57,7 @@ export default function App() {
           <Route path="/gry"        element={<Games />} />
           <Route path="/gry/podroz" element={<Podroz />} />
           <Route path="/gry/wczasy" element={<Wczasy />} />
+          <Route path="/wkrotce"    element={<Soon />} />
         </Route>
       </Routes>
     </BrowserRouter>
