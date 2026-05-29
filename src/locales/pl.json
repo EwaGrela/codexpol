@@ -114,7 +114,7 @@
       "name": "Hania Sikorska",
       "title": "Mid-level Developer",
       "since": "W Codexpolu od 2022",
-      "bio": "Skończyła bioinformatykę. Przyszła jako junior, cicha w spotkaniach, aktywna w pull requestach. W piątek po południu 2024 roku zbudowała scraper do wyszukiwania ofert pracy po CV. Nikomu nie powiedziała. W poniedziałek znalazła go Bożenka.",
+      "bio": "Skończyła bioinformatykę. Przyszła jako junior, cicha na spotkaniach, aktywna w pull requestach. W piątek po południu 2024 roku zbudowała scraper do wyszukiwania ofert pracy dopasowanych do CV. Nikomu nie powiedziała. W poniedziałek znalazła go Bożenka.",
       "quote": "Hania to cicha woda. Brzegi rwie.",
       "attribution": "— Bożenka z Kadr"
     },
@@ -130,7 +130,7 @@
       "title": "Senior Fullstack Engineer",
       "since": "W Codexpolu od 2019",
       "bio": "Pisze backend zanim inni skończą kawę, a frontend poprawia zanim ktoś zdąży otworzyć ticket. Code review traktuje jako sport kontaktowy. Jej komentarze są krótkie, rzeczowe i lekko przerażające.",
-      "quote": "Refactor to nie przekleństwo."
+      "quote": "Refactor nie boli. Boli dług techniczny."
     },
     "filip": {
       "name": "Filip",
@@ -143,14 +143,14 @@
       "name": "Damian",
       "title": "Data Analyst",
       "since": "W Codexpolu od 2021",
-      "bio": "Zamienia dane w wykresy, wykresy w wnioski, wnioski w prezentacje. Wie dokładnie, co mówią liczby. To jest właśnie problem.",
-      "quote": "Dane nie kłamią. Ludzie kłamią. Dane pokazują jak."
+      "bio": "Zamienia dane w wykresy, wykresy we wnioski, wnioski w prezentacje. Wie dokładnie, co mówią liczby.",
+      "quote": "Ludzie? Czasem kłamią, ale liczby i dane? Nigdy!"
     },
     "tatiana": {
       "name": "Tatiana",
       "title": "Tester",
       "since": "W Codexpolu od 2020",
-      "bio": "Znajduje bugi w rzeczach, które „na pewno działają”. Jej lista testów ma więcej pozycji niż lista życzeń Filipa do następnego sprintu. Nawet Ewa i Tomek boją się jej Slacka.",
+      "bio": "Znajduje bugi w rzeczach, które „na pewno działają”. Jej lista testów ma więcej pozycji niż lista życzeń Filipa do następnego sprintu. Nawet Ewa i Tomek wstrzymują oddech, zanim otworzą wiadomość od niej.",
       "quote": "Bugs don't sleep. Neither do I."
     }
   },
