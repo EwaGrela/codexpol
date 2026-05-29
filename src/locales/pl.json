@@ -220,22 +220,22 @@
     "items": {
       "sigmaFk": {
         "name": "SIGMA FK",
-        "tagline": "Liczy VAT od 1995. Więcej zmian w przepisach niż niejeden księgowy chce pamiętać.",
+        "tagline": "Stabilny jak zwrot VAT, który nigdy nie przychodzi. Ale szybszy.",
         "desc": "Legendarny system finansowo-księgowy CODEXPOL-u, który pamięta więcej zmian w VAT niż przeciętny księgowy chce pamiętać. Stabilny, rozbudowany i od lat uruchamiany codziennie o 7:59 przez panie z działu księgowości w całej Polsce."
       },
       "hermes": {
         "name": "HERMES Handel Magazyn",
         "tagline": "Przeżył trzech właścicieli hurtowni i jednego szwagra od IT.",
-        "desc": "System do obsługi sprzedaży i magazynu, który przeżył trzy remonty hurtowni, pięć wymian komputerów i jednego szwagra „od IT”. Nadal działa szybko nawet na komputerze, który ma naklejkę „Intel Inside” z 2006 roku."
+        "desc": "System do obsługi sprzedaży i magazynu, który przeżył trzy remonty hurtowni, pięć wymian komputerów i dwie próby wdrożenia czegoś „nowoczesnego”. Nadal działa szybko nawet na komputerze, który ma naklejkę „Intel Inside” z 2006 roku."
       },
       "teczka95": {
         "name": "TECZKA 95",
-        "tagline": "Nazwa została w 1995. Klienci są przyzwyczajeni.",
-        "desc": "Archiwizacja dokumentów i akt pracowniczych dla firm, które mają segregatory starsze niż część pracowników. Nazwa została w 1995 i nikt nie widzi powodu, żeby ją zmieniać, bo „klienci są przyzwyczajeni”."
+        "tagline": "Dla firm, które mają segregatory starsze niż część pracowników.",
+        "desc": "Archiwizacja dokumentów i akt pracowniczych, cyfrowa i papierowa. Działa od 1995. Nazwa nie zmieniła się od początku. Skoro klienci wiedzą, o co chodzi — nie ma tematu."
       },
       "komBit": {
         "name": "KOM-BIT Kadry i Płace",
-        "tagline": "Wszystko, czego dział HR boi się dotykatć ręcznie w Excelu.",
+        "tagline": "Wszystko, czego dział HR boi się dotykać ręcznie w Excelu.",
         "desc": "Kadry, płace, ZUS i urlopy w jednym miejscu. System szczególnie lubiany przez biura rachunkowe i Grażyny, które „klikają tu od piętnastu lat i ma działać”."
       },
       "vatowiec": {
@@ -251,7 +251,7 @@
       "legacy": {
         "name": "LEGACY",
         "tagline": "Tomek to rozumiał. Tomek jest na urlopie. Teraz rozumie to AI.",
-        "desc": "AI-powered narzędzie do analizy, dokumentowania i przepisywania legacy kodu na nowsze technologie. Działa na COBOL, VB6, Delphi, „jakiśm Perlu z 2003” i kilku innych rzeczach, które macie na produkcji i wolicie o tym nie mówić. Legacy nie pyta dlaczego kod wygląda tak jak wygląda. Po prostu go czyta."
+        "desc": "AI-powered narzędzie do analizy, dokumentowania i przepisywania legacy kodu na nowsze technologie. Działa na COBOL, VB6, Delphi, „jakimś Perlu z 2003” i kilku innych rzeczach, które macie na produkcji i wolicie o tym nie mówić. Legacy nie pyta dlaczego kod wygląda tak jak wygląda. Po prostu go czyta."
       }
     }
   },

@@ -220,18 +220,18 @@
     "items": {
       "sigmaFk": {
         "name": "SIGMA FK",
-        "tagline": "Counting VAT since 1995. More tax code changes than any accountant wants to remember.",
+        "tagline": "Stable as a VAT refund that never arrives. But faster.",
         "desc": "Codexpol's legendary financial and accounting system, which has survived more VAT changes than the average accountant cares to remember. Stable, comprehensive, and launched every morning at 7:59 by accounting departments across Poland."
       },
       "hermes": {
         "name": "HERMES Handel Magazyn",
         "tagline": "Survived three warehouse renovations and one brother-in-law from IT.",
-        "desc": "A sales and warehouse system that has outlasted three warehouse renovations, five computer replacements, and one brother-in-law \"from IT\". Still runs fast even on a machine with an Intel Inside sticker from 2006."
+        "desc": "A sales and warehouse system that has outlasted three warehouse renovations, five computer replacements, and two attempts at implementing something \"modern\". Still runs fast even on a machine with an Intel Inside sticker from 2006."
       },
       "teczka95": {
         "name": "TECZKA 95",
-        "tagline": "The name stayed in 1995. Clients are used to it.",
-        "desc": "Document and personnel file archiving for companies with binders older than some of their employees. The name stayed in 1995 and nobody sees a reason to change it, because \"clients are used to it\"."
+        "tagline": "For companies with binders older than some of their employees.",
+        "desc": "Document and personnel file archiving, digital and paper. Running since 1995. The name has not changed since the beginning. Clients know what it is — nothing to discuss."
       },
       "komBit": {
         "name": "KOM-BIT Kadry i Płace",
