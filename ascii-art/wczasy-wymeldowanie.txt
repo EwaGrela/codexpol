@@ -1,0 +1,20 @@
+
+  _____________________________________________
+ |                WYMELDOWANIE                 |
+ |_____________________________________________|
+ |                                             |
+ |  Pokoj:  303          Liczba dni:  7        |
+ |  Oplata: 420,00 zl                         |
+ |  Doplata (telefon):    3,40 zl             |
+ |  Reklamacja basenu:    ODRZUCONA           |
+ |                                             |
+ |  Prosimy o opinie:                         |
+ |  [ ] doskonale  [ ] dobrze  [X] srednio   |
+ |                                             |
+ |  Podpis: _____________________             |
+ |                                             |
+ |_____________________________________________|
+
+  "Serdecznie zapraszamy za rok."
+  Nie wracasz za rok.
+  Wracasz za rok.

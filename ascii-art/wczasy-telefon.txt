@@ -1,0 +1,22 @@
+
+  _____________________________________________
+ |         BUDKA TELEFONICZNA - PARTER          |
+ |_____________________________________________|
+ |                                             |
+ |    ___________                             |
+ |   |  [słuch.] |    O  <- Ty               |
+ |   |   _____   |   /|\                     |
+ |   |  | ### |  |   / \                     |
+ |   |  |_____|  |                            |
+ |   |___________|                            |
+ |                                             |
+ |   Rozmowa: 1,20 zl / min                  |
+ |   Masz żetony: 4                          |
+ |                                             |
+ |_____________________________________________|
+
+  Zona odbiera po pierwszym sygnale.
+  Mówisz że wracasz jutro.
+  Ona pyta czy coś się stało.
+  Mówisz że nie. To jest prawda.
+  To jest też nieprawda.

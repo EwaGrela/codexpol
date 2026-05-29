@@ -1,0 +1,295 @@
+{
+  "games": {
+
+    "podroz": {
+      "title": "PODRÓŻ SŁUŻBOWA",
+      "subtitle": "1991 · Atari 800XL, PC (DOS) · 23 kopie sprzedane",
+      "start": "pd_peron",
+      "scenes": {
+
+        "pd_peron": {
+          "art": "podroz-peron.txt",
+          "choices": [
+            { "label": "Czekaj na pociąg", "next": "pd_przedzial" }
+          ]
+        },
+
+        "pd_przedzial": {
+          "art": "podroz-przedział.txt",
+          "choices": [
+            { "label": "Jedź dalej", "next": "pd_katowice_dworzec" }
+          ]
+        },
+
+        "pd_katowice_dworzec": {
+          "art": "podroz-katowice-dworzec.txt",
+          "choices": [
+            { "label": "Zapytaj o drogę", "next": "pd_szukanie_biura" },
+            { "label": "Idź na własną rękę", "next": "pd_szukanie_biura" }
+          ],
+          "note": "Obie opcje prowadzą do tego samego miejsca. Pierwsza z komentarzem że wskazówki były błędne."
+        },
+
+        "pd_szukanie_biura": {
+          "art": "podroz-szukanie-biura.txt",
+          "choices": [
+            { "label": "Wejdź do baru mlecznego", "next": "pd_bar_mleczny" },
+            { "label": "Nie masz czasu", "next": "pd_biuro" }
+          ]
+        },
+
+        "pd_bar_mleczny": {
+          "art": "podroz-bar-mleczny.txt",
+          "choices": [
+            { "label": "Zjedz i idź do biura", "next": "pd_biuro" }
+          ]
+        },
+
+        "pd_biuro": {
+          "art": "podroz-biuro.txt",
+          "choices": [
+            { "label": "Zapytaj o błąd w fakturze", "next": "pd_argumentacja" },
+            { "label": "Podpisz od razu", "next": "pd_faktura" }
+          ]
+        },
+
+        "pd_argumentacja": {
+          "art": "podroz-argumentacja.txt",
+          "choices": [
+            { "label": "Czekaj na Panią Krystynę", "next": "pd_faktura" }
+          ]
+        },
+
+        "pd_faktura": {
+          "art": "podroz-faktura.txt",
+          "choices": [
+            { "label": "Podpisz fakturę", "next": "pd_kiosk" }
+          ],
+          "note": "Jedyna opcja. Nie ma innego wyjścia."
+        },
+
+        "pd_kiosk": {
+          "art": "podroz-kiosk.txt",
+          "choices": [
+            { "label": "Zostań na ławce", "next": "pd_powrot_peron" }
+          ]
+        },
+
+        "pd_powrot_peron": {
+          "art": "podroz-powrot.txt",
+          "choices": [
+            { "label": "Wsiądź do pociągu", "next": "pd_przedzial_powrot" }
+          ]
+        },
+
+        "pd_przedzial_powrot": {
+          "art": "podroz-przedział-powrot.txt",
+          "choices": [
+            { "label": "Wróć do Bydgoszczy", "next": "pd_ksiegowosc" }
+          ]
+        },
+
+        "pd_ksiegowosc": {
+          "art": "podroz-ksiegowosc.txt",
+          "ending": true,
+          "choices": []
+        }
+
+      }
+    },
+
+    "wczasy": {
+      "title": "WCZASY POD GRUSZĄ",
+      "subtitle": "1991 · Atari 800XL · 11 kopii (4 zwroty)",
+      "start": "wc_recepcja",
+      "flags": {
+        "knocked": false,
+        "complained": false
+      },
+      "scenes": {
+
+        "wc_recepcja": {
+          "art": "wczasy-recepcja.txt",
+          "day": 1,
+          "choices": [
+            { "label": "Idź do pokoju", "next": "wc_pokoj" }
+          ]
+        },
+
+        "wc_pokoj": {
+          "art": "wczasy-pokoj.txt",
+          "day": 1,
+          "choices": [
+            { "label": "Zapukaj do pokoju 304", "next": "wc_pukanie", "setsFlag": { "knocked": true } },
+            { "label": "Idź spać", "next": "wc_stolowka", "setsFlag": { "knocked": false } }
+          ]
+        },
+
+        "wc_pukanie": {
+          "art": "wczasy-pukanie.txt",
+          "day": 1,
+          "choices": [
+            { "label": "Zapukaj", "next": "wc_przy_stole" },
+            { "label": "Zawróć", "next": "wc_stolowka", "setsFlag": { "knocked": false } }
+          ]
+        },
+
+        "wc_przy_stole": {
+          "art": "wczasy-przy-stole.txt",
+          "day": 1,
+          "choices": [
+            { "label": "Graj do końca nocy", "next": "wc_stolowka" }
+          ]
+        },
+
+        "wc_stolowka": {
+          "art": "wczasy-stolowka.txt",
+          "day": 2,
+          "choices": [
+            { "label": "Idź na basen", "next": "wc_basen" }
+          ]
+        },
+
+        "wc_basen": {
+          "art": "wczasy-basen.txt",
+          "day": 2,
+          "choices": [
+            { "label": "Wróć do pokoju", "next": "wc_widok" }
+          ]
+        },
+
+        "wc_widok": {
+          "art": "wczasy-widok.txt",
+          "day": 3,
+          "choices": [
+            { "label": "Następny dzień", "next": "wc_wycieczka_wybor" }
+          ]
+        },
+
+        "wc_wycieczka_wybor": {
+          "art": "wczasy-autokar.txt",
+          "day": 4,
+          "choices": [
+            { "label": "Jedź na zamek", "next": "wc_zamek" },
+            { "label": "Zostań w pokoju", "next": "wc_zostal" }
+          ]
+        },
+
+        "wc_zamek": {
+          "art": "wczasy-zamek.txt",
+          "day": 4,
+          "choices": [
+            { "label": "Wróć do ośrodka", "next": "wc_karty" }
+          ]
+        },
+
+        "wc_zostal": {
+          "art": "wczasy-zostal.txt",
+          "day": 4,
+          "choices": [
+            { "label": "Wieczór w pokoju", "next": "wc_karty" }
+          ]
+        },
+
+        "wc_karty": {
+          "art": "wczasy-karty.txt",
+          "day": 5,
+          "choices": [
+            { "label": "Następny dzień", "next": "wc_telefon_wybor" }
+          ]
+        },
+
+        "wc_telefon_wybor": {
+          "art": "wczasy-pokoj.txt",
+          "day": 6,
+          "note": "Reuse pokój art. Potrzebny osobny tekst narracyjny — dzień 6, zmęczenie.",
+          "choices": [
+            { "label": "Zadzwoń do domu", "next": "wc_telefon" },
+            { "label": "Zostań do końca", "next": "wc_reklamacja_wybor" }
+          ]
+        },
+
+        "wc_telefon": {
+          "art": "wczasy-telefon.txt",
+          "day": 6,
+          "choices": [
+            { "label": "Wyjedź jutro rano", "next": "wc_wyjazd_wczesny" }
+          ]
+        },
+
+        "wc_wyjazd_wczesny": {
+          "art": "wczasy-wyjazd-wczesny.txt",
+          "day": 6,
+          "choices": [
+            { "label": "Podpisz i wyjedź", "next": "wc_koniec_d" }
+          ]
+        },
+
+        "wc_reklamacja_wybor": {
+          "art": "wczasy-wymeldowanie.txt",
+          "day": 7,
+          "note": "Reuse wymeldowanie art dla ostatniego ranka. Potrzebny osobny tekst.",
+          "choices": [
+            { "label": "Złóż reklamację", "next": "wc_reklamacja", "setsFlag": { "complained": true } },
+            { "label": "Daj spokój", "next": "wc_wymeldowanie" }
+          ]
+        },
+
+        "wc_reklamacja": {
+          "art": "wczasy-reklamacja.txt",
+          "day": 7,
+          "choices": [
+            { "label": "Złóż i wyjdź", "next": "wc_koniec_c" }
+          ]
+        },
+
+        "wc_wymeldowanie": {
+          "art": "wczasy-wymeldowanie.txt",
+          "day": 7,
+          "choices": [
+            { "label": "Wyjedź", "next": "wc_router" }
+          ]
+        },
+
+        "wc_router": {
+          "note": "Scena techniczna bez art — tylko routing na podstawie flagi.",
+          "route": {
+            "flag": "knocked",
+            "true": "wc_koniec_b",
+            "false": "wc_koniec_a"
+          }
+        },
+
+        "wc_koniec_a": {
+          "art": "wczasy-koniec-a.txt",
+          "ending": true,
+          "endingLabel": "Zakończenie I — Wróciłeś.",
+          "choices": []
+        },
+
+        "wc_koniec_b": {
+          "art": "wczasy-koniec-b.txt",
+          "ending": true,
+          "endingLabel": "Zakończenie II — Asymilacja.",
+          "choices": []
+        },
+
+        "wc_koniec_c": {
+          "art": "wczasy-koniec-c.txt",
+          "ending": true,
+          "endingLabel": "Zakończenie III — Zakaz wstępu.",
+          "choices": []
+        },
+
+        "wc_koniec_d": {
+          "art": "wczasy-koniec-d.txt",
+          "ending": true,
+          "endingLabel": "Zakończenie IV — Wyjechałeś wcześniej.",
+          "choices": []
+        }
+
+      }
+    }
+
+  }
+}

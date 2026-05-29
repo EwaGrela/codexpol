@@ -10,6 +10,8 @@ import HrTeam from './pages/HrTeam'
 import TechTeam from './pages/TechTeam'
 import Products from './pages/Products'
 import Games from './pages/Games'
+import Podroz from './pages/Podroz'
+import Wczasy from './pages/Wczasy'
 import './App.css'
 
 function Layout() {
@@ -49,7 +51,9 @@ export default function App() {
           <Route path="/kadry"    element={<HrTeam />} />
           <Route path="/tech"     element={<TechTeam />} />
           <Route path="/produkty" element={<Products />} />
-          <Route path="/gry"      element={<Games />} />
+          <Route path="/gry"        element={<Games />} />
+          <Route path="/gry/podroz" element={<Podroz />} />
+          <Route path="/gry/wczasy" element={<Wczasy />} />
         </Route>
       </Routes>
     </BrowserRouter>

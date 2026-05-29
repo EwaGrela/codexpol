@@ -1,0 +1,20 @@
+
+  _____________________________________________
+ |        KATOWICE  DWORZEC GLOWNY             |
+ |_____________________________________________|
+ |                                             |
+ |  [WYJSCIE] [WYJSCIE] [WYJSCIE] [WYJSCIE]  |
+ |     Pn        Pd       Wsch      Zach       |
+ |                                             |
+ |       ?                                     |
+ |   O <- Zenon                               |
+ |  /|\  (trzyma kartke z adresem)            |
+ |  / \                                        |
+ |                                             |
+ |  ul. Stalowa 14    <- adres w teczce       |
+ |                                             |
+ |_____________________________________________|
+
+  Cztery wyjscia. Kartka mowi "kolo dworca".
+  Zenon nie wie po ktorej stronie jest "kolo".
+  Nikt nie stoi. Nie ma kogo zapytac.

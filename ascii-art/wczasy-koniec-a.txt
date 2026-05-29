@@ -1,0 +1,19 @@
+
+  _____________________________________________
+ |                                             |
+ |            ZAKOŃCZENIE  I                   |
+ |            Wróciłeś.                        |
+ |                                             |
+ |   O  <- Ty                                  |
+ |  /|\  [walizka]  ->  [przystanek PKS]      |
+ |  / \                                        |
+ |                                             |
+ |         [autobus: odjazd 11:05]            |
+ |         [bilet: 12,50 zl]                  |
+ |                                             |
+ |_____________________________________________|
+
+  Wróciłeś w niedziele o 15:30.
+  Zona zapytala jak bylo.
+  Powiedziales "normalnie".
+  To bylo prawdziwe slowo.

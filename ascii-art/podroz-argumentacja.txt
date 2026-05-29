@@ -1,0 +1,20 @@
+
+  _____________________________________________
+ |  ZARZAD REJONOWY DS. LOGISTYKI - KATOWICE   |
+ |_____________________________________________|
+ |                                             |
+ |  "Ale ta kwota jest bledna."                |
+ |                                             |
+ |  Pani Krystyna patrzy przez chwile.         |
+ |  Wstaje. Bierze torebke.                   |
+ |                                             |
+ |   O  <- Pani Krystyna                       |
+ |  /|>  [torebka]  ->  [wyjscie]             |
+ |  / \                                        |
+ |                                             |
+ |                      [zegar: 14:02]        |
+ |_____________________________________________|
+
+  Wroci o 14:30. Tak powiedzial pan z sasied.
+  biura. Czekasz. Jest jedno krzeslo.
+  Krzeslo ma trzy nogi.

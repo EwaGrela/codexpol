@@ -1,0 +1,21 @@
+
+  _____________________________________________
+ |                                             |
+ |   KIOSK RUCHU  -  PERON 2  KATOWICE        |
+ |   ____________________________________      |
+ |  |  [Przekroj] [Sport] [Trybuna Ludu] |    |
+ |  |  [cukierki] [guma]  [zapałki]      |    |
+ |  |  [Sprite 0,33l]  [oranżada]        |    |
+ |  |____________________________________|    |
+ |                                             |
+ |         O  <- Pan w okienku                 |
+ |        /|\                                  |
+ |        / \                                  |
+ |                                             |
+ |_____________________________________________|
+
+  Masz banknot pięćdziesięciozłotowy.
+  Sprite kosztuje 3,50 zł.
+  Pan nie ma reszty z pięćdziesięciu.
+  Pan ma resztę z dwudziestu.
+  Nie masz dwudziestu.

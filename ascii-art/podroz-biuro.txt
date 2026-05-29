@@ -1,0 +1,19 @@
+
+  _____________________________________________
+ |  ZARZAD REJONOWY DS. LOGISTYKI - KATOWICE   |
+ |_____________________________________________|
+ |                                             |
+ |  [segregator][segregator][segregator]       |
+ |                                             |
+ |     ___________________                    |
+ |    |  IN  |  OUT |ARCH. |    (@)  <- popielniczka
+ |    |______|______|______|                  |
+ |    | ^^^  |      |      |   __[]__  <- stempel
+ |    |______|______|______|                  |
+ |                 O                           |
+ |                /|\ <- Pani Krystyna         |
+ |               / \                           |
+ |_____________________________________________|
+
+  "Pan czeka. Pani Krystyna wroci po 14:30."
+  Jest 13:47.
