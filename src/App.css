@@ -613,6 +613,69 @@
   flex: 1;
 }
 
+/* ── Mystery / easter egg card ───────────────────────────────────── */
+.mystery-card {
+  all: unset;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  border: 1px dashed var(--border);
+  border-radius: 3px;
+  overflow: hidden;
+  background: var(--bg);
+  opacity: 0.55;
+  transition: opacity 0.2s, border-color 0.2s;
+}
+.mystery-card:hover {
+  opacity: 0.85;
+  border-color: var(--red);
+  border-style: dashed;
+}
+
+.mystery-portrait {
+  background: #e8e4dc;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.mystery-q {
+  font-family: var(--font-condensed);
+  font-size: 96px;
+  font-weight: 800;
+  color: rgba(0,0,0,0.12);
+  line-height: 1;
+  user-select: none;
+}
+
+.mystery-name {
+  color: var(--text-muted) !important;
+  letter-spacing: 0.04em;
+}
+
+.mystery-hint {
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+.mystery-revealed {
+  animation: reveal 0.35s ease-out;
+}
+
+@keyframes reveal {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.team-quote-attr {
+  display: block;
+  font-size: 11px;
+  font-style: normal;
+  color: var(--text-muted);
+  margin-top: 6px;
+  letter-spacing: 0.04em;
+}
+
 .hania-portrait {
   width: 38px;
   height: 38px;

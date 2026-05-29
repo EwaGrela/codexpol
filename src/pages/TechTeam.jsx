@@ -4,7 +4,7 @@ import ewaImg from '../assets/new_team_characters/ewa.png'
 import filipImg from '../assets/new_team_characters/filip.png'
 import damianImg from '../assets/new_team_characters/damian.png'
 import tatianaImg from '../assets/new_team_characters/tatiana.png'
-import haniaImg from '../assets/new_team_characters/hania.png'
+import haniaImg from '../assets/new_team_characters/hania_focused.png'
 
 const PORTRAITS = {
   tomek:   tomekImg,
