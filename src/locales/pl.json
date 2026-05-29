@@ -86,8 +86,8 @@
       "name": "Marta",
       "title": "Head of Product",
       "since": "W Codexpolu od 2016",
-      "bio": "Miała zostać dwa lata. Jest do dziś. Robi roadmapy, zarządza klientami, prowadzi Secret Santa z arkuszem warunkowego formatowania.",
-      "quote": "To dobry początek."
+      "bio": "Head of Product zanim ktokolwiek tu wiedział, co to znaczy. Robi roadmapy, zarządza klientami, prowadzi Secret Santa z arkuszem warunkowego formatowania.",
+      "quote": "Zostałam na dwa lata. Minęło dziesięć. Chyba mi tu dobrze."
     },
     "julka": {
       "name": "Julka z HR-u",
@@ -100,8 +100,8 @@
       "name": "Zdzisław Krawczyk",
       "title": "Założyciel",
       "since": "Codexpol 1989",
-      "bio": "Zarobił w Libii, wrócił z pomysłem. Założył Codexpol w 1989 — firma komputerowa, cokolwiek to wtedy znaczyło. Na software biurowy wpłynęło się stopniowo, w połowie lat 90. Przekazał firmę Mariuszowi w 2018. Pyta czasem jak idzie. Mariusz mówi, że oddzwoni.",
-      "quote": "Trzeba było od czegoś zacząć. Miałem dolary i chciałem robić w komputerach. Wyszło inaczej, ale działa."
+      "bio": "Zarobił w Libii, wrócił z kapitałem i pomysłem. Założył Codexpol w 1989 — komputery, potem własny software biurowy. W 2018 przekazał firmę Mariuszowi. Syn przejął, rozwija, jeździ po świecie. Dom w Konstancinie, żona, firma w dobrych rękach. Mówi, że mu się udało. I tak to wygląda.",
+      "quote": "Ryzykowałem. Wyszło. Nie żałuję."
     },
     "mariusz": {
       "name": "Mariusz Krawczyk",
@@ -150,7 +150,7 @@
       "name": "Tatiana",
       "title": "Tester",
       "since": "W Codexpolu od 2020",
-      "bio": "Znajduje bugi w rzeczach, które \"na pewno działają\". Jej lista testów ma więcej pozycji niż lista życzeń Filipa do następnego sprintu. Nawet Ewa i Tomek boją się jej Slacka.",
+      "bio": "Znajduje bugi w rzeczach, które „na pewno działają”. Jej lista testów ma więcej pozycji niż lista życzeń Filipa do następnego sprintu. Nawet Ewa i Tomek boją się jej Slacka.",
       "quote": "Bugs don't sleep. Neither do I."
     }
   },
