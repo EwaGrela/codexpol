@@ -37,32 +37,18 @@ function MemberCard({ src, name, role }) {
   )
 }
 
-function ZarzadCard({ data, portrait }) {
-  return (
-    <div className="zarzad-card">
-      <img src={portrait} alt={data.name} className="zarzad-portrait" />
-      <div className="zarzad-body">
-        <div className="team-name">{data.name}</div>
-        <div className="team-role">{data.title}</div>
-        <div className="team-since">{data.since}</div>
-        <p className="team-bio">{data.bio}</p>
-        <blockquote className="team-quote">„{data.quote}"</blockquote>
-      </div>
-    </div>
-  )
-}
-
-function ZarzadSection({ zdzislaw, mariusz, label, sub }) {
+function ZarzadSection({ zdzislaw, mariusz, label, sub, linkText }) {
   return (
     <div className="team-overview-group" id="zarzad">
       <div className="team-overview-group-header">
         <h2 className="team-overview-group-title">{label}</h2>
         <p className="team-overview-group-sub">{sub}</p>
       </div>
-      <div className="zarzad-cards">
-        <ZarzadCard data={zdzislaw} portrait={zdzislawImg} />
-        <ZarzadCard data={mariusz}  portrait={mariuszImg} />
+      <div className="team-overview-members">
+        <MemberCard src={zdzislawImg} name={zdzislaw.name} role={zdzislaw.title} />
+        <MemberCard src={mariuszImg}  name={mariusz.name}  role={mariusz.title} />
       </div>
+      <Link to="/zarzad" className="team-overview-link">{linkText}</Link>
     </div>
   )
 }
@@ -111,6 +97,7 @@ export default function Team() {
           mariusz={names.mariusz}
           label={t('teamStrip.zarzadLabel')}
           sub={t('teamStrip.zarzadSub')}
+          linkText={t('teamStrip.zarzadLink')}
         />
         <GroupSection
           id="kadry"

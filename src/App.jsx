@@ -13,6 +13,7 @@ import Products from './pages/Products'
 import Games from './pages/Games'
 import Podroz from './pages/Podroz'
 import Wczasy from './pages/Wczasy'
+import Zarzad from './pages/Zarzad'
 import Soon from './pages/Soon'
 import './App.css'
 
@@ -53,6 +54,7 @@ export default function App() {
           <Route path="/zespol"   element={<Team />} />
           <Route path="/kadry"    element={<HrTeam />} />
           <Route path="/tech"     element={<TechTeam />} />
+          <Route path="/zarzad"   element={<Zarzad />} />
           <Route path="/produkty" element={<Products />} />
           <Route path="/gry"        element={<Games />} />
           <Route path="/gry/podroz" element={<Podroz />} />
