@@ -1,19 +1,18 @@
+╔═════════════════════════════════════════════╗
+║  {c}FWP USTROŃ  ·  DOM WCZASOWY "GRUSZA"{a}    ║
+╠═════════════════════════════════════════════╣
+║                                             ║
+║  {w}FORMULARZ REKLAMACYJNY  FR-12/1988{a}       ║
+║  {d}· · · · · · · · · · · · · · · · · · ·{a}  ║
+║  {a}Przedmiot reklamacji:                   ║
+║  {w}[{r}X{w}]{a} basen   {w}[{r}X{w}]{a} hałas   {w}[{r}X{w}]{a} śniadanie  ║
+║  {w}[{r}X{w}]{a} okno    {w}[{r}X{w}]{a} ściana  {w}[{r}X{w}]{a} inne       ║
+║  {d}· · · · · · · · · · · · · · · · · · ·{a}  ║
+║                                             ║
+║  {w}Podpis:  ____________________________{a}  ║
+║                                             ║
+╚═════════════════════════════════════════════╝
 
-  _____________________________________________
- |    FWP USTRON  -  DOM WCZASOWY "GRUSZA"     |
- |_____________________________________________|
- |                                             |
- |   FORMULARZ REKLAMACYJNY  FR-12/1988        |
- |   . . . . . . . . . . . . . . . . . . .    |
- |   Przedmiot reklamacji:                     |
- |   [X] basen  [X] halas  [X] sniadanie      |
- |   [X] okno   [X] sciana [X] inne           |
- |   . . . . . . . . . . . . . . . . . . .    |
- |                                             |
- |   Podpis:  ___________________             |
- |                                             |
- |_____________________________________________|
-
-  Recepcjonistka przyjmuje formularz.
+{d}  Recepcjonistka przyjmuje formularz.
   Nie patrzy na Ciebie.
-  Mowi "rozpatrzymy w ciagu 30 dni roboczych".
+  Mówi "rozpatrzymy w ciągu 30 dni roboczych".

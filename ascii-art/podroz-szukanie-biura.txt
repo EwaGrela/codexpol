@@ -1,21 +1,19 @@
+╔═════════════════════════════════════════════╗
+║       {c}UL. STALOWA  –  KATOWICE           {a}║
+╠═════════════════════════════════════════════╣
+║                                             ║
+║  {w}[8]{a}   {w}[10]{a}   {w}[12]{a}   {y}[14 ???]{a}           ║
+║                                             ║
+║     {w}┌───────────┐{a}  ← nr 14             ║
+║     {w}│  BRAMA    │{a}                      ║
+║     {w}│ {r}[ZAMKN.]{w} │{a}  {d}"Wejście od        ║
+║     {w}└───────────┘{a}   {d}ul. Górnej"     {a}║
+║                                             ║
+║  {a}◉  ← Zenon {y}13:08{a}                       ║
+║  ▐█▌  {d}[teczka]                           {a}║
+║  ╱ ╲                                        ║
+╚═════════════════════════════════════════════╝
 
-  _____________________________________________
- |          UL. STALOWA  -  KATOWICE           |
- |_____________________________________________|
- |                                             |
- |  [nr 8]  [nr 10]  [nr 12]  [nr 14???]      |
- |                                             |
- |     ___________                            |
- |    |            |  <- nr 14                |
- |    |  BRAMA     |                          |
- |    |  [ZAMKN.]  |  "Wejscie od ul. Gornej" |
- |    |____________|                          |
- |                                             |
- |   O  <- Zenon (13:08)                      |
- |  /|\  [teczka]                             |
- |  / \                                        |
- |_____________________________________________|
-
-  Nr 14 istnieje. Brama zamknieta od 12:00.
-  Karteczka mowi "wejscie od ul. Gornej".
-  Zenon nie wie gdzie jest ul. Gorna.
+{d}  Nr 14 istnieje. Brama zamknięta od 12:00.
+  Karteczka mówi "wejście od ul. Górnej".
+  Zenon nie wie gdzie jest ul. Górna.

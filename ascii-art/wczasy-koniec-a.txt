@@ -1,19 +1,20 @@
+╔═════════════════════════════════════════════╗
+║                                             ║
+║            {w}ZAKOŃCZENIE  I{a}                 ║
+║            {g}Wróciłeś.{a}                      ║
+║                                             ║
+║  {a}◉╱ → {d}[walizka]{a} → {w}[przystanek PKS]{a}     ║
+║  █                                          ║
+║  ╱╲  ← Ty                                   ║
+║                                             ║
+║       {w}┌────────────────────────────┐{a}      ║
+║       {w}│{a}  autobus: odjazd {y}11:05         {w}│{a}      ║
+║       {w}│{a}  bilet: {y}12,50 zł               {w}│{a}      ║
+║       {w}└────────────────────────────┘{a}      ║
+║                                             ║
+╚═════════════════════════════════════════════╝
 
-  _____________________________________________
- |                                             |
- |            ZAKOŃCZENIE  I                   |
- |            Wróciłeś.                        |
- |                                             |
- |   O  <- Ty                                  |
- |  /|\  [walizka]  ->  [przystanek PKS]      |
- |  / \                                        |
- |                                             |
- |         [autobus: odjazd 11:05]            |
- |         [bilet: 12,50 zl]                  |
- |                                             |
- |_____________________________________________|
-
-  Wróciłeś w niedziele o 15:30.
-  Zona zapytala jak bylo.
-  Powiedziales "normalnie".
-  To bylo prawdziwe slowo.
+{d}  Wróciłeś w niedzielę o 15:30.
+  Żona zapytała jak było.
+  Powiedziałeś "normalnie".
+{a}  To było prawdziwe słowo.

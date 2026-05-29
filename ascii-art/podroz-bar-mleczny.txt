@@ -1,22 +1,21 @@
+╔═════════════════════════════════════════════╗
+║       {c}BAR MLECZNY "POD STALOWĄ"          {a}║
+╠═════════════════════════════════════════════╣
+║  {w}MENU:{a}                                   ║
+║  {g}zupa pomidorowa    {y}1,80 zł{a}               ║
+║  {g}pierogi (6 szt.)   {y}2,40 zł{a}               ║
+║  {d}kasza z sosem      1,60 zł  ← koniec   {a}║
+║  {g}kompot             {y}0,60 zł{a}               ║
+║  {w}──────────────────────────────────────  {a}║
+║                                             ║
+║  {a}◉ → ◉ → ◉ → {w}┌──────┐{a} ← Pani Jadwiga   ║
+║  █    █    █   {w}│ KASA │{a}                 ║
+║  ╱╲   ╱╲   ╱╲  {w}└──────┘{a}                 ║
+╚═════════════════════════════════════════════╝
 
-  _____________________________________________
- |          BAR MLECZNY "POD STALOWA"          |
- |_____________________________________________|
- |  MENU:                                      |
- |  zupa pomidorowa  1,80 zl                  |
- |  pierogi (6 szt.) 2,40 zl                  |
- |  kasza z sosem    1,60 zl  <- koniec       |
- |  kompot           0,60 zl                  |
- |  _________________________________________ |
- |                                             |
- |  O -> O -> O -> [KASA] <- Pani Jadwiga     |
- | /|   /|   /|                               |
- | /    /    /                                 |
- |_____________________________________________|
-
-  Kolejka: trzecia.
-  Kasza sie skonczyla. Sa pierogi.
-  Jest 13:11. Biuro zamykaja o 15:00.
+{d}  Kolejka: trzecia.
+  Kasza się skończyła. Są pierogi.
+  Jest 13:11. Biuro zamykają o 15:00.
   Pani Krystyna wraca z przerwy o 14:30.
-  Masz czas.
-  Nie masz czasu.
+{a}  Masz czas.
+{r}  Nie masz czasu.

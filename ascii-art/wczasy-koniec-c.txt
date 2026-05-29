@@ -1,21 +1,19 @@
+╔═════════════════════════════════════════════╗
+║                                             ║
+║            {w}ZAKOŃCZENIE  III{a}               ║
+║            {r}Zakaz wstępu.{a}                  ║
+║                                             ║
+║  {w}┌─────────────────────────────────────┐{a} ║
+║  {w}│{a}  ZWIĄZEK ZAWODOWY PRACOWNIKÓW      {w}│{a} ║
+║  {w}│{a}  PRZEMYSŁU LEKKIEGO               {w}│{a} ║
+║  {w}│{a}  DECYZJA NR 1991/FWP/083          {w}│{a} ║
+║  {w}│{a}                                   {w}│{a} ║
+║  {w}│{r}  DOŻYWOTNI ZAKAZ WSTĘPU           {w}│{a} ║
+║  {w}│{r}  DO OBIEKTÓW FWP USTROŃ           {w}│{a} ║
+║  {w}│{d}  [stempel]  [podpis nieczytelny]  {w}│{a} ║
+║  {w}└─────────────────────────────────────┘{a} ║
+╚═════════════════════════════════════════════╝
 
-  _____________________________________________
- |                                             |
- |            ZAKOŃCZENIE  III                 |
- |            Zakaz wstępu.                    |
- |                                             |
- |   ___________________________________       |
- |  |  ZWIAZEK ZAWODOWY PRACOWNIKOW    |      |
- |  |  PRZEMYSLU LEKKIEGO              |      |
- |  |  DECYZJA NR 1991/FWP/083         |      |
- |  |                                  |      |
- |  |  DOZYWOTNI ZAKAZ WSTEPU          |      |
- |  |  DO OBIEKTOW FWP USTRON          |      |
- |  |  [stempel]  [podpis nieczytelny] |      |
- |  |__________________________________|      |
- |                                             |
- |_____________________________________________|
-
-  Jedyny taki zakaz w historii FWP Ustron.
-  Recepcjonistka opowiada o Tobie nowym goscie.
-  Jestes legenda. To nie jest komplement.
+{d}  Jedyny taki zakaz w historii FWP Ustroń.
+  Recepcjonistka opowiada o Tobie nowym gościom.
+{r}  Jesteś legendą. {d}To nie jest komplement.

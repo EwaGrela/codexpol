@@ -1,18 +1,17 @@
+╔═════════════════════════════════════════════╗
+║  {c}ZARZĄD REJONOWY DS. LOGISTYKI – KATOW.  {a}║
+╠═════════════════════════════════════════════╣
+║                                             ║
+║  {w}FAKTURA VAT  nr 1991/08/KAT/00847       {a}║
+║  {d}· · · · · · · · · · · · · · · · · · ·  {a}║
+║  {a}Wartość netto:       {y}4.847,00 zł{a}        ║
+║  {a}VAT 22%:             {r}1.066,34 zł ← zła{a}  ║
+║  {a}Wartość brutto:      {y}5.913,34 zł{a}        ║
+║  {d}· · · · · · · · · · · · · · · · · · ·  {a}║
+║                                             ║
+║  {w}Podpis odbiorcy:  ____________________ {a}║
+║                                             ║
+╚═════════════════════════════════════════════╝
 
-  _____________________________________________
- |  ZARZAD REJONOWY DS. LOGISTYKI - KATOWICE   |
- |_____________________________________________|
- |                                             |
- |  FAKTURA VAT  nr 1991/08/KAT/00847          |
- |  . . . . . . . . . . . . . . . . . . . .   |
- |  Wartosc netto:      4.847,00 zl           |
- |  VAT 22%:            1.066,34 zl  <- zla  |
- |  Wartosc brutto:     5.913,34 zl           |
- |  . . . . . . . . . . . . . . . . . . . .   |
- |                                             |
- |  Podpis odbiorcy:  ____________________    |
- |                                             |
- |_____________________________________________|
-
-  Faktura jest bledna. Pani Krystyna mowi
-  ze "tak jest od zawsze". Podpisujesz.
+{d}  Faktura jest błędna. Pani Krystyna mówi
+  że "tak jest od zawsze". Podpisujesz.

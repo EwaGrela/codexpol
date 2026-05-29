@@ -1,20 +1,21 @@
+╔═════════════════════════════════════════════╗
+║  {c}ZARZĄD REJONOWY DS. LOGISTYKI – KATOW.  {a}║
+╠═════════════════════════════════════════════╣
+║                                             ║
+║  {w}"Ale ta kwota jest błędna."             {a}║
+║                                             ║
+║  {d}Pani Krystyna patrzy przez chwilę.      {a}║
+║  {d}Wstaje. Bierze torebkę.                {a}║
+║                                             ║
+║  {a}◉╱ → {d}[torebka]{a} → {w}[wyjście]{a}            ║
+║  █                                          ║
+║  ╱╲  ← Pani Krystyna                        ║
+║                                             ║
+║                   {y}┌──────────────┐{a}        ║
+║                   {y}│  zegar 14:02 │{a}        ║
+║                   {y}└──────────────┘{a}        ║
+╚═════════════════════════════════════════════╝
 
-  _____________________________________________
- |  ZARZAD REJONOWY DS. LOGISTYKI - KATOWICE   |
- |_____________________________________________|
- |                                             |
- |  "Ale ta kwota jest bledna."                |
- |                                             |
- |  Pani Krystyna patrzy przez chwile.         |
- |  Wstaje. Bierze torebke.                   |
- |                                             |
- |   O  <- Pani Krystyna                       |
- |  /|>  [torebka]  ->  [wyjscie]             |
- |  / \                                        |
- |                                             |
- |                      [zegar: 14:02]        |
- |_____________________________________________|
-
-  Wroci o 14:30. Tak powiedzial pan z sasied.
-  biura. Czekasz. Jest jedno krzeslo.
-  Krzeslo ma trzy nogi.
+{d}  Wróci o 14:30. Tak powiedział pan z sąsied.
+  biura. Czekasz. Jest jedno krzesło.
+{r}  Krzesło ma trzy nogi.

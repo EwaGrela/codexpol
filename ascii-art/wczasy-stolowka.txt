@@ -1,20 +1,18 @@
+╔═════════════════════════════════════════════╗
+║           {c}STOŁÓWKA  (parter){a}               ║
+╠═════════════════════════════════════════════╣
+║  {w}┌───────────────────────────────────┐{a}  ║
+║  {w}│{a}  ŚNIADANIE:                       {w}│{a}  ║
+║  {w}│{g}  – zupa mleczna  {w}│{g} – chleb (2 szt.) {w}│{a}  ║
+║  {w}│{g}  – ser topiony   {w}│{d} – herbata (∅łyż.){w}│{a}  ║
+║  {w}└───────────────────────────────────┘{a}  ║
+║                                             ║
+║  {d}○  ○  ○  ○  ○  ○  ○  ○  ○  ○{a}          ║
+║  {d}talerze · talerze · talerze{a}             ║
+║                                             ║
+║  {a}◉  ◉  ◉  ◉  ◉  ◉  ◉  ◉{a}                ║
+║  {d}wszyscy jedzą w milczeniu{a}               ║
+╚═════════════════════════════════════════════╝
 
-  _____________________________________________
- |              STOLOWKA  (parter)             |
- |_____________________________________________|
- |  _________________________________________ |
- | |  SNIADANIE:                             ||
- | |  - zupa mleczna     - chleb (2 kromki)  ||
- | |  - ser topiony      - herbata (bez lyz.)||
- | |_________________________________________||
- |                                             |
- | [talerz][talerz][talerz][talerz][talerz]   |
- | [talerz][talerz][talerz][talerz][talerz]   |
- |                                             |
- |  O    O    O    O    O    O    O    O       |
- | /|\  /|\  /|\  /|\  /|\  /|\  /|\  /|\     |
- | / \  / \  / \  / \  / \  / \  / \  / \     |
- |_____________________________________________|
-
-  Wszyscy jedza w milczeniu.
-  7:44. Pani zabiera talerze.
+{d}  Wszyscy jedzą w milczeniu.
+{y}  7:44. {d}Pani zabiera talerze.

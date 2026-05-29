@@ -1,20 +1,19 @@
+╔═════════════════════════════════════════════╗
+║                                             ║
+║            {w}ZAKOŃCZENIE  II{a}                ║
+║            {y}Asymilacja.{a}                    ║
+║                                             ║
+║  {w}┌───────────────────────────────────┐{a}   ║
+║  {w}│{a}  ZDZISŁAW MRÓZ   tel. {y}67 834-21-**{w} │{a}   ║
+║  {w}│{a}  HENRYK PAŁKA    tel. {y}67 291-**-**{w} │{a}   ║
+║  {w}│{a}  WIESIEK         {d}(tylko FWP)       {w}│{a}   ║
+║  {w}└───────────────────────────────────┘{a}   ║
+║                                             ║
+║           {d}[karteczka w portfelu]{a}           ║
+║                                             ║
+╚═════════════════════════════════════════════╝
 
-  _____________________________________________
- |                                             |
- |            ZAKOŃCZENIE  II                  |
- |            Asymilacja.                      |
- |                                             |
- |   ___________________________________       |
- |  |  ZDZISLAW MROZ  tel. 67 834-21-**  |    |
- |  |  HENRYK PALKA   tel. 67 291-**-**  |    |
- |  |  WIESIEK        (tylko FWP)        |    |
- |  |___________________________________|     |
- |                                             |
- |        [karteczka w portfelu]              |
- |                                             |
- |_____________________________________________|
-
-  Zadzwonil 14 grudnia.
-  Zapytal czy grasz w karty w sylwestra.
-  Powiedziales ze sprawdzisz.
-  Nie sprawdziles. Pojechales.
+{d}  Zadzwonił 14 grudnia.
+  Zapytał czy grasz w karty w sylwestra.
+  Powiedziałeś że sprawdzisz.
+{a}  Nie sprawdziłeś. Pojechałeś.

@@ -1552,6 +1552,9 @@
   margin: 0 0 0 0;
   overflow-x: auto;
 }
+.game-art span {
+  text-shadow: 0 0 6px currentColor;
+}
 
 .game-narration {
   font-family: 'Courier New', monospace;

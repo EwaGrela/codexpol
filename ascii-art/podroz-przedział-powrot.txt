@@ -1,19 +1,18 @@
+╔═════════════════════════════════════════════╗
+║{d} [torba]           [nic]           [nic]   {a}║
+╠══════════════ {w}PRZEDZIAŁ 6{a} ════════════════╣
+║                                             ║
+║  {a}◉                              ◉{a}        ║
+║  ▐█▌  {d}[teczka z RK-7b]        {a}▐█▌        ║
+║  ╱ ╲   {d}[na kolanach]           {a}╱ ╲        ║
+║  {a}Zenon                    Nieznajomy      ║
+║                                             ║
+║  {d}Za oknem: ░░░░ ciemność i Śląsk ░░░░   {a}║
+║                                             ║
+╚═════════════════════════════════════════════╝
 
-  _____________________________________________
- | [torba]              [nic]              [nic]|
- |=============PRZEDZIAŁ 6=====================|
- |                                             |
- |   \O/                          O           |
- |    |    [teczka z RK-7b]      /|\          |
- |   / \   [na kolanach]        / \           |
- |  Zenon                    Nieznajomy        |
- |                                             |
- |  Za oknem: ciemnosc i Slask.               |
- |                                             |
- |_____________________________________________|
-
-  Nieznajomy pyta czym sie Zenon zajmuje.
-  Zenon mowi "logistyka".
-  Nieznajomy kiwa glowa i patrzy przez okno.
-  Zenon tez patrzy przez okno.
-  Jedzie sie 2 godziny 43 minuty.
+{d}  Nieznajomy pyta czym się Zenon zajmuje.
+  Zenon mówi "logistyka".
+  Nieznajomy kiwa głową i patrzy przez okno.
+  Zenon też patrzy przez okno.
+  Jedzie się 2 godziny 43 minuty.

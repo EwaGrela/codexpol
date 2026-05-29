@@ -1,20 +1,18 @@
+╔═════════════════════════════════════════════╗
+║               {c}WYMELDOWANIE{a}                 ║
+╠═════════════════════════════════════════════╣
+║                                             ║
+║  {a}Pokój:  {y}303{a}           Liczba dni:  {y}7{a}    ║
+║  {a}Opłata: {y}420,00 zł{a}                      ║
+║  {a}Dopłata (telefon):     {y}3,40 zł{a}          ║
+║  {a}Reklamacja basenu:     {r}ODRZUCONA{a}         ║
+║                                             ║
+║  {w}Prosimy o opinię:{a}                        ║
+║  {d}[ ] doskonale  [ ] dobrze  {w}[{g}X{w}]{a} średnio  ║
+║                                             ║
+║  {w}Podpis: ____________________________{a}   ║
+╚═════════════════════════════════════════════╝
 
-  _____________________________________________
- |                WYMELDOWANIE                 |
- |_____________________________________________|
- |                                             |
- |  Pokoj:  303          Liczba dni:  7        |
- |  Oplata: 420,00 zl                         |
- |  Doplata (telefon):    3,40 zl             |
- |  Reklamacja basenu:    ODRZUCONA           |
- |                                             |
- |  Prosimy o opinie:                         |
- |  [ ] doskonale  [ ] dobrze  [X] srednio   |
- |                                             |
- |  Podpis: _____________________             |
- |                                             |
- |_____________________________________________|
-
-  "Serdecznie zapraszamy za rok."
+{d}  "Serdecznie zapraszamy za rok."
   Nie wracasz za rok.
-  Wracasz za rok.
+{a}  Wracasz za rok.

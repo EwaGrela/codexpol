@@ -1,20 +1,19 @@
+╔═════════════════════════════════════════════╗
+║       {c}KATOWICE  DWORZEC GŁÓWNY           {a}║
+╠═════════════════════════════════════════════╣
+║                                             ║
+║  {w}┌──────┐ ┌──────┐ ┌──────┐ ┌──────┐   {a}║
+║  {w}│{c}WYJŚCIE{w}│ │{c}WYJŚCIE{w}│ │{c}WYJŚCIE{w}│ │{c}WYJŚCIE{w}│   {a}║
+║  {w}└──┬───┘ └──┬───┘ └──┬───┘ └──┬───┘   {a}║
+║  {d}   Pn       Pd      Wsch     Zach       {a}║
+║                                             ║
+║    {r}?                                     ║
+║  {a}◉  ← Zenon                              ║
+║  ▐█▌  {d}(trzyma kartkę z adresem)          {a}║
+║  ╱ ╲                                        ║
+║  {y}ul. Stalowa 14  {d}← adres w teczce       {a}║
+╚═════════════════════════════════════════════╝
 
-  _____________________________________________
- |        KATOWICE  DWORZEC GLOWNY             |
- |_____________________________________________|
- |                                             |
- |  [WYJSCIE] [WYJSCIE] [WYJSCIE] [WYJSCIE]  |
- |     Pn        Pd       Wsch      Zach       |
- |                                             |
- |       ?                                     |
- |   O <- Zenon                               |
- |  /|\  (trzyma kartke z adresem)            |
- |  / \                                        |
- |                                             |
- |  ul. Stalowa 14    <- adres w teczce       |
- |                                             |
- |_____________________________________________|
-
-  Cztery wyjscia. Kartka mowi "kolo dworca".
-  Zenon nie wie po ktorej stronie jest "kolo".
-  Nikt nie stoi. Nie ma kogo zapytac.
+{d}  Cztery wyjścia. Kartka mówi "koło dworca".
+  Zenon nie wie po której stronie jest "koło".
+  Nikt nie stoi. Nie ma kogo zapytać.

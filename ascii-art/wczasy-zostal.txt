@@ -1,21 +1,20 @@
+╔═════════════════════════════════════════════╗
+║        {c}POKÓJ 303  –  CZWARTEK{a}             ║
+║        {d}(wszyscy pojechali na zamek){a}        ║
+╠═════════════════════════════════════════════╣
+║                                             ║
+║  {c}┌──────┐{a}                                 ║
+║  {c}│{w}░░░░░░{c}│{a}  prog. 1: akademia pana kleksa ║
+║  {c}│{w}░ TV ░{c}│{a}  prog. 2: transmisja z sejmu   ║
+║  {c}└──────┘{a}                                 ║
+║                                             ║
+║           {a}◉  ← Ty                          ║
+║          ▐█▌                                ║
+║       {d}[▓▓▓▓▓▓▓▓▓▓ łóżko ▓▓▓▓▓▓▓▓]{a}       ║
+║                   {d}[cisza w korytarzu]{a}     ║
+╚═════════════════════════════════════════════╝
 
-  _____________________________________________
- |          POKOJ 303  -  CZWARTEK              |
- |          (wszyscy pojechali na zamek)        |
- |_____________________________________________|
- |                                             |
- |   [TV]  ~~~~~~~~~~~~~~~~~~                 |
- |   |  |  program 1: akademia pana kleksa    |
- |   |__|  program 2: transmisja z sejmu      |
- |                                             |
- |          O  <- Ty                           |
- |         /|\                                 |
- |       [lozko]                               |
- |                                             |
- |                  [cisza w korytarzu]        |
- |_____________________________________________|
-
-  Po raz pierwszy od czterech dni
+{d}  Po raz pierwszy od czterech dni
   pokój jest cichy.
   Jest bardzo cichy.
   Zbyt cichy.

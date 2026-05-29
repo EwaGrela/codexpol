@@ -1,19 +1,18 @@
+╔═════════════════════════════════════════════╗
+║           {c}DZIAŁ KSIĘGOWOŚCI{a}               ║
+╠═════════════════════════════════════════════╣
+║                                             ║
+║  {y}▓▓▓{a}  {y}▓▓▓{a}  {y}▓▓▓{a}  {y}▓▓▓{a}  {y}▓▓▓{a}  {y}▓▓▓{a}         ║
+║  {y}▓▓▓{a}  {y}▓▓▓{a}  {y}▓▓▓{a}  {y}▓▓▓{a}  {y}▓▓▓{a}  {y}▓▓▓{a}         ║
+║  {d}stos  stos  stos  stos  stos  stos{a}    ║
+║                                             ║
+║  {w}┌──────────────┐{a}          ◉  ← Bożena  ║
+║  {w}│  DRUK        │{a}         ▐█▌            ║
+║  {w}│  RK-7b       │{a}         ╱ ╲            ║
+║  {w}│ {r}(nieaktualne){w} │{a}                     ║
+║  {w}└──────────────┘{a}                       ║
+╚═════════════════════════════════════════════╝
 
-  _____________________________________________
- |             DZIAL KSIEGOWOSCI               |
- |_____________________________________________|
- |                                             |
- |  [stos] [stos] [stos] [stos] [stos] [stos] |
- |  [akt ] [akt ] [akt ] [akt ] [akt ] [akt ] |
- |                                             |
- |       ____________                         |
- |      |  DRUK      |       O  <- Bozena     |
- |      |  RK-7b     |      /|\               |
- |      |  (nieaktu.)|     / \                |
- |      |____________|                        |
- |                                             |
- |_____________________________________________|
-
-  Formularz RK-7b juz nie obowiazuje.
-  Obowiazuje RK-7c. Jest tylko w Warszawie.
-  Bozena drukuje RK-7b i mowi zeby sprobowac.
+{d}  Formularz RK-7b już nie obowiązuje.
+  Obowiązuje RK-7c. Jest tylko w Warszawie.
+  Bożena drukuje RK-7b i mówi żeby spróbować.

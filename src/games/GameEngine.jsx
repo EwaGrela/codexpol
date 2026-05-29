@@ -1,5 +1,42 @@
 import { useState } from 'react'
 
+const COLORS = {
+  w: '#f0f0f0',  // white
+  c: '#44d8d8',  // cyan
+  r: '#d84444',  // red
+  g: '#44d844',  // green
+  y: '#d8d844',  // yellow
+  d: '#888888',  // dim
+  a: '#FFB300',  // amber (reset)
+}
+
+function ColoredArt({ text }) {
+  const segments = []
+  let color = '#FFB300'
+  let i = 0
+  while (i < text.length) {
+    if (text[i] === '{' && i + 2 < text.length && text[i + 2] === '}' && COLORS[text[i + 1]]) {
+      color = COLORS[text[i + 1]]
+      i += 3
+      continue
+    }
+    let j = i + 1
+    while (j < text.length) {
+      if (text[j] === '{' && j + 2 < text.length && text[j + 2] === '}' && COLORS[text[j + 1]]) break
+      j++
+    }
+    segments.push({ color, text: text.slice(i, j) })
+    i = j
+  }
+  return (
+    <pre className="game-art">
+      {segments.map((seg, idx) => (
+        <span key={idx} style={{ color: seg.color }}>{seg.text}</span>
+      ))}
+    </pre>
+  )
+}
+
 export default function GameEngine({ scenes, start, initialFlags = {} }) {
   const [sceneId, setSceneId] = useState(start)
   const [flags, setFlags] = useState(initialFlags)
@@ -29,7 +66,7 @@ export default function GameEngine({ scenes, start, initialFlags = {} }) {
         <div className="game-scene-title">{scene.title}</div>
       )}
       {scene.art && (
-        <pre className="game-art">{scene.art}</pre>
+        <ColoredArt text={scene.art} />
       )}
       {scene.narration && (
         <p className="game-narration">{scene.narration}</p>

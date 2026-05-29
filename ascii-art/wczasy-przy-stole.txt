@@ -1,19 +1,19 @@
+╔═════════════════════════════════════════════╗
+║         {c}POKÓJ 304  –  WEWNĄTRZ{a}            ║
+╠═════════════════════════════════════════════╣
+║                                             ║
+║   {a}◉      ◉      ◉      {y}◉{a}                ║
+║   ▐█▌    ▐█▌    ▐█▌    {y}▐█▌{a}                ║
+║   ╱ ╲    ╱ ╲    ╱ ╲    {y}╱ ╲{a}                ║
+║  {d} Zdz.  Henryk Wiesiek  {y}TY{a}               ║
+║                                             ║
+║   {w}┌──────────────────────────────────┐{a}   ║
+║   {w}│{g}  A   K   D   W   2   3   4   {w}      │{a}   ║
+║   {w}│{d}  herbata · herbata · herbata   {w}│{a}   ║
+║   {w}└──────────────────────────────────┘{a}   ║
+║                               {y}01:22{a}       ║
+╚═════════════════════════════════════════════╝
 
-  _____________________________________________
- |           POKOJ 304  -  WEWNATRZ            |
- |_____________________________________________|
- |                                             |
- |    O       O       O       O               |
- |   /|\     /|\     /|\     /|\              |
- |   / \     / \     / \     / \              |
- | Zdz. Henryk  Wiesiek  TY                  |
- |                                             |
- |      [   stol z kartami i herbata   ]      |
- |      [  A  K  D  W  2  3  4  5  6  ]      |
- |                                             |
- |                              01:22         |
- |_____________________________________________|
-
-  Zdzislaw mowi ze jestes "calkiem spoko".
-  Wiesiek stawia herbate. Nie pytasz skad ma.
-  Grasz do 2:30. Przegrywasz 3,40 zl.
+{d}  Zdzisław mówi że jesteś "całkiem spoko".
+  Wiesiek stawia herbatę. Nie pytasz skąd ma.
+  Grasz do 2:30. Przegrywasz 3,40 zł.
