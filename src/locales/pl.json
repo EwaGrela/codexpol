@@ -10,7 +10,7 @@
   "hero": {
     "headline": "Od 1989.",
     "headline2": "Przeżyliśmy wszystko.",
-    "sub": "Budujemy software, który działa. Czasem nawet software, który zaskakuje."
+    "sub": "Budujemy software, który działa. Czasem nawet zaskakuje."
   },
   "history": {
     "title": "Historia",
@@ -21,7 +21,7 @@
       },
       {
         "year": "1989",
-        "text": "Polska powstaje. A my wraz z nią"
+        "text": "Polska powstaje. A my wraz z nią."
       },
       {
         "year": "1991",
@@ -49,7 +49,7 @@
       },
       {
         "year": "2016",
-        "text": "Marta dołącza. Na zastępstwo. Jeszcze nie wiem, ale zostanie"
+        "text": "Marta dołącza. Na zastępstwo. Jeszcze nie wie, ale zostanie."
       },
       {
         "year": "2020",
@@ -158,7 +158,7 @@
     "title": "Co robimy",
     "office": {
       "label": "Software biurowy",
-      "badge": "Od 30 lat",
+      "badge": "Od 37 lat",
       "text": "Robimy to od 30 lat. Jest stabilny, działa, nasi klienci są zadowoleni. Jacy klienci? Woleliby nie być wymieniani z nazwy."
     },
     "skillIssue": {
@@ -277,7 +277,7 @@
       "platform": "Atari 800XL",
       "copies": "11 kopii (4 zwroty)",
       "tagline": "Tydzień w FWP Ustroń. Basen nieczynny od 1988. Śniadanie 7:00–7:45.",
-      "desc": "Siedem dni na wczasach pracowniczych FWP. Sąsiad z pokoju 304 gra w karty do 23:00. Basen nieczynny. Wycieczka fakultatywna do zamku — autokar się spóźnił. Trzy zakończenia. Żadne nie jest dobre.",
+      "desc": "Siedem dni na wczasach pracowniczych FWP. Sąsiad z pokoju 304 gra w karty do 23:00. Basen nieczynny. Wycieczka fakultatywna do zamku — autokar się spóźnił. Cztery zakończenia. Żadne nie jest dobre.",
       "review": "Nie rozumiemy dlaczego wydali drugą.",
       "reviewSource": "Bajtek, nr 2/1992"
     }

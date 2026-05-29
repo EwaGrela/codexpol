@@ -10,7 +10,7 @@
   "hero": {
     "headline": "Since 1989.",
     "headline2": "We've survived everything.",
-    "sub": "We build software that works. Sometimes software that surprises."
+    "sub": "We build software that works. Sometimes it even surprises."
   },
   "history": {
     "title": "History",
@@ -158,8 +158,8 @@
     "title": "What we do",
     "office": {
       "label": "Office software",
-      "badge": "30 years running",
-      "text": "We've been doing this for 30 years. It's stable, it works, our clients are satisfied. Which clients? They'd prefer not to be named."
+      "badge": "37 years running",
+      "text": "We've been doing this for 37 years. It's stable, it works, our clients are satisfied. Which clients? They'd prefer not to be named."
     },
     "skillIssue": {
       "label": "Skill Issue",
@@ -277,7 +277,7 @@
       "platform": "Atari 800XL",
       "copies": "11 copies (4 returns)",
       "tagline": "A week at FWP Ustroń resort. Pool closed since 1988. Breakfast 7:00–7:45.",
-      "desc": "Seven days at a workers' holiday resort. The neighbour in room 304 plays cards until 11pm. The pool is closed. The optional castle trip — the coach was late. Three endings. None are good.",
+      "desc": "Seven days at a workers' holiday resort. The neighbour in room 304 plays cards until 11pm. The pool is closed. The optional castle trip — the coach was late. Four endings. None are good.",
       "review": "We don't understand why they released a second one.",
       "reviewSource": "Bajtek, no. 2/1992"
     }
