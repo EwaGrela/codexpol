@@ -27,8 +27,8 @@ export default function Zarzad() {
   return (
     <div className="tech-page">
       <header className="tech-header">
-        <h1>Zarząd</h1>
-        <p className="tech-sub">Jeden zbudował. Drugi zarządza. Bożenka pilnuje obu.</p>
+        <h1>{t('zarzadPage.title')}</h1>
+        <p className="tech-sub">{t('zarzadPage.sub')}</p>
       </header>
 
       <div className="tech-grid">

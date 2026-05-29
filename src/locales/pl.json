@@ -304,5 +304,17 @@
       "label": "incydent",
       "sub": "z drukarką"
     }
+  },
+  "kadryPage": {
+    "title": "Kadry",
+    "sub": "Ludzie, którzy pilnują, żeby wszystko działało. Nie tylko software."
+  },
+  "techPage": {
+    "title": "Tech Team",
+    "sub": "Ludzie, którzy to wszystko piszą. I testują. I nie śpią."
+  },
+  "zarzadPage": {
+    "title": "Zarząd",
+    "sub": "Jeden zbudował. Drugi zarządza. Bożenka pilnuje obu."
   }
 }

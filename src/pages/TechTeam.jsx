@@ -42,8 +42,8 @@ export default function TechTeam() {
   return (
     <div className="tech-page">
       <header className="tech-header">
-        <h1>Tech Team</h1>
-        <p className="tech-sub">Ludzie, którzy to wszystko piszą. I testują. I nie śpią.</p>
+        <h1>{t('techPage.title')}</h1>
+        <p className="tech-sub">{t('techPage.sub')}</p>
       </header>
 
       <div className="tech-grid">

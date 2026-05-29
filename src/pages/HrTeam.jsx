@@ -69,8 +69,8 @@ export default function HrTeam() {
   return (
     <div className="tech-page">
       <header className="tech-header">
-        <h1>Kadry</h1>
-        <p className="tech-sub">Ludzie, którzy pilnują, żeby wszystko działało. Nie tylko software.</p>
+        <h1>{t('kadryPage.title')}</h1>
+        <p className="tech-sub">{t('kadryPage.sub')}</p>
       </header>
 
       <div className="tech-grid">

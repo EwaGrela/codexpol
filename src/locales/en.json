@@ -304,5 +304,17 @@
       "label": "incident",
       "sub": "with a printer"
     }
+  },
+  "kadryPage": {
+    "title": "HR & Admin",
+    "sub": "The people who keep everything running. Not just the software."
+  },
+  "techPage": {
+    "title": "Tech Team",
+    "sub": "The people who write it all. And test it. And don't sleep."
+  },
+  "zarzadPage": {
+    "title": "Management",
+    "sub": "One built it. The other runs it. Bożenka watches both."
   }
 }
