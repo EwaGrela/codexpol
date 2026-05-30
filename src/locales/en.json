@@ -254,7 +254,8 @@
         "tagline": "Tomek understood it. Tomek is on leave. Now the AI understands it.",
         "desc": "An AI-powered tool for analysing, documenting, and migrating legacy code to modern technologies. Works with COBOL, VB6, Delphi, 'some Perl from 2003', and several other things you're running in production and prefer not to discuss. Legacy doesn't ask why the code looks the way it does. It just reads it."
       }
-    }
+    },
+    "more": "Learn more"
   },
   "games": {
     "title": "Gamedev. We tried.",
@@ -319,5 +320,104 @@
   "zarzadPage": {
     "title": "Management",
     "sub": "One built it. The other runs it. Bożenka watches both."
+  },
+  "testimonials": {
+    "label": "Clients",
+    "home": {
+      "items": [
+        {
+          "quote": "Twenty years without a migration. Three regulatory changes, two audits, one pandemic. SigmaFK survived it all. I recommend it — and I say that as someone who survived an SAP implementation.",
+          "name": "Krzysztof W.",
+          "role": "Chief Accountant",
+          "org": "construction company"
+        },
+        {
+          "quote": "The previous system lost data on every Windows update. Teczka95 has everything from 2001 — leave records, sick notes, amendments. I don't know how. But it does.",
+          "name": "Anna P.",
+          "role": "HR Manager",
+          "org": "retail chain"
+        },
+        {
+          "quote": "Previous implementation: eight months, external consultant, three delays. Hermes: two weeks, our own team, zero delays. The difference speaks for itself.",
+          "name": "Marek D.",
+          "role": "Operations Director",
+          "org": "FMCG distributor"
+        }
+      ]
+    },
+    "sigmaFk": {
+      "items": [
+        {
+          "quote": "Twenty years without a migration. Three regulatory changes, two audits, one pandemic. SigmaFK survived it all. I recommend it — and I say that as someone who survived an SAP implementation.",
+          "name": "Krzysztof W.",
+          "role": "Chief Accountant",
+          "org": "construction company"
+        }
+      ]
+    },
+    "teczka95": {
+      "items": [
+        {
+          "quote": "The previous system lost data on every Windows update. Teczka95 has everything from 2001 — leave records, sick notes, amendments. I don't know how. But it does.",
+          "name": "Anna P.",
+          "role": "HR Manager",
+          "org": "retail chain"
+        }
+      ]
+    },
+    "hermes": {
+      "items": [
+        {
+          "quote": "Previous implementation: eight months, external consultant, three delays. Hermes: two weeks, our own team, zero delays. The difference speaks for itself.",
+          "name": "Marek D.",
+          "role": "Operations Director",
+          "org": "FMCG distributor"
+        }
+      ]
+    },
+    "zapora": {
+      "items": [
+        {
+          "quote": "We had an attack on a Friday evening. Classic timing. Zapora raised the alarm, cut the traffic, sent a report before I managed to order my second course. That's exactly what infrastructure protection should look like.",
+          "name": "Tomasz R.",
+          "role": "IT Director",
+          "org": "distribution network"
+        },
+        {
+          "quote": "I used to explain to the board what a SYN flood is. Now I show them a chart: red bars are attacks, the green line is uptime. The green line is flat. The board is happy. So am I.",
+          "name": "Marek S.",
+          "role": "CTO",
+          "org": "manufacturing company"
+        },
+        {
+          "quote": "We've never had a serious attack. But I have logs. Last year Zapora blocked 1.2 million suspicious connections. I'd rather not know what it would have looked like without it.",
+          "name": "Krzysztof M.",
+          "role": "Security Administrator",
+          "org": "public administration office"
+        }
+      ]
+    },
+    "legacy": {
+      "items": [
+        {
+          "quote": "Zbyszek knew how it worked. Zbyszek retired. Legacy now knows more than Zbyszek did. We don't have to call Zbyszek.",
+          "name": "Kamil R.",
+          "role": "IT Department Manager",
+          "org": "insurance company"
+        },
+        {
+          "quote": "Since 1994 this system has controlled our production line. For thirty years no one knew exactly how — and we asked. Legacy read the code over a weekend and wrote documentation that never existed. On Monday, for the first time, we weren't afraid to touch it.",
+          "name": "Sławomir P.",
+          "role": "Chief Systems Engineer",
+          "org": "power plant"
+        },
+        {
+          "quote": "Before Legacy: a year of work, four developers, a backlog that grew faster than it shrank. After Legacy: three weeks, documentation, a dependency map, a migration plan. Now we develop instead of fighting fires. The team came back to life. People stopped staring at the floor during retrospectives.",
+          "name": "Michał R.",
+          "role": "Lead Developer",
+          "org": "logistics company"
+        }
+      ]
+    }
   }
 }

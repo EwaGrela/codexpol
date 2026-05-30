@@ -1,4 +1,5 @@
 import { useRef, useState } from 'react'
+import { Link } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import sigmaImg    from '../assets/CODEXPOL_loga/SIGMA_FK.png'
 import hermesImg   from '../assets/CODEXPOL_loga/HERMES.png'
@@ -18,9 +19,20 @@ const LOGOS = {
   legacy:   legacyImg,
 }
 
+const PRODUCT_ROUTES = {
+  sigmaFk:  '/sigma-fk',
+  hermes:   '/hermes',
+  teczka95: '/teczka95',
+  komBit:   '/kom-bit',
+  vatowiec: '/vatowiec',
+  zapora:   '/zapora',
+  legacy:   '/legacy',
+}
+
 const PRODUCT_KEYS = ['sigmaFk', 'hermes', 'teczka95', 'komBit', 'vatowiec', 'zapora', 'legacy']
 
-function ProductSlide({ id, data }) {
+function ProductSlide({ id, data, t }) {
+  const route = PRODUCT_ROUTES[id]
   return (
     <div className="product-slide">
       <div className="product-slide-logo">
@@ -30,6 +42,11 @@ function ProductSlide({ id, data }) {
         <div className="product-slide-name">{data.name}</div>
         <div className="product-slide-tagline">{data.tagline}</div>
         <p className="product-slide-desc">{data.desc}</p>
+        {route && (
+          <Link to={route} className="product-slide-link">
+            {t('products.more')} →
+          </Link>
+        )}
       </div>
     </div>
   )
@@ -62,7 +79,7 @@ export default function Products() {
       <div className="slider-wrap">
         <div className="slider-track" ref={trackRef}>
           {PRODUCT_KEYS.map(id => (
-            <ProductSlide key={id} id={id} data={items[id]} />
+            <ProductSlide key={id} id={id} data={items[id]} t={t} />
           ))}
         </div>
 

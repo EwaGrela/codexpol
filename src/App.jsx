@@ -5,6 +5,7 @@ import Hero from './sections/Hero'
 import ProductStrip from './sections/ProductStrip'
 import TrustStrip from './sections/TrustStrip'
 import Footer from './sections/Footer'
+import Testimonials from './sections/Testimonials'
 import About from './pages/About'
 import Team from './pages/Team'
 import HrTeam from './pages/HrTeam'
@@ -15,6 +16,13 @@ import Podroz from './pages/Podroz'
 import Wczasy from './pages/Wczasy'
 import Zarzad from './pages/Zarzad'
 import Soon from './pages/Soon'
+import Zapora from './pages/Zapora'
+import Legacy from './pages/Legacy'
+import SigmaFk from './pages/SigmaFk'
+import Hermes from './pages/Hermes'
+import Teczka95 from './pages/Teczka95'
+import KomBit from './pages/KomBit'
+import Vatowiec from './pages/Vatowiec'
 import './App.css'
 
 function Layout() {
@@ -38,6 +46,7 @@ function Home() {
           <p>{t('homeAbout.p1')}</p>
           <p>{t('homeAbout.p2')}</p>
         </section>
+        <Testimonials />
       </main>
       <Footer />
     </>
@@ -60,6 +69,13 @@ export default function App() {
           <Route path="/gry/podroz" element={<Podroz />} />
           <Route path="/gry/wczasy" element={<Wczasy />} />
           <Route path="/wkrotce"    element={<Soon />} />
+          <Route path="/zapora"     element={<Zapora />} />
+          <Route path="/legacy"     element={<Legacy />} />
+          <Route path="/sigma-fk"   element={<SigmaFk />} />
+          <Route path="/hermes"     element={<Hermes />} />
+          <Route path="/teczka95"   element={<Teczka95 />} />
+          <Route path="/kom-bit"    element={<KomBit />} />
+          <Route path="/vatowiec"   element={<Vatowiec />} />
         </Route>
       </Routes>
     </BrowserRouter>

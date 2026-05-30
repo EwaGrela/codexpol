@@ -581,6 +581,11 @@
   gap: 20px;
 }
 
+.tech-grid--2col {
+  grid-template-columns: repeat(2, 1fr);
+  max-width: 900px;
+}
+
 .tech-card {
   border: 1px solid var(--border);
   border-radius: 3px;
@@ -1121,6 +1126,66 @@
   border-radius: 2px;
 }
 
+/* ── Testimonials (home) ─────────────────────────────────────────── */
+.testimonials {
+  background: var(--bg-alt);
+  padding: 80px 40px;
+  border-top: 1px solid var(--border);
+}
+
+.testimonials-grid {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 32px;
+  margin-top: 0;
+}
+
+.testimonial-card {
+  margin: 0;
+  padding: 0;
+  padding-left: 24px;
+  border-left: 3px solid var(--red);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.testimonial-quote {
+  font-size: 16px;
+  font-style: italic;
+  color: var(--text);
+  line-height: 1.65;
+}
+
+.testimonial-attribution {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.testimonial-name {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--heading);
+  letter-spacing: 0.02em;
+}
+
+.testimonial-meta {
+  font-size: 12px;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-family: var(--font-condensed);
+  font-weight: 600;
+}
+
+@media (max-width: 768px) {
+  .testimonials { padding: 64px 24px; }
+  .testimonials-grid { grid-template-columns: 1fr; gap: 32px; }
+}
+
 /* ── Products page — slider ──────────────────────────────────────── */
 .slider-wrap {
   max-width: 900px;
@@ -1190,7 +1255,20 @@
   font-size: 15px;
   color: var(--text-muted);
   line-height: 1.7;
+  margin-bottom: 24px;
 }
+
+.product-slide-link {
+  display: inline-block;
+  font-family: var(--font-condensed);
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--red);
+  transition: opacity 0.15s;
+}
+.product-slide-link:hover { opacity: 0.7; }
 
 .slider-controls {
   display: flex;
@@ -1254,6 +1332,55 @@
   .product-slide { grid-template-columns: 1fr; min-height: auto; }
   .product-slide-logo { border-right: none; border-bottom: 1px solid var(--border); padding: 36px 24px; }
   .product-slide-body { padding: 28px 24px 36px; }
+}
+
+/* ── Product detail pages ────────────────────────────────────────── */
+.product-page-body {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 64px 40px;
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  gap: 64px;
+  align-items: start;
+}
+
+.product-page-logo-wrap {
+  background: var(--bg-alt);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 32px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.product-page-logo {
+  max-height: 120px;
+  max-width: 200px;
+  width: 100%;
+  object-fit: contain;
+}
+
+.product-page-desc {
+  font-size: 18px;
+  line-height: 1.75;
+  color: var(--text);
+  padding-top: 8px;
+}
+
+.testimonials-grid--1 {
+  grid-template-columns: 1fr;
+  max-width: 640px;
+}
+
+@media (max-width: 768px) {
+  .product-page-body {
+    grid-template-columns: 1fr;
+    gap: 32px;
+    padding: 48px 24px;
+  }
+  .product-page-desc { font-size: 16px; }
 }
 
 /* ── Team overview page (/zespol) ────────────────────────────────── */

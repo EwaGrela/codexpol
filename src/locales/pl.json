@@ -254,7 +254,8 @@
         "tagline": "Tomek to rozumiał. Tomek jest na urlopie. Teraz rozumie to AI.",
         "desc": "AI-powered narzędzie do analizy, dokumentowania i przepisywania legacy kodu na nowsze technologie. Działa na COBOL, VB6, Delphi, „jakimś Perlu z 2003” i kilku innych rzeczach, które macie na produkcji i wolicie o tym nie mówić. Legacy nie pyta dlaczego kod wygląda tak jak wygląda. Po prostu go czyta."
       }
-    }
+    },
+    "more": "Dowiedz się więcej"
   },
   "games": {
     "title": "Gamedev. Próbowaliśmy.",
@@ -319,5 +320,104 @@
   "zarzadPage": {
     "title": "Zarząd",
     "sub": "Jeden zbudował. Drugi zarządza. Bożenka pilnuje obu."
+  },
+  "testimonials": {
+    "label": "Klienci",
+    "home": {
+      "items": [
+        {
+          "quote": "Dwadzieścia lat bez migracji. Trzy zmiany przepisów, dwa audyty, jedna pandemia. SigmaFK przeżyło wszystko. Polecam — i mówię to jako człowiek, który przeżył wdrożenie SAP-a.",
+          "name": "Krzysztof W.",
+          "role": "Główny Księgowy",
+          "org": "spółka budowlana"
+        },
+        {
+          "quote": "Poprzedni system gubił dane przy aktualizacji Windowsa. Teczka95 ma wszystko od 2001 — urlopy, zwolnienia, aneksy. Nie wiem jak, ale ma.",
+          "name": "Anna P.",
+          "role": "Kierownik Kadr",
+          "org": "sieć handlowa"
+        },
+        {
+          "quote": "Poprzednie wdrożenie: osiem miesięcy, zewnętrzny konsultant, trzy opóźnienia. Hermes: dwa tygodnie, własny zespół, zero opóźnień. Różnica mówi sama za siebie.",
+          "name": "Marek D.",
+          "role": "Dyrektor Operacyjny",
+          "org": "dystrybutor FMCG"
+        }
+      ]
+    },
+    "sigmaFk": {
+      "items": [
+        {
+          "quote": "Dwadzieścia lat bez migracji. Trzy zmiany przepisów, dwa audyty, jedna pandemia. SigmaFK przeżyło wszystko. Polecam — i mówię to jako człowiek, który przeżył wdrożenie SAP-a.",
+          "name": "Krzysztof W.",
+          "role": "Główny Księgowy",
+          "org": "spółka budowlana"
+        }
+      ]
+    },
+    "teczka95": {
+      "items": [
+        {
+          "quote": "Poprzedni system gubił dane przy aktualizacji Windowsa. Teczka95 ma wszystko od 2001 — urlopy, zwolnienia, aneksy. Nie wiem jak, ale ma.",
+          "name": "Anna P.",
+          "role": "Kierownik Kadr",
+          "org": "sieć handlowa"
+        }
+      ]
+    },
+    "hermes": {
+      "items": [
+        {
+          "quote": "Poprzednie wdrożenie: osiem miesięcy, zewnętrzny konsultant, trzy opóźnienia. Hermes: dwa tygodnie, własny zespół, zero opóźnień. Różnica mówi sama za siebie.",
+          "name": "Marek D.",
+          "role": "Dyrektor Operacyjny",
+          "org": "dystrybutor FMCG"
+        }
+      ]
+    },
+    "zapora": {
+      "items": [
+        {
+          "quote": "Mieliśmy atak w piątek wieczór. Klasyczny timing. Zapora podniosła alarm, odcięła ruch, wysłała raport zanim zdążyłem zamówić drugie danie. Tak właśnie powinna wyglądać ochrona infrastruktury.",
+          "name": "Tomasz R.",
+          "role": "Dyrektor IT",
+          "org": "sieć dystrybucyjna"
+        },
+        {
+          "quote": "Kiedyś tłumaczyłem zarządowi co to SYN flood. Teraz pokazuję im wykres: czerwone słupki to ataki, zielona linia to uptime. Zielona linia jest prosta. Zarząd jest zadowolony. Ja też.",
+          "name": "Marek S.",
+          "role": "CTO",
+          "org": "firma produkcyjna"
+        },
+        {
+          "quote": "Nigdy nie mieliśmy poważnego ataku. Ale mam logi. W zeszłym roku Zapora zablokowała 1,2 miliona podejrzanych połączeń. Wolę nie wiedzieć jak by to wyglądało bez niej.",
+          "name": "Krzysztof M.",
+          "role": "Administrator Bezpieczeństwa",
+          "org": "urząd administracji publicznej"
+        }
+      ]
+    },
+    "legacy": {
+      "items": [
+        {
+          "quote": "Zbyszek wiedział jak to działa. Zbyszek odszedł na emeryturę. Legacy wie teraz więcej niż Zbyszek. Nie musimy dzwonić po Zbyszka.",
+          "name": "Kamil R.",
+          "role": "Kierownik Działu IT",
+          "org": "zakład ubezpieczeń"
+        },
+        {
+          "quote": "Od 1994 roku ten system steruje naszą linią produkcyjną. Przez trzydzieści lat nikt nie wiedział dokładnie jak — a pytaliśmy. Legacy przeczytało kod w weekend i napisało dokumentację której nigdy nie było. W poniedziałek po raz pierwszy nie baliśmy się dotknąć.",
+          "name": "Sławomir P.",
+          "role": "Główny Inżynier Systemów",
+          "org": "zakład energetyczny"
+        },
+        {
+          "quote": "Przed Legacy: rok pracy, czterech developerów, backlog który rósł szybciej niż malał. Po Legacy: trzy tygodnie, dokumentacja, mapa zależności, plan migracji. Teraz rozwijamy zamiast gasić pożary. Zespół odżył. Ludzie przestali patrzeć w podłogę na retrospektywach.",
+          "name": "Michał R.",
+          "role": "Lead Developer",
+          "org": "firma logistyczna"
+        }
+      ]
+    }
   }
 }

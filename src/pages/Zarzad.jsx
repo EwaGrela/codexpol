@@ -31,7 +31,7 @@ export default function Zarzad() {
         <p className="tech-sub">{t('zarzadPage.sub')}</p>
       </header>
 
-      <div className="tech-grid">
+      <div className="tech-grid tech-grid--2col">
         <ZarzadCard data={zdzislaw} img={zdzislawImg} />
         <ZarzadCard data={mariusz}  img={mariuszImg} />
       </div>
