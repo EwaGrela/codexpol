@@ -9,7 +9,7 @@ export default function ProductPage({ productKey, logo, testimonialsKey }) {
   return (
     <div className="subpage product-page">
       <header className="subpage-header">
-        <Link to="/produkty" className="subpage-back">← {t('products.title')}</Link>
+        <Link to="/produkty" state={{ product: productKey }} className="subpage-back">← {t('products.title')}</Link>
         <h1>{data.name}</h1>
         <p className="subpage-sub">{data.tagline}</p>
       </header>

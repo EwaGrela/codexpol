@@ -1,5 +1,5 @@
-import { useRef, useState } from 'react'
-import { Link } from 'react-router-dom'
+import { useRef, useState, useEffect } from 'react'
+import { Link, useLocation } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import sigmaImg    from '../assets/CODEXPOL_loga/SIGMA_FK.png'
 import hermesImg   from '../assets/CODEXPOL_loga/HERMES.png'
@@ -54,9 +54,17 @@ function ProductSlide({ id, data, t }) {
 
 export default function Products() {
   const { t } = useTranslation()
+  const { state } = useLocation()
   const items = t('products.items', { returnObjects: true })
-  const [current, setCurrent] = useState(0)
+  const initialIndex = state?.product ? Math.max(0, PRODUCT_KEYS.indexOf(state.product)) : 0
+  const [current, setCurrent] = useState(initialIndex)
   const trackRef = useRef(null)
+
+  useEffect(() => {
+    if (initialIndex > 0 && trackRef.current) {
+      trackRef.current.scrollLeft = initialIndex * trackRef.current.offsetWidth
+    }
+  }, [])
 
   function goTo(index) {
     setCurrent(index)

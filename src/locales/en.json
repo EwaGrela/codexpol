@@ -406,7 +406,7 @@
           "org": "insurance company"
         },
         {
-          "quote": "Since 1994 this system has controlled our production line. For thirty years no one knew exactly how — and we asked. Legacy read the code over a weekend and wrote documentation that never existed. On Monday, for the first time, we weren't afraid to touch it.",
+          "quote": "Since 1994 this system has controlled our production line. For thirty years no one knew exactly how — and we asked. Legacy read the code over a weekend and wrote documentation that never existed. On Monday, for the first time, we weren't afraid to touch the code.",
           "name": "Sławomir P.",
           "role": "Chief Systems Engineer",
           "org": "power plant"
