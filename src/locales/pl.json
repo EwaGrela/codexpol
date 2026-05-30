@@ -418,6 +418,26 @@
           "org": "firma logistyczna"
         }
       ]
+    },
+    "komBit": {
+      "items": [
+        {
+          "quote": "Kiedyś robiłam listy płac w Excelu. Teraz soboty mam wolne.",
+          "name": "Marta J.",
+          "role": "Główna Księgowa",
+          "org": "biuro rachunkowe"
+        }
+      ]
+    },
+    "vatowiec": {
+      "items": [
+        {
+          "quote": "Kolejna zmiana VAT w środku kwartału. VATOWIEC wiedział o niej wcześniej niż ja. Nie wiem czy mnie to niepokoi, czy uspokaja.",
+          "name": "Andrzej P.",
+          "role": "Dyrektor Finansowy",
+          "org": "firma usługowa"
+        }
+      ]
     }
   }
 }

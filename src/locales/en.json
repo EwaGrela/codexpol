@@ -418,6 +418,26 @@
           "org": "logistics company"
         }
       ]
+    },
+    "komBit": {
+      "items": [
+        {
+          "quote": "I used to do payroll in Excel. Now I have my Saturdays back.",
+          "name": "Marta J.",
+          "role": "Chief Accountant",
+          "org": "accounting office"
+        }
+      ]
+    },
+    "vatowiec": {
+      "items": [
+        {
+          "quote": "Another VAT change mid-quarter. VATOWIEC knew about it before I did. I'm not sure whether that worries me or reassures me.",
+          "name": "Andrzej P.",
+          "role": "Financial Director",
+          "org": "service company"
+        }
+      ]
     }
   }
 }
