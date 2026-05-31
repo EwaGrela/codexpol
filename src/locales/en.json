@@ -125,13 +125,6 @@
       "bio": "Started as a senior developer, became tech lead because nobody else wanted to run the 9:15 standups. Knows every line of legacy code. Understands some of them. Wears t-shirts with jokes only programmers find funny — and is proud of it.",
       "quote": "Don't panic. It's just code."
     },
-    "ewa": {
-      "name": "Sylwia",
-      "title": "Senior Fullstack Engineer",
-      "since": "At Codexpol since 2019",
-      "bio": "Writes the backend before others finish their coffee, fixes the frontend before anyone opens a ticket. Treats code review as a contact sport. Her comments are short, precise, and mildly terrifying.",
-      "quote": "Refactoring doesn't hurt. Technical debt does."
-    },
     "filip": {
       "name": "Filip",
       "title": "Frontend Developer",
@@ -152,6 +145,13 @@
       "since": "At Codexpol since 2020",
       "bio": "Finds bugs in things that \"definitely work\". Her test list has more items than Filip's wishlist for the next sprint. Even Sylwia and Tomek hold their breath before opening a message from her.",
       "quote": "Bugs don't sleep. Neither do I."
+    },
+    "sylwia": {
+      "name": "Sylwia",
+      "title": "Senior Fullstack Engineer",
+      "since": "At Codexpol since 2019",
+      "bio": "Writes the backend before others finish their coffee, fixes the frontend before anyone opens a ticket. Treats code review as a contact sport. Her comments are short, precise, and mildly terrifying.",
+      "quote": "Refactoring doesn't hurt. Technical debt does."
     }
   },
   "services": {

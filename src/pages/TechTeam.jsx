@@ -1,6 +1,6 @@
 import { useTranslation } from 'react-i18next'
 import tomekImg from '../assets/new_team_characters/tomek.png'
-import ewaImg from '../assets/new_team_characters/ewa.png'
+import sylwiaImg from '../assets/new_team_characters/sylwia.png'
 import filipImg from '../assets/new_team_characters/filip.png'
 import damianImg from '../assets/new_team_characters/damian.png'
 import tatianaImg from '../assets/new_team_characters/tatiana.png'
@@ -8,7 +8,7 @@ import haniaImg from '../assets/new_team_characters/hania_focused.png'
 
 const PORTRAITS = {
   tomek:   tomekImg,
-  ewa:     ewaImg,
+  sylwia:  sylwiaImg,
   hania:   haniaImg,
   filip:   filipImg,
   damian:  damianImg,
@@ -34,7 +34,7 @@ function TechCard({ data }) {
 
 export default function TechTeam() {
   const { t } = useTranslation()
-  const members = ['tomek', 'ewa', 'hania', 'filip', 'damian', 'tatiana'].map(key => ({
+  const members = ['tomek', 'sylwia', 'hania', 'filip', 'damian', 'tatiana'].map(key => ({
     key,
     ...t(`team.${key}`, { returnObjects: true }),
   }))

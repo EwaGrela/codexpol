@@ -4,7 +4,7 @@ import bozenkaImg from '../assets/personas/bozenka.png'
 import martaImg   from '../assets/personas/marta.png'
 import julkaImg   from '../assets/personas/julka2.png'
 import tomekImg   from '../assets/new_team_characters/tomek.png'
-import ewaImg     from '../assets/new_team_characters/ewa.png'
+import sylwiaImg  from '../assets/new_team_characters/sylwia.png'
 import filipImg   from '../assets/new_team_characters/filip.png'
 import damianImg  from '../assets/new_team_characters/damian.png'
 import tatianaImg from '../assets/new_team_characters/tatiana.png'
@@ -17,7 +17,7 @@ const HR_MEMBERS = [
 
 const TECH_MEMBERS = [
   { key: 'tomek',   src: tomekImg },
-  { key: 'ewa',     src: ewaImg },
+  { key: 'sylwia',  src: sylwiaImg },
   { key: 'filip',   src: filipImg },
   { key: 'damian',  src: damianImg },
   { key: 'tatiana', src: tatianaImg },

@@ -125,13 +125,6 @@
       "bio": "Zaczął jako senior developer, został tech leadem, bo nikt inny nie chciał prowadzić standupów o 9:15. Zna każdą linię legacy kodu. Część z nich nawet rozumie. Nosi koszulki z napisami, które są śmieszne tylko dla programistów — i jest z tego dumny.",
       "quote": "Don't panic. It's just code."
     },
-    "ewa": {
-      "name": "Sylwia",
-      "title": "Senior Fullstack Engineer",
-      "since": "W Codexpolu od 2019",
-      "bio": "Pisze backend zanim inni skończą kawę, a frontend poprawia zanim ktoś zdąży otworzyć ticket. Code review traktuje jako sport kontaktowy. Jej komentarze są krótkie, rzeczowe i lekko przerażające.",
-      "quote": "Refactor nie boli. Boli dług techniczny."
-    },
     "filip": {
       "name": "Filip",
       "title": "Frontend Developer",
@@ -152,6 +145,13 @@
       "since": "W Codexpolu od 2020",
       "bio": "Znajduje bugi w rzeczach, które „na pewno działają”. Jej lista testów ma więcej pozycji niż lista życzeń Filipa do następnego sprintu. Nawet Sylwia i Tomek wstrzymują oddech, zanim otworzą wiadomość od niej.",
       "quote": "Bugs don't sleep. Neither do I."
+    },
+    "sylwia": {
+      "name": "Sylwia",
+      "title": "Senior Fullstack Engineer",
+      "since": "W Codexpolu od 2019",
+      "bio": "Pisze backend zanim inni skończą kawę, a frontend poprawia zanim ktoś zdąży otworzyć ticket. Code review traktuje jako sport kontaktowy. Jej komentarze są krótkie, rzeczowe i lekko przerażające.",
+      "quote": "Refactor nie boli. Boli dług techniczny."
     }
   },
   "services": {
