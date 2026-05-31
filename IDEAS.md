@@ -24,6 +24,16 @@ Jeśli jednak budować: bohaterowie jako autorzy (Bożenka, Marta, Mariusz któr
   - for Skill Issue, office software, or both?
   - ideas: "Nasze CV przestały wyglądać jak formularze ZUS.", "System działa. Nie pytamy jak.", "Bożenka powiedziała żebyśmy wzięli. Wzięliśmy."
 
+## Gry — lore
+
+Codexpol napisał dwie gry (Podróż Służbowa + Wczasy). W 1991 roku, gdy Zdzisław Zelner wrócił z kontraktu w Libii, firma rozpoczęła prace nad trzecią grą: **Prince of Trypolis** — inspirowaną pobytem Zdzisława, osadzoną w klimatach Afryki Północnej (Trypolis = stolica Libii).
+
+W trakcie prac wyszedł Prince of Persia. Codexpol porzucił gamedev.
+
+Gra nigdy nie powstała. Coś zostało w szufladzie Zdzisława.
+
+- [ ] Prince of Trypolis — dodać do serwisu (forma TBD: niedokończona gra, legenda firmowa, easter egg?)
+
 ## Software biurowy — produkty
 
 Strona `/produkty` istnieje z 7 produktami (SIGMA FK, HERMES, TECZKA 95, KOM-BIT, VATOWIEC, ZAPORA, LEGACY).
