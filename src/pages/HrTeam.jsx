@@ -1,9 +1,9 @@
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import bozenkaImg from '../assets/personas/bozenka.png'
-import martaImg from '../assets/personas/marta.png'
-import julkaImg from '../assets/personas/julka2.png'
-import haniaImg from '../assets/new_team_characters/hania.png'
+import bozenkaImg from '../assets/personas/bozenka.webp'
+import martaImg from '../assets/personas/marta.webp'
+import julkaImg from '../assets/personas/julka2.webp'
+import haniaImg from '../assets/new_team_characters/hania.webp'
 
 function TeamCard({ data, img }) {
   return (

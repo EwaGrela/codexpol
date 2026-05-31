@@ -1,7 +1,7 @@
 import { useTranslation } from 'react-i18next'
-import bozenkaImg from '../assets/personas/bozenka.png'
-import martaImg from '../assets/personas/marta.png'
-import julkaImg from '../assets/personas/julka2.png'
+import bozenkaImg from '../assets/personas/bozenka.webp'
+import martaImg from '../assets/personas/marta.webp'
+import julkaImg from '../assets/personas/julka2.webp'
 
 function Portrait({ src, alt }) {
   return (

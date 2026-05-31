@@ -1,13 +1,13 @@
 import { useTranslation } from 'react-i18next'
 import { Link } from 'react-router-dom'
-import bozenkaImg from '../assets/personas/bozenka.png'
-import martaImg   from '../assets/personas/marta.png'
-import julkaImg   from '../assets/personas/julka2.png'
-import tomekImg   from '../assets/new_team_characters/tomek.png'
-import sylwiaImg  from '../assets/new_team_characters/sylwia.png'
-import filipImg   from '../assets/new_team_characters/filip.png'
-import damianImg  from '../assets/new_team_characters/damian.png'
-import tatianaImg from '../assets/new_team_characters/tatiana.png'
+import bozenkaImg from '../assets/personas/bozenka.webp'
+import martaImg   from '../assets/personas/marta.webp'
+import julkaImg   from '../assets/personas/julka2.webp'
+import tomekImg   from '../assets/new_team_characters/tomek.webp'
+import sylwiaImg  from '../assets/new_team_characters/sylwia.webp'
+import filipImg   from '../assets/new_team_characters/filip.webp'
+import damianImg  from '../assets/new_team_characters/damian.webp'
+import tatianaImg from '../assets/new_team_characters/tatiana.webp'
 
 const HR_MEMBERS = [
   { key: 'bozena',  src: bozenkaImg },

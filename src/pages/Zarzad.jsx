@@ -1,6 +1,6 @@
 import { useTranslation } from 'react-i18next'
-import mariuszImg  from '../assets/new_team_characters/mariusz_1.png'
-import zdzislawImg from '../assets/new_team_characters/zdzislaw.png'
+import mariuszImg  from '../assets/new_team_characters/mariusz_1.webp'
+import zdzislawImg from '../assets/new_team_characters/zdzislaw.webp'
 
 function ZarzadCard({ data, img }) {
   return (

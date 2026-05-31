@@ -1,6 +1,6 @@
 import { useTranslation } from 'react-i18next'
 import { Link } from 'react-router-dom'
-import logo from '../assets/logo_codexpol.png'
+import logo from '../assets/logo_codexpol.webp'
 
 export default function Nav() {
   const { t, i18n } = useTranslation()

@@ -1,5 +1,5 @@
 import ProductPage from './ProductPage'
-import logo from '../assets/CODEXPOL_loga/KOM_BIT.png'
+import logo from '../assets/CODEXPOL_loga/KOM_BIT.webp'
 
 export default function KomBit() {
   return <ProductPage productKey="komBit" logo={logo} testimonialsKey="komBit" />

@@ -1,10 +1,10 @@
 import { useTranslation } from 'react-i18next'
-import tomekImg from '../assets/new_team_characters/tomek.png'
-import sylwiaImg from '../assets/new_team_characters/sylwia.png'
-import filipImg from '../assets/new_team_characters/filip.png'
-import damianImg from '../assets/new_team_characters/damian.png'
-import tatianaImg from '../assets/new_team_characters/tatiana.png'
-import haniaImg from '../assets/new_team_characters/hania_focused.png'
+import tomekImg from '../assets/new_team_characters/tomek.webp'
+import sylwiaImg from '../assets/new_team_characters/sylwia.webp'
+import filipImg from '../assets/new_team_characters/filip.webp'
+import damianImg from '../assets/new_team_characters/damian.webp'
+import tatianaImg from '../assets/new_team_characters/tatiana.webp'
+import haniaImg from '../assets/new_team_characters/hania_focused.webp'
 
 const PORTRAITS = {
   tomek:   tomekImg,
