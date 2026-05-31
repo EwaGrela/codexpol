@@ -1,0 +1,18 @@
+╔═════════════════════════════════════════════╗
+║  {c}FWP USTROŃ  ·  DOM WCZASOWY "GRUSZA"   {a}║
+╠═════════════════════════════════════════════╣
+║                                             ║
+║   {w}╔══════════╗{a}       ◉  ← nie patrzy     ║
+║   {w}║ KSIEGA   ║{a}      ▐█▌                  ║
+║   {w}║ MELD.    ║{a}       █                   ║
+║   {w}╠══════════╣{a}               {c}╔══════╗{a}   ║
+║   {w}║{d}▓▓▓▓▓▓▓▓▓▓{w}║{a}               {c}║  TV  ║{a}   ║
+║   {w}╚══════════╝{a}               {c}╚══════╝{a}   ║
+║                                             ║
+║  {d}"Nieczynny od osiemdziesiątego ósmego." {a}║
+║  {d}Nie podnosi wzroku.                     {a}║
+╚═════════════════════════════════════════════╝
+
+{d}  Ty: "A kiedy będzie czynny?"
+  Ona: (odwraca stronę w księdze meldunkowej)
+{r}  To jest odpowiedź.

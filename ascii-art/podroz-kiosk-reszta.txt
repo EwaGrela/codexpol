@@ -1,0 +1,19 @@
+╔═════════════════════════════════════════════╗
+║      {c}KIOSK RUCHU – PERON 2 KATOWICE      {a}║
+╠═════════════════════════════════════════════╣
+║                                             ║
+║  {w}┌──────────────────────────────────┐{a}   ║
+║  {w}│{d}         (okienko zamknięte)     {w}│{a}   ║
+║  {w}│                                  │{a}   ║
+║  {w}│  {d}Pan poszedł po resztę.         {w}│{a}   ║
+║  {w}│  {c}[Sprite 0,33l]{d} stoi za ladą.   {w}│{a}   ║
+║  {w}└──────────────────────────────────┘{a}   ║
+║                                             ║
+║  {a}◉  ← Zenon  {y}17:09{a}                       ║
+║  ▐█▌  {d}[pięćdziesiąt złotych: wydane]{a}       ║
+║  ╱ ╲                                        ║
+╚═════════════════════════════════════════════╝
+
+{d}  Wrócił po 14 minutach.
+  Reszta: 46,50 zł w monetach 5-groszowych.
+{a}  Sprite: letni. Wart każdej sekundy.

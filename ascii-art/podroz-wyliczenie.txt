@@ -1,0 +1,20 @@
+╔═════════════════════════════════════════════╗
+║  {c}ZARZĄD REJONOWY DS. LOGISTYKI – KATOW.  {a}║
+╠═════════════════════════════════════════════╣
+║                                             ║
+║  {a}"Tu jest błąd. Proszę zobaczyć:"        ║
+║                                             ║
+║  {d}[palec wskazuje na fakturę]{a}              ║
+║                                             ║
+║   {a}◉  ← Pani Krystyna                     ║
+║  ▐█▌  {d}(nie patrzy na palec){a}               ║
+║  ╱ ╲                                        ║
+║                                             ║
+║        {d}[dzwoni do pana Mirka z działu]{a}    ║
+║        {d}Pan Mirek: "tak jest od zawsze"{a}    ║
+╚═════════════════════════════════════════════╝
+
+{d}  Pani Krystyna: "tak jest od zawsze".
+  Pan Mirek: "tak jest od zawsze".
+  Zenon: rozumie że tak jest od zawsze.
+{r}  Tak jest od zawsze.

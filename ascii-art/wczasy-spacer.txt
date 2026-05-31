@@ -1,0 +1,19 @@
+╔═════════════════════════════════════════════╗
+║       {c}USTROŃ  –  UL. WCZASOWA           {a}║
+╠═════════════════════════════════════════════╣
+║                                             ║
+║         {g}▲  ▲    ▲   ▲  ▲{a}                 ║
+║        {g}/▲\/▲\  /▲\ /▲\/▲\{a}                ║
+║       {g}▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄{a}                ║
+║                                             ║
+║  {d}[FWP "SOSNA"]  [FWP "JODŁA"]  [FWP ?]{a}   ║
+║                                             ║
+║      {a}◉  ← Ty                              ║
+║     ▐█▌  {d}[bez celu]{a}                      ║
+║     ╱ ╲                                     ║
+╚═════════════════════════════════════════════╝
+
+{d}  Góry są. To jest pewne.
+  Powietrze jest czyste. To też jest pewne.
+  Kiosk zamknięty. Poniedziałek.
+{a}  Stoisz chwilę. Wracasz.

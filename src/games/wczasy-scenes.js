@@ -1,3 +1,8 @@
+import sasiadArt from '../../ascii-art/wczasy-sasiad.txt?raw'
+import spacerArt from '../../ascii-art/wczasy-spacer.txt?raw'
+import ostatniRanekArt from '../../ascii-art/wczasy-ostatni-ranek.txt?raw'
+import recepcjaBasenArt from '../../ascii-art/wczasy-recepcja-basen.txt?raw'
+import kawiarniaZamekArt from '../../ascii-art/wczasy-kawiarnia-zamek.txt?raw'
 import recepcjaArt from '../../ascii-art/wczasy-recepcja.txt?raw'
 import pokojArt from '../../ascii-art/wczasy-pokoj.txt?raw'
 import pukanieArt from '../../ascii-art/wczasy-pukanie.txt?raw'
@@ -25,6 +30,14 @@ export const scenes = {
 
   wc_recepcja: {
     art: recepcjaArt,
+    choices: [
+      { label: 'Zapytaj o basen', next: 'wc_recepcja_basen' },
+      { label: 'Idź do pokoju', next: 'wc_pokoj' },
+    ],
+  },
+
+  wc_recepcja_basen: {
+    art: recepcjaBasenArt,
     choices: [
       { label: 'Idź do pokoju', next: 'wc_pokoj' },
     ],
@@ -56,6 +69,14 @@ export const scenes = {
   wc_stolowka: {
     art: stolowkaArt,
     choices: [
+      { label: 'Zagadaj do sąsiada', next: 'wc_sasiad' },
+      { label: 'Jedz w milczeniu', next: 'wc_basen' },
+    ],
+  },
+
+  wc_sasiad: {
+    art: sasiadArt,
+    choices: [
       { label: 'Idź na basen', next: 'wc_basen' },
     ],
   },
@@ -69,6 +90,14 @@ export const scenes = {
 
   wc_widok: {
     art: widokArt,
+    choices: [
+      { label: 'Wyjdź na spacer', next: 'wc_spacer' },
+      { label: 'Następny dzień', next: 'wc_wycieczka_wybor' },
+    ],
+  },
+
+  wc_spacer: {
+    art: spacerArt,
     choices: [
       { label: 'Następny dzień', next: 'wc_wycieczka_wybor' },
     ],
@@ -84,6 +113,14 @@ export const scenes = {
 
   wc_zamek: {
     art: zamekArt,
+    choices: [
+      { label: 'Zaczekaj w kawiarni', next: 'wc_kawiarnia_zamek' },
+      { label: 'Wróć do autokaru', next: 'wc_karty' },
+    ],
+  },
+
+  wc_kawiarnia_zamek: {
+    art: kawiarniaZamekArt,
     choices: [
       { label: 'Wróć do ośrodka', next: 'wc_karty' },
     ],
@@ -104,7 +141,7 @@ export const scenes = {
   },
 
   wc_telefon_wybor: {
-    art: pokojArt,
+    art: ostatniRanekArt,
     choices: [
       { label: 'Zadzwoń do domu', next: 'wc_telefon' },
       { label: 'Zostań do końca', next: 'wc_reklamacja_wybor' },

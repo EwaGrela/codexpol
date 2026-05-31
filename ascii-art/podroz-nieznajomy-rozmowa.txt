@@ -1,0 +1,19 @@
+╔═════════════════════════════════════════════╗
+║{d} [torba]           [nic]           [nic]   {a}║
+╠══════════════ {w}PRZEDZIAŁ 6{a} ════════════════╣
+║                                             ║
+║  {a}◉                              ◉{a}        ║
+║  ▐█▌                             ▐█▌        ║
+║  ╱ ╲                             ╱ ╲        ║
+║  {a}Zenon                    Nieznajomy      ║
+║                                             ║
+║  {d}"Faktury" – mówi Nieznajomy.            {a}║
+║  {d}Kiwa głową. Patrzy przez okno.          {a}║
+║  {d}"U mnie też tak jest."                  {a}║
+║                                             ║
+╚═════════════════════════════════════════════╝
+
+{d}  Zenon nie pyta co znaczy "u mnie też".
+  Nieznajomy nie pyta o szczegóły.
+  Jadą w milczeniu przez Śląsk.
+{a}  To jest wystarczające.

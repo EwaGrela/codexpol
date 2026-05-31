@@ -17,5 +17,4 @@
   Kasza się skończyła. Są pierogi.
   Jest 13:11. Biuro zamykają o 15:00.
   Pani Krystyna wraca z przerwy o 14:30.
-{a}  Masz czas.
 {r}  Nie masz czasu.

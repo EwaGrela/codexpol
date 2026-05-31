@@ -1,0 +1,20 @@
+╔═════════════════════════════════════════════╗
+║           {c}STOŁÓWKA  (parter){a}               ║
+╠═════════════════════════════════════════════╣
+║                                             ║
+║   {a}◉                         ◉{a}             ║
+║  ▐█▌                        ▐█▌             ║
+║  ╱ ╲                        ╱ ╲             ║
+║  {a}Ty                   Pan Ryszard{a}          ║
+║           {d}(Sosnowiec, obróbka metali){a}      ║
+║                                             ║
+║  {w}┌──────────┐       ┌──────────┐{a}          ║
+║  {w}│{d} zupa ml. {w}│       │{d} zupa ml. {w}│{a}          ║
+║  {w}└──────────┘       └──────────┘{a}          ║
+╚═════════════════════════════════════════════╝
+
+{d}  Pan Ryszard: "Z Bydgoszczy?"
+  Ty: "Tak."
+  Pan Ryszard: "Aaa."
+  Jecie zupę mleczną w milczeniu.
+{a}  Pan Ryszard jest OK.
