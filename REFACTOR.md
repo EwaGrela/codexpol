@@ -4,9 +4,8 @@ A prioritized review of the repo, written as a working backlog. Each item is
 something to tackle directly; the table is roughly the order to do them in.
 Effort is a rough t-shirt size; Risk is the chance of breaking something live.
 
-**Overall health: ~6.5/10.** Solid small React/Vite marketing site with strong
-content and good DRY instincts. The problems are mostly hygiene — committed
-assets, missing docs, no tests — rather than architecture.
+**Overall health: ~7.5/10.** P0 hygiene done: README, smoke tests, and ~80 MB of
+asset cleanup. Remaining work is tests → i18n tooling → content.
 
 ---
 
@@ -14,11 +13,11 @@ assets, missing docs, no tests — rather than architecture.
 
 | #  | Priority | Item | Area | Effort | Risk | Why it matters |
 |----|----------|------|------|--------|------|----------------|
-| 1  | 🔴 P0 | Delete orphaned assets (~48 MB, 19 files) | Assets | S | Low | Half of `src/assets` is never imported. Biggest, easiest win. |
-| 2  | 🔴 P0 | Optimize remaining images (WebP/AVIF + compress) | Assets | M | Low | 2–6 MB PNGs ship raw. Hurts load time and repo size. |
-| 3  | 🔴 P0 | Replace stock README with a real one | Docs | S | None | Still the Vite template. No project info for humans or agents. |
-| 4  | 🟠 P1 | Add a smoke test suite (Playwright is already installed) | Tests | M | None | Zero tests; refactors have no safety net. |
-| 5  | 🟠 P1 | Add `npm run test` + wire Playwright config | Tooling | S | None | The dep exists but there's no script or config to run it. |
+| 1  | ✅ done | Delete orphaned assets (~48 MB, 19 files) | Assets | S | Low | 12 deleted, 7 moved to `design-assets/`. |
+| 2  | ✅ done | Optimize remaining images (WebP/AVIF + compress) | Assets | M | Low | All 21 in-use PNGs → WebP; portraits −94%, logos −29%. |
+| 3  | ✅ done | Replace stock README with a real one | Docs | S | None | Route map, i18n model, ProductPage pattern, GameEngine format. |
+| 4  | ✅ done | Add a smoke test suite (Playwright is already installed) | Tests | M | None | 19 smoke tests: all routes + PL↔EN toggle. All green. |
+| 5  | ✅ done | Add `npm run test` + wire Playwright config | Tooling | S | None | `playwright.config.js` + `"test"` script added. |
 | 6  | 🟡 P2 | Lock the two locale files in sync (key-parity check) | i18n | S | Low | `pl.json`/`en.json` (443 lines each) drift by hand today. |
 | 7  | 🟡 P2 | i18n + copy polish pass (per `IDEAS.md`) | Content | M | Low | Tone cleanup PL-first, then mirror EN. Tracked in IDEAS.md. |
 | 8  | 🟡 P2 | Flesh out `vite.config.js` (base, build, env) | Tooling | S | Med | `VITE_API_URL`/prod config flagged unresolved in IDEAS.md. |
@@ -30,57 +29,25 @@ assets, missing docs, no tests — rather than architecture.
 
 ## Detail by item
 
-### 1. Delete orphaned assets — 🔴 P0, ~48 MB
-19 committed PNGs are never imported anywhere in `src`. Confirmed orphans:
+### 1. Delete orphaned assets — ✅ done
+12 truly dead PNGs deleted, 7 future-content files moved to `design-assets/`
+(EN personas Carol/Chloe/Lauren, polish_team.png, Hania portraits). ~48 MB out
+of `src`. Commit: `chore: usuń osierozone assety z src`.
 
-```
-src/assets/hero.png
-src/assets/new_team_characters/hania_no_glasses.png
-src/assets/new_team_characters/hania_whiteboard.png
-src/assets/new_team_characters/mariusz_blisko.png
-src/assets/new_team_characters/mariusz_face.png
-src/assets/new_team_characters/tomek_ewa.png
-src/assets/new_team_characters/tomek_shirt.png
-src/assets/personas/brit_trio.png
-src/assets/personas/british.png
-src/assets/personas/british_team.png
-src/assets/personas/british_team2.png
-src/assets/personas/carol.png
-src/assets/personas/carol2.png
-src/assets/personas/chloe.png
-src/assets/personas/julka.png   (julka2.png is the one in use)
-src/assets/personas/lauren.png
-src/assets/personas/polish.png
-src/assets/personas/polish_team.png
-src/assets/personas/polish_team2.png
-```
+### 2. Optimize remaining images — ✅ done
+All 21 in-use PNGs converted to WebP using Pillow. Team portraits: ~2 MB →
+~130 KB each (−94%). Product logos: lossless WebP, −29%. ~33 MB saved.
+Imports updated in 17 JSX files. Commit: `perf: konwertuj wszystkie obrazy PNG → WebP`.
 
-> ⚠️ A few of these are *intentional future content* per `IDEAS.md`
-> (EN personas Carol/Lauren/Chloe; `polish_team.png` for a possible hero/origin
-> section). Decide per-file: delete now, or move to a `design-assets/` folder
-> **outside** `src` so they don't ship in the bundle. Don't just blanket-delete.
+### 3. Real README — ✅ done
+README replaced with full project docs: stack, route map, i18n model,
+ProductPage/productKey pattern, GameEngine scene-graph format.
+Commit: `docs: zastąp szablon Vite prawdziwym README projektu`.
 
-How to verify before deleting any file:
-```bash
-grep -rq "$(basename FILE)" src --include='*.jsx' --include='*.js'
-```
-
-### 2. Optimize remaining images — 🔴 P0
-Largest in-use assets are still multi-MB PNGs. Convert to WebP/AVIF and/or
-compress; consider `vite-imagetools` or a build-time step so source stays clean.
-Target: no shipped image over a few hundred KB unless there's a reason.
-
-### 3. Real README — 🔴 P0
-Current README is the unmodified Vite template. A useful one covers: what
-Codexpol is, the route map (from `App.jsx`), the i18n model (everything lives in
-`locales/*.json`, PL is source of truth), the `ProductPage`/`productKey`
-pattern, and the `GameEngine` scene-graph format.
-
-### 4 & 5. Tests — 🟠 P1
-`playwright` is in devDependencies but there's no config, no test script, and no
-specs. Add a minimal `playwright.config.js`, a `"test"` script, and smoke tests
-that load each route and assert the page renders + language toggle works. This
-is the safety net for every refactor below it.
+### 4 & 5. Tests — ✅ done
+`playwright.config.js` added with `webServer` boot. `tests/smoke.spec.js` has
+19 tests: every route renders without JS errors + PL↔EN toggle. `"test"` script
+added to `package.json`. All 19 green. Commit: `test: dodaj smoke testy Playwright`.
 
 ### 6. Locale parity — 🟡 P2
 `pl.json` and `en.json` are both 443 lines and kept in sync manually. Add a tiny
@@ -102,20 +69,17 @@ reading `initialIndex`. Functionally fine; tidy it (include the dep or document
 the intent) when you're in the file.
 
 ### 10. EN persona assets — 🟢 P3
-Tied to #1. Carol/Lauren/Chloe portraits exist for an English subpage that
-isn't built. Either wire up the EN team route or move the files out of `src`.
+Tied to #1. Carol/Lauren/Chloe portraits moved to `design-assets/personas/`.
+Either wire up the EN team route or delete them when the decision is made.
 
 ### 11. Claude setup — 🟢 P3
 `CLAUDE.md` + `.claude/` slash commands. Separate deliverable; building next.
 
 ---
 
-## Suggested order for tomorrow
+## Suggested order for next session
 
-1. **#3 README** first (10 min, gives everyone — including agents — context).
-2. **#4/#5 tests** next, so the rest has a safety net.
-3. **#1 then #2 assets** — the big measurable win, now backed by tests.
-4. Everything else as time allows, P2 → P3.
-
-Rationale: docs and tests are zero-risk and make every later step safer and
-easier to verify.
+1. **#6 locale parity** — cheap script, instant safety net for i18n work.
+2. **#7 copy polish** — walk `pl.json` section by section, update `en.json` after.
+3. **#8 Vite config** — `base`, build options, env before deploy.
+4. **#9/#10** as time allows.
