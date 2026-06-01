@@ -65,7 +65,7 @@
       },
       {
         "year": "2025",
-        "text": "Bożenka takes note. \"Hey, this is actually good.\""
+        "text": "Bożenka notices. \"Oh, this is actually good.\""
       },
       {
         "year": "2026",
@@ -206,7 +206,7 @@
   "soon": {
     "label": "Coming soon",
     "title": "Skill Issue",
-    "tagline": "Your CV as a recruiter, ATS, and the job market actually see it.",
+    "tagline": "Your CV the way a recruiter, an ATS, and the job market actually see it.",
     "features": [
       "CV assessment — honest, no sugarcoating",
       "ATS score with specific improvement tips",

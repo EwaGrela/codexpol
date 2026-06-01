@@ -19,7 +19,7 @@ asset cleanup. Remaining work is tests → i18n tooling → content.
 | 4  | ✅ done | Add a smoke test suite (Playwright is already installed) | Tests | M | None | 19 smoke tests: all routes + PL↔EN toggle. All green. |
 | 5  | ✅ done | Add `npm run test` + wire Playwright config | Tooling | S | None | `playwright.config.js` + `"test"` script added. |
 | 6  | ✅ done | Lock the two locale files in sync (key-parity check) | i18n | S | Low | `scripts/check-locale-parity.js` + `npm run check-i18n`. |
-| 7  | 🟡 P2 | i18n + copy polish pass (per `IDEAS.md`) | Content | M | Low | Tone cleanup PL-first, then mirror EN. Tracked in IDEAS.md. |
+| 7  | ✅ done | i18n + copy polish pass (per `IDEAS.md`) | Content | M | Low | PL przejrzany — bez zmian (poprzednie rundy wystarczyły). EN: 2 zmiany. |
 | 8  | 🟡 P2 | Flesh out `vite.config.js` (base, build, env) | Tooling | S | Med | `VITE_API_URL`/prod config flagged unresolved in IDEAS.md. |
 | 9  | 🟢 P3 | Fix `Products.jsx` mount effect deps | Code | S | Low | Empty-dep effect scrolls slider; works but is a lint smell. |
 | 10 | 🟢 P3 | Decide on EN persona assets (wire up or delete) | Assets/Content | S | Low | Carol/Lauren/Chloe exist but unused; IDEAS.md is undecided. |
@@ -54,9 +54,12 @@ added to `package.json`. All 19 green. Commit: `test: dodaj smoke testy Playwrig
 lengths in pl.json vs en.json, exits 1 on any mismatch. Run via
 `npm run check-i18n`. Currently 182 keys, fully in sync.
 
-### 7. Copy polish — 🟡 P2
-Already scoped in `IDEAS.md`: walk `pl.json` section by section for lighter
-tone, then update `en.json` afterward. Content work, low technical risk.
+### 7. Copy polish — ✅ done
+PL przejrzany sekcja po sekcji — bez zmian, poprzednie rundy wystarczyły.
+EN: dwie zmiany tonu:
+- `history[2025]`: "takes note" → "notices" (mniej korporacyjnie)
+- `soon.tagline`: poprawka gramatyczna ("the way a recruiter…")
+Kalki z polskich przysłów (np. Hania quote) zostawione celowo — pasują do charakteru serwisu.
 
 ### 8. Vite config — 🟡 P2
 `vite.config.js` is bare (`react()` only). `IDEAS.md` flags `VITE_API_URL` and
