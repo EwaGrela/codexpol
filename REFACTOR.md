@@ -18,7 +18,7 @@ asset cleanup. Remaining work is tests → i18n tooling → content.
 | 3  | ✅ done | Replace stock README with a real one | Docs | S | None | Route map, i18n model, ProductPage pattern, GameEngine format. |
 | 4  | ✅ done | Add a smoke test suite (Playwright is already installed) | Tests | M | None | 19 smoke tests: all routes + PL↔EN toggle. All green. |
 | 5  | ✅ done | Add `npm run test` + wire Playwright config | Tooling | S | None | `playwright.config.js` + `"test"` script added. |
-| 6  | 🟡 P2 | Lock the two locale files in sync (key-parity check) | i18n | S | Low | `pl.json`/`en.json` (443 lines each) drift by hand today. |
+| 6  | ✅ done | Lock the two locale files in sync (key-parity check) | i18n | S | Low | `scripts/check-locale-parity.js` + `npm run check-i18n`. |
 | 7  | 🟡 P2 | i18n + copy polish pass (per `IDEAS.md`) | Content | M | Low | Tone cleanup PL-first, then mirror EN. Tracked in IDEAS.md. |
 | 8  | 🟡 P2 | Flesh out `vite.config.js` (base, build, env) | Tooling | S | Med | `VITE_API_URL`/prod config flagged unresolved in IDEAS.md. |
 | 9  | 🟢 P3 | Fix `Products.jsx` mount effect deps | Code | S | Low | Empty-dep effect scrolls slider; works but is a lint smell. |
@@ -49,10 +49,10 @@ Commit: `docs: zastąp szablon Vite prawdziwym README projektu`.
 19 tests: every route renders without JS errors + PL↔EN toggle. `"test"` script
 added to `package.json`. All 19 green. Commit: `test: dodaj smoke testy Playwright`.
 
-### 6. Locale parity — 🟡 P2
-`pl.json` and `en.json` are both 443 lines and kept in sync manually. Add a tiny
-script (or a Playwright/unit assertion) that fails when the two key sets differ.
-Cheap insurance against half-translated keys.
+### 6. Locale parity — ✅ done
+`scripts/check-locale-parity.js` recursively diffs all dict keys and array
+lengths in pl.json vs en.json, exits 1 on any mismatch. Run via
+`npm run check-i18n`. Currently 182 keys, fully in sync.
 
 ### 7. Copy polish — 🟡 P2
 Already scoped in `IDEAS.md`: walk `pl.json` section by section for lighter
