@@ -64,7 +64,7 @@ export default function Products() {
     if (initialIndex > 0 && trackRef.current) {
       trackRef.current.scrollLeft = initialIndex * trackRef.current.offsetWidth
     }
-  }, [])
+  }, [initialIndex])
 
   function goTo(index) {
     setCurrent(index)

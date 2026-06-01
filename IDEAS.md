@@ -57,7 +57,7 @@ Tagline przykłady (styl Codexpol):
 
 - [ ] Hania easter egg card na `/kadry` — portret do wygenerowania
 - [ ] Zdecydować co zrobić z `polish_team.png` — hero albo origin section?
-- [ ] English personas (Carol, Lauren, Chloe) — wire up when EN subpage is needed
+- ~~English personas (Carol, Lauren, Chloe)~~ — usunięte, EN subpage nie planowany
 
 ## Content
 

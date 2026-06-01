@@ -20,9 +20,9 @@ asset cleanup. Remaining work is tests → i18n tooling → content.
 | 5  | ✅ done | Add `npm run test` + wire Playwright config | Tooling | S | None | `playwright.config.js` + `"test"` script added. |
 | 6  | ✅ done | Lock the two locale files in sync (key-parity check) | i18n | S | Low | `scripts/check-locale-parity.js` + `npm run check-i18n`. |
 | 7  | ✅ done | i18n + copy polish pass (per `IDEAS.md`) | Content | M | Low | PL przejrzany — bez zmian (poprzednie rundy wystarczyły). EN: 2 zmiany. |
-| 8  | 🟡 P2 | Flesh out `vite.config.js` (base, build, env) | Tooling | S | Med | `VITE_API_URL`/prod config flagged unresolved in IDEAS.md. |
-| 9  | 🟢 P3 | Fix `Products.jsx` mount effect deps | Code | S | Low | Empty-dep effect scrolls slider; works but is a lint smell. |
-| 10 | 🟢 P3 | Decide on EN persona assets (wire up or delete) | Assets/Content | S | Low | Carol/Lauren/Chloe exist but unused; IDEAS.md is undecided. |
+| 8  | ✅ done | Flesh out `vite.config.js` (base, build, env) | Tooling | S | Med | `base`, `sourcemap`, vendor/i18n chunks, `.env.example`, `public/.htaccess` for Apache SPA routing. |
+| 9  | ✅ done | Fix `Products.jsx` mount effect deps | Code | S | Low | Added `initialIndex` to effect deps. |
+| 10 | ✅ done | Decide on EN persona assets (wire up or delete) | Assets/Content | S | Low | Carol/Lauren/Chloe usunięte z design-assets — EN subpage nie planowany. |
 | 11 | 🟢 P3 | Add CLAUDE.md + .claude/ commands | Tooling | S | None | Agent guidance (separate task — see below). |
 
 ---
@@ -61,10 +61,10 @@ EN: dwie zmiany tonu:
 - `soon.tagline`: poprawka gramatyczna ("the way a recruiter…")
 Kalki z polskich przysłów (np. Hania quote) zostawione celowo — pasują do charakteru serwisu.
 
-### 8. Vite config — 🟡 P2
-`vite.config.js` is bare (`react()` only). `IDEAS.md` flags `VITE_API_URL` and
-prod build config as open. Add `base`, build options, and env handling before
-deploy. Med risk because it touches how the app is served.
+### 8. Vite config — ✅ done
+Added `base: '/'`, `build.sourcemap: false`, `manualChunks` (vendor + i18n split).
+Added `.env.example` documenting `VITE_API_URL` for future Skill Issue backend.
+Added `public/.htaccess` with Apache SPA fallback so direct URLs on home.pl don't 404.
 
 ### 9. Products.jsx effect — 🟢 P3
 The mount effect that sets initial slider scroll uses an empty dep array while
