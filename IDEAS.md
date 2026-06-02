@@ -1,16 +1,5 @@
 # Codexpol — Ideas & Improvements
 
-## Copywriting — przegląd języka
-
-Cały tekst wymaga przejścia pod kątem lekkości — miejscami za ciężko, za korporacyjnie.
-Najlepiej razem: przeglądamy `pl.json` sekcja po sekcji, podrasowujemy na bieżąco.
-`en.json` aktualizujemy po polskim — EN jest wtórny.
-
-## Trust indicators
-
-Pasek statystyk w Codexpol voice, np.:
-*"37 lat na rynku. 5 produktów. 1 incydent z drukarką."*
-
 ## Blog firmowy
 
 Decyzja: najprawdopodobniej **tylko lore** — nie budować technicznie, tylko wspomnieć że istniał.
@@ -18,25 +7,17 @@ Decyzja: najprawdopodobniej **tylko lore** — nie budować technicznie, tylko w
 
 Jeśli jednak budować: bohaterowie jako autorzy (Bożenka, Marta, Mariusz który napisał jeden post o strategii i zniknął).
 
-## Nowe sekcje
-
-- [ ] Client testimonials — 3–4 made-up quotes, dry Codexpol humor style
-  - for Skill Issue, office software, or both?
-  - ideas: "Nasze CV przestały wyglądać jak formularze ZUS.", "System działa. Nie pytamy jak.", "Bożenka powiedziała żebyśmy wzięli. Wzięliśmy."
-
 ## Gry — lore
 
-Codexpol napisał dwie gry (Podróż Służbowa + Wczasy). W 1991 roku, gdy Zdzisław Zelner wrócił z kontraktu w Libii, firma rozpoczęła prace nad trzecią grą: **Prince of Trypolis** — inspirowaną pobytem Zdzisława, osadzoną w klimatach Afryki Północnej (Trypolis = stolica Libii).
+Codexpol napisał dwie gry (Podróż Służbowa + Wczasy). Zdzisław Krawczyk wrócił z Libii w 1988. W 1991, przy okazji prac nad grą "Wczasy pod gruszą", wpadł na pomysł własnej — **Prince of Trypolis**, klimaty Afryki Północnej, Trypolis jako tło.
 
-W trakcie prac wyszedł Prince of Persia. Codexpol porzucił gamedev.
+Złe recenzje poprzednich gier w Bajtku podcięły skrzydła. Prace zarzucono.
 
 Gra nigdy nie powstała. Coś zostało w szufladzie Zdzisława.
 
 - [ ] Prince of Trypolis — dodać do serwisu (forma TBD: niedokończona gra, legenda firmowa, easter egg?)
 
 ## Software biurowy — produkty
-
-Strona `/produkty` istnieje z 7 produktami (SIGMA FK, HERMES, TECZKA 95, KOM-BIT, VATOWIEC, ZAPORA, LEGACY).
 
 Brainstorm dodatkowych nazw na przyszłość (nie budować — lore):
 
@@ -53,20 +34,11 @@ Tagline przykłady (styl Codexpol):
 - "Hania szukała właśnie tego formularza, kiedy znalazła Skill Issue."
 - "Teczki. Ale w komputerze. Zgodne z RODO — zapytaj prawnika, nie nas."
 
-## Team — pozostałe
-
-- [ ] Hania easter egg card na `/kadry` — portret do wygenerowania
-- [ ] Zdecydować co zrobić z `polish_team.png` — hero albo origin section?
-- ~~English personas (Carol, Lauren, Chloe)~~ — usunięte, EN subpage nie planowany
-
 ## Content
 
 - [ ] Skill Issue CTAs — zamienić anchor linki na prawdziwy URL po deployu
 - [ ] Origin story section — przywrócić gdy Skill Issue będzie live?
-- [ ] EN translations — przegląd tonu (obecnie zbyt dosłowne, mogłoby być śmieszniejsze)
 
 ## Tech
 
-- [ ] `VITE_API_URL` / prod build config when deploying
-- [ ] OG tags / social preview image
 - [ ] Analytics — dodać jeśli potrzebne (Bożenka by uznała cookie bannery za irytujące)
