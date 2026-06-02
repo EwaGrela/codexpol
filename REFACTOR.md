@@ -4,8 +4,7 @@ A prioritized review of the repo, written as a working backlog. Each item is
 something to tackle directly; the table is roughly the order to do them in.
 Effort is a rough t-shirt size; Risk is the chance of breaking something live.
 
-**Overall health: ~7.5/10.** P0 hygiene done: README, smoke tests, and ~80 MB of
-asset cleanup. Remaining work is tests → i18n tooling → content.
+**Overall health: ~9/10.** All items done. This file is kept as an archive.
 
 ---
 
@@ -23,7 +22,7 @@ asset cleanup. Remaining work is tests → i18n tooling → content.
 | 8  | ✅ done | Flesh out `vite.config.js` (base, build, env) | Tooling | S | Med | `base`, `sourcemap`, vendor/i18n chunks, `.env.example`, `public/.htaccess` for Apache SPA routing. |
 | 9  | ✅ done | Fix `Products.jsx` mount effect deps | Code | S | Low | Added `initialIndex` to effect deps. |
 | 10 | ✅ done | Decide on EN persona assets (wire up or delete) | Assets/Content | S | Low | Carol/Lauren/Chloe usunięte z design-assets — EN subpage nie planowany. |
-| 11 | 🟢 P3 | Add CLAUDE.md + .claude/ commands | Tooling | S | None | Agent guidance (separate task — see below). |
+| 11 | ✅ done | Add CLAUDE.md + .claude/ commands | Tooling | S | None | CLAUDE.md, CONVENTIONS.md, slash commands added. |
 
 ---
 
@@ -66,23 +65,12 @@ Added `base: '/'`, `build.sourcemap: false`, `manualChunks` (vendor + i18n split
 Added `.env.example` documenting `VITE_API_URL` for future Skill Issue backend.
 Added `public/.htaccess` with Apache SPA fallback so direct URLs on home.pl don't 404.
 
-### 9. Products.jsx effect — 🟢 P3
-The mount effect that sets initial slider scroll uses an empty dep array while
-reading `initialIndex`. Functionally fine; tidy it (include the dep or document
-the intent) when you're in the file.
+### 9. Products.jsx effect — ✅ done
+`initialIndex` added to effect dep array.
 
-### 10. EN persona assets — 🟢 P3
-Tied to #1. Carol/Lauren/Chloe portraits moved to `design-assets/personas/`.
-Either wire up the EN team route or delete them when the decision is made.
+### 10. EN persona assets — ✅ done
+Carol/Lauren/Chloe deleted. EN subpage not planned.
 
-### 11. Claude setup — 🟢 P3
-`CLAUDE.md` + `.claude/` slash commands. Separate deliverable; building next.
+### 11. Claude setup — ✅ done
+`CLAUDE.md`, `CONVENTIONS.md`, slash commands added.
 
----
-
-## Suggested order for next session
-
-1. **#6 locale parity** — cheap script, instant safety net for i18n work.
-2. **#7 copy polish** — walk `pl.json` section by section, update `en.json` after.
-3. **#8 Vite config** — `base`, build options, env before deploy.
-4. **#9/#10** as time allows.
