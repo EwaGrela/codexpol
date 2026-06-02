@@ -285,7 +285,18 @@
     },
     "cta": "Zagraj →",
     "ctaSoon": "wkrótce",
-    "ctaRestart": "↩ Zagraj ponownie"
+    "ctaRestart": "↩ Zagraj ponownie",
+    "trypolis": {
+      "number": "GRA III",
+      "name": "PRINCE OF TRYPOLIS",
+      "year": "1992",
+      "platform": "PC (DOS)",
+      "copies": "0 kopii (nie wydana)",
+      "tagline": "Trypolis. Rok 732. Cel misji — nieznany.",
+      "desc": "Planowana przygodówka akcji osadzona w arabskim średniowieczu. Prace wstrzymano w marcu 1992. Zdzisław zachował dyskietkę.",
+      "review": "Khadir stał przed bramą. Dalej nie doszedł.",
+      "reviewSource": "Z. Krawczyk, notatka, marzec 1992"
+    }
   },
   "about": {
     "title": "O nas",

@@ -14,6 +14,7 @@ import Products from './pages/Products'
 import Games from './pages/Games'
 import Podroz from './pages/Podroz'
 import Wczasy from './pages/Wczasy'
+import Trypolis from './pages/Trypolis'
 import Zarzad from './pages/Zarzad'
 import Soon from './pages/Soon'
 import Zapora from './pages/Zapora'
@@ -67,7 +68,8 @@ export default function App() {
           <Route path="/produkty" element={<Products />} />
           <Route path="/gry"        element={<Games />} />
           <Route path="/gry/podroz" element={<Podroz />} />
-          <Route path="/gry/wczasy" element={<Wczasy />} />
+          <Route path="/gry/wczasy"   element={<Wczasy />} />
+          <Route path="/gry/trypolis" element={<Trypolis />} />
           <Route path="/wkrotce"    element={<Soon />} />
           <Route path="/zapora"     element={<Zapora />} />
           <Route path="/legacy"     element={<Legacy />} />

@@ -33,6 +33,7 @@ export default function Games() {
   const { t } = useTranslation()
   const podroz = t('games.podroz', { returnObjects: true })
   const wczasy = t('games.wczasy', { returnObjects: true })
+  const trypolis = t('games.trypolis', { returnObjects: true })
 
   return (
     <div className="subpage games-page">
@@ -41,9 +42,10 @@ export default function Games() {
         <p className="subpage-sub">{t('games.subtitle')}</p>
       </header>
 
-      <div className="games-diptych">
+      <div className="games-grid">
         <GameCard data={podroz} href="/gry/podroz" t={t} />
         <GameCard data={wczasy} href="/gry/wczasy" t={t} />
+        <GameCard data={trypolis} href="/gry/trypolis" t={t} />
       </div>
 
       <p className="games-epilogue">{t('games.epilogue')}</p>

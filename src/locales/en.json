@@ -285,7 +285,18 @@
     },
     "cta": "Play →",
     "ctaSoon": "coming soon",
-    "ctaRestart": "↩ Play again"
+    "ctaRestart": "↩ Play again",
+    "trypolis": {
+      "number": "GAME III",
+      "name": "PRINCE OF TRYPOLIS",
+      "year": "1992",
+      "platform": "PC (DOS)",
+      "copies": "0 copies (unreleased)",
+      "tagline": "Tripoli. Year 732. Mission objective — unknown.",
+      "desc": "A planned action-adventure set in the medieval Arab world. Work was halted in March 1992. Zdzisław kept the floppy disk.",
+      "review": "Khadir stood before the gate. He didn’t get further.",
+      "reviewSource": "Z. Krawczyk, notes, March 1992"
+    }
   },
   "about": {
     "title": "About",

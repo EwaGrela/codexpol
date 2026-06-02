@@ -18,6 +18,7 @@ const ROUTES = [
   '/gry',
   '/gry/podroz',
   '/gry/wczasy',
+  '/gry/trypolis',
   '/wkrotce',
 ]
 
@@ -33,6 +34,37 @@ for (const route of ROUTES) {
     expect(errors, `uncaught errors on ${route}: ${errors.join(', ')}`).toHaveLength(0)
   })
 }
+
+test('games page shows all three game cards', async ({ page }) => {
+  await page.goto('/gry')
+  await expect(page.getByText('PODRÓŻ SŁUŻBOWA')).toBeVisible()
+  await expect(page.getByText('WCZASY POD GRUSZĄ')).toBeVisible()
+  await expect(page.getByText('PRINCE OF TRYPOLIS')).toBeVisible()
+  await expect(page.getByText('0 kopii (nie wydana)')).toBeVisible()
+})
+
+test('trypolis: full playthrough to ending', async ({ page }) => {
+  await page.goto('/gry/trypolis')
+
+  await expect(page.getByText('Cel misji — nieznany', { exact: false })).toBeVisible()
+
+  await page.getByRole('button', { name: 'Wejdź przez bramę' }).click()
+  await expect(page.getByText('Komnata jest pusta', { exact: false })).toBeVisible()
+
+  await page.getByRole('button', { name: 'Otwórz skrzynię' }).click()
+  await expect(page.getByText('Gra nigdy nie wyszła', { exact: false })).toBeVisible()
+  await expect(page.getByText('Z.K.', { exact: false })).toBeVisible()
+})
+
+test('trypolis: restart returns to intro', async ({ page }) => {
+  await page.goto('/gry/trypolis')
+
+  await page.getByRole('button', { name: 'Wejdź przez bramę' }).click()
+  await page.getByRole('button', { name: 'Zbadaj mozaikę' }).click()
+  await page.getByRole('button', { name: /zagraj ponownie/i }).click()
+
+  await expect(page.getByText('Cel misji — nieznany', { exact: false })).toBeVisible()
+})
 
 test('language toggle switches visible text', async ({ page }) => {
   await page.goto('/')
