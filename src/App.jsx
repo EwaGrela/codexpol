@@ -1,4 +1,5 @@
-import { BrowserRouter, Routes, Route, Outlet } from 'react-router-dom'
+import { BrowserRouter, Routes, Route, Outlet, useLocation } from 'react-router-dom'
+import { useEffect } from 'react'
 import { useTranslation } from 'react-i18next'
 import Nav from './components/Nav'
 import Hero from './sections/Hero'
@@ -26,9 +27,16 @@ import KomBit from './pages/KomBit'
 import Vatowiec from './pages/Vatowiec'
 import './App.css'
 
+function ScrollToTop() {
+  const { pathname } = useLocation()
+  useEffect(() => { window.scrollTo(0, 0) }, [pathname])
+  return null
+}
+
 function Layout() {
   return (
     <>
+      <ScrollToTop />
       <Nav />
       <Outlet />
     </>
