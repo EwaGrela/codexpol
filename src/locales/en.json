@@ -270,7 +270,71 @@
       "tagline": "Zenon Wróblewski. Logistics clerk. Business trip to Katowice. The invoice is wrong.",
       "desc": "You play a delegate who must sign an incorrect invoice in Katowice. The game starts on the platform at 5:42. It ends when you file your expense report. There is no way to speed this up.",
       "review": "Technically correct. Why it was made — unclear.",
-      "reviewSource": "Bajtek, no. 11/1991"
+      "reviewSource": "Bajtek, no. 11/1991",
+      "scenes": {
+        "pd_peron": {
+          "c0": "Grab coffee at the buffet",
+          "c1": "Wait on the platform"
+        },
+        "pd_bufet": {
+          "c0": "Back to the platform"
+        },
+        "pd_przedzial": {
+          "c0": "Continue"
+        },
+        "pd_katowice_dworzec": {
+          "c0": "Ask for directions",
+          "c1": "Find it yourself"
+        },
+        "pd_zla_wskazowka": {
+          "c0": "Turn back and find it yourself"
+        },
+        "pd_szukanie_biura": {
+          "c0": "Go into the milk bar",
+          "c1": "No time"
+        },
+        "pd_bar_mleczny": {
+          "c0": "Eat and go to the office"
+        },
+        "pd_biuro": {
+          "c0": "Ask about the error on the invoice",
+          "c1": "Sign right away"
+        },
+        "pd_argumentacja": {
+          "c0": "Explain the error to Mrs. Krystyna",
+          "c1": "Never mind, just sign"
+        },
+        "pd_wyliczenie": {
+          "c0": "Sign and leave"
+        },
+        "pd_faktura": {
+          "c0": "Sign the invoice"
+        },
+        "pd_kiosk": {
+          "c0": "Pay fifty and wait for change",
+          "c1": "Stay on the bench"
+        },
+        "pd_kiosk_reszta": {
+          "c0": "Take the coins and go to the platform"
+        },
+        "pd_powrot_peron": {
+          "c0": "Check the briefcase",
+          "c1": "Board the train"
+        },
+        "pd_teczka": {
+          "c0": "Close the briefcase and board"
+        },
+        "pd_przedzial_powrot": {
+          "c0": "Say it's invoices",
+          "c1": "Say 'logistics' and look out the window"
+        },
+        "pd_nieznajomy_rozmowa": {
+          "c0": "Continue"
+        },
+        "pd_ksiegowosc": {
+          "ending": "The End."
+        }
+      }
     },
     "wczasy": {
       "number": "GAME II",
@@ -281,7 +345,93 @@
       "tagline": "A week at FWP Ustroń resort. Pool closed since 1988. Breakfast 7:00–7:45.",
       "desc": "Seven days at a FWP workers' holiday resort. The neighbour in room 304 plays cards until 11pm. Buffet closed from 2pm. Optional trip to the castle — the coach was late. Four endings. None of them good.",
       "review": "We don't understand why they released a second one.",
-      "reviewSource": "Bajtek, no. 2/1992"
+      "reviewSource": "Bajtek, no. 2/1992",
+      "scenes": {
+        "wc_recepcja": {
+          "c0": "Ask about the pool",
+          "c1": "Go to the room"
+        },
+        "wc_recepcja_basen": {
+          "c0": "Go to the room"
+        },
+        "wc_pokoj": {
+          "c0": "Knock on room 304",
+          "c1": "Go to sleep"
+        },
+        "wc_pukanie": {
+          "c0": "Knock",
+          "c1": "Turn back"
+        },
+        "wc_przy_stole": {
+          "c0": "Play until the end of the night"
+        },
+        "wc_stolowka": {
+          "c0": "Chat with the neighbour",
+          "c1": "Eat in silence"
+        },
+        "wc_sasiad": {
+          "c0": "Go to the pool"
+        },
+        "wc_basen": {
+          "c0": "Back to the room"
+        },
+        "wc_widok": {
+          "c0": "Go for a walk",
+          "c1": "Next day"
+        },
+        "wc_spacer": {
+          "c0": "Next day"
+        },
+        "wc_wycieczka_wybor": {
+          "c0": "Go to the castle",
+          "c1": "Stay in the room"
+        },
+        "wc_zamek": {
+          "c0": "Wait at the café",
+          "c1": "Back to the coach"
+        },
+        "wc_kawiarnia_zamek": {
+          "c0": "Back to the resort"
+        },
+        "wc_zostal": {
+          "c0": "Evening in the room"
+        },
+        "wc_karty": {
+          "c0": "Next day"
+        },
+        "wc_telefon_wybor": {
+          "c0": "Call home",
+          "c1": "Stay until the end"
+        },
+        "wc_telefon": {
+          "c0": "Leave tomorrow morning"
+        },
+        "wc_wyjazd_wczesny": {
+          "c0": "Sign and leave"
+        },
+        "wc_reklamacja_wybor": {
+          "c0": "File a complaint",
+          "c1": "Never mind"
+        },
+        "wc_reklamacja": {
+          "c0": "Submit and leave"
+        },
+        "wc_wymeldowanie": {
+          "c0": "Leave"
+        },
+        "wc_koniec_a": {
+          "ending": "Ending I — You went home."
+        },
+        "wc_koniec_b": {
+          "ending": "Ending II — Assimilation."
+        },
+        "wc_koniec_c": {
+          "ending": "Ending III — Banned."
+        },
+        "wc_koniec_d": {
+          "ending": "Ending IV — You left early."
+        }
+      }
     },
     "cta": "Play →",
     "ctaSoon": "coming soon",
@@ -295,7 +445,19 @@
       "tagline": "Tripoli. Year 732. Mission objective — unknown.",
       "desc": "A planned action-adventure set in the medieval Arab world. Work was halted in March 1992. Zdzisław kept the floppy disk.",
       "review": "Khadir stood before the gate. He didn’t get further.",
-      "reviewSource": "Z. Krawczyk, notes, March 1992"
+      "reviewSource": "Z. Krawczyk, notes, March 1992",
+      "scenes": {
+        "pt_intro": {
+          "c0": "Enter through the gate"
+        },
+        "pt_komnata": {
+          "c0": "Open the chest",
+          "c1": "Examine the mosaic"
+        },
+        "pt_koniec": {
+          "ending": "Game unfinished. March 1992."
+        }
+      }
     }
   },
   "about": {

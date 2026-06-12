@@ -270,7 +270,71 @@
       "tagline": "Zenon Wróblewski. Referent ds. logistyki. Delegacja do Katowic. Faktura błędna.",
       "desc": "Wcielasz się w delegata, który musi podpisać błędną fakturę w Katowicach. Gra zaczyna się na peronie o 5:42. Kończy się, gdy złożysz rozliczenie w księgowości. Nie ma możliwości przyspieszenia.",
       "review": "Technicznie poprawna. Po co zrobiona — nie wiadomo.",
-      "reviewSource": "Bajtek, nr 11/1991"
+      "reviewSource": "Bajtek, nr 11/1991",
+      "scenes": {
+        "pd_peron": {
+          "c0": "Skocz po kawę do bufetu",
+          "c1": "Czekaj na peronie"
+        },
+        "pd_bufet": {
+          "c0": "Wróć na peron"
+        },
+        "pd_przedzial": {
+          "c0": "Jedź dalej"
+        },
+        "pd_katowice_dworzec": {
+          "c0": "Zapytaj o drogę",
+          "c1": "Idź na własną rękę"
+        },
+        "pd_zla_wskazowka": {
+          "c0": "Zawróć i szukaj na własną rękę"
+        },
+        "pd_szukanie_biura": {
+          "c0": "Wejdź do baru mlecznego",
+          "c1": "Nie masz czasu"
+        },
+        "pd_bar_mleczny": {
+          "c0": "Zjedz i idź do biura"
+        },
+        "pd_biuro": {
+          "c0": "Zapytaj o błąd w fakturze",
+          "c1": "Podpisz od razu"
+        },
+        "pd_argumentacja": {
+          "c0": "Wytłumacz błąd Pani Krystynie",
+          "c1": "Daj spokój i podpisz"
+        },
+        "pd_wyliczenie": {
+          "c0": "Podpisz i wyjdź"
+        },
+        "pd_faktura": {
+          "c0": "Podpisz fakturę"
+        },
+        "pd_kiosk": {
+          "c0": "Daj pięćdziesiąt i czekaj na resztę",
+          "c1": "Zostań na ławce"
+        },
+        "pd_kiosk_reszta": {
+          "c0": "Weź bilon i idź na peron"
+        },
+        "pd_powrot_peron": {
+          "c0": "Zajrzyj do teczki",
+          "c1": "Wsiądź do pociągu"
+        },
+        "pd_teczka": {
+          "c0": "Zamknij teczkę i wsiądź"
+        },
+        "pd_przedzial_powrot": {
+          "c0": "Powiedz że faktury",
+          "c1": "Powiedz \"logistyka\" i patrz przez okno"
+        },
+        "pd_nieznajomy_rozmowa": {
+          "c0": "Jedź dalej"
+        },
+        "pd_ksiegowosc": {
+          "ending": "Koniec."
+        }
+      }
     },
     "wczasy": {
       "number": "GRA II",
@@ -281,7 +345,93 @@
       "tagline": "Tydzień w FWP Ustroń. Basen nieczynny od 1988. Śniadanie 7:00–7:45.",
       "desc": "Siedem dni na wczasach pracowniczych FWP. Sąsiad z pokoju 304 gra w karty do 23:00. Bufet zamknięty od 14:00. Wycieczka fakultatywna do zamku — autokar się spóźnił. Cztery zakończenia. Żadne nie jest dobre.",
       "review": "Nie rozumiemy dlaczego wydali drugą.",
-      "reviewSource": "Bajtek, nr 2/1992"
+      "reviewSource": "Bajtek, nr 2/1992",
+      "scenes": {
+        "wc_recepcja": {
+          "c0": "Zapytaj o basen",
+          "c1": "Idź do pokoju"
+        },
+        "wc_recepcja_basen": {
+          "c0": "Idź do pokoju"
+        },
+        "wc_pokoj": {
+          "c0": "Zapukaj do pokoju 304",
+          "c1": "Idź spać"
+        },
+        "wc_pukanie": {
+          "c0": "Zapukaj",
+          "c1": "Zawróć"
+        },
+        "wc_przy_stole": {
+          "c0": "Graj do końca nocy"
+        },
+        "wc_stolowka": {
+          "c0": "Zagadaj do sąsiada",
+          "c1": "Jedz w milczeniu"
+        },
+        "wc_sasiad": {
+          "c0": "Idź na basen"
+        },
+        "wc_basen": {
+          "c0": "Wróć do pokoju"
+        },
+        "wc_widok": {
+          "c0": "Wyjdź na spacer",
+          "c1": "Następny dzień"
+        },
+        "wc_spacer": {
+          "c0": "Następny dzień"
+        },
+        "wc_wycieczka_wybor": {
+          "c0": "Jedź na zamek",
+          "c1": "Zostań w pokoju"
+        },
+        "wc_zamek": {
+          "c0": "Zaczekaj w kawiarni",
+          "c1": "Wróć do autokaru"
+        },
+        "wc_kawiarnia_zamek": {
+          "c0": "Wróć do ośrodka"
+        },
+        "wc_zostal": {
+          "c0": "Wieczór w pokoju"
+        },
+        "wc_karty": {
+          "c0": "Następny dzień"
+        },
+        "wc_telefon_wybor": {
+          "c0": "Zadzwoń do domu",
+          "c1": "Zostań do końca"
+        },
+        "wc_telefon": {
+          "c0": "Wyjedź jutro rano"
+        },
+        "wc_wyjazd_wczesny": {
+          "c0": "Podpisz i wyjedź"
+        },
+        "wc_reklamacja_wybor": {
+          "c0": "Złóż reklamację",
+          "c1": "Daj spokój"
+        },
+        "wc_reklamacja": {
+          "c0": "Złóż i wyjdź"
+        },
+        "wc_wymeldowanie": {
+          "c0": "Wyjedź"
+        },
+        "wc_koniec_a": {
+          "ending": "Zakończenie I — Wróciłeś."
+        },
+        "wc_koniec_b": {
+          "ending": "Zakończenie II — Asymilacja."
+        },
+        "wc_koniec_c": {
+          "ending": "Zakończenie III — Zakaz wstępu."
+        },
+        "wc_koniec_d": {
+          "ending": "Zakończenie IV — Wyjechałeś wcześniej."
+        }
+      }
     },
     "cta": "Zagraj →",
     "ctaSoon": "wkrótce",
@@ -295,7 +445,19 @@
       "tagline": "Trypolis. Rok 732. Cel misji — nieznany.",
       "desc": "Planowana przygodówka akcji osadzona w arabskim średniowieczu. Prace wstrzymano w marcu 1992. Zdzisław zachował dyskietkę.",
       "review": "Khadir stał przed bramą. Dalej nie doszedł.",
-      "reviewSource": "Z. Krawczyk, notatka, marzec 1992"
+      "reviewSource": "Z. Krawczyk, notatka, marzec 1992",
+      "scenes": {
+        "pt_intro": {
+          "c0": "Wejdź przez bramę"
+        },
+        "pt_komnata": {
+          "c0": "Otwórz skrzynię",
+          "c1": "Zbadaj mozaikę"
+        },
+        "pt_koniec": {
+          "ending": "Gra niedokończona. Marzec 1992."
+        }
+      }
     }
   },
   "about": {

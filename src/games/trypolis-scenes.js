@@ -10,21 +10,22 @@ export const scenes = {
   pt_intro: {
     art: ksiazeArt,
     choices: [
-      { label: 'Wejdź przez bramę', next: 'pt_komnata' },
+      { label: 'games.trypolis.scenes.pt_intro.c0', next: 'pt_komnata' },
     ],
   },
 
   pt_komnata: {
     art: komnataArt,
     choices: [
-      { label: 'Otwórz skrzynię', next: 'pt_koniec' },
-      { label: 'Zbadaj mozaikę', next: 'pt_koniec' },
+      { label: 'games.trypolis.scenes.pt_komnata.c0', next: 'pt_koniec' },
+      { label: 'games.trypolis.scenes.pt_komnata.c1', next: 'pt_koniec' },
     ],
   },
 
   pt_koniec: {
     art: koniecArt,
     ending: true,
+    endingLabel: 'games.trypolis.scenes.pt_koniec.ending',
   },
 
 }

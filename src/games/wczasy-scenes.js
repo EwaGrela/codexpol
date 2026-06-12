@@ -31,156 +31,156 @@ export const scenes = {
   wc_recepcja: {
     art: recepcjaArt,
     choices: [
-      { label: 'Zapytaj o basen', next: 'wc_recepcja_basen' },
-      { label: 'Idź do pokoju', next: 'wc_pokoj' },
+      { label: 'games.wczasy.scenes.wc_recepcja.c0', next: 'wc_recepcja_basen' },
+      { label: 'games.wczasy.scenes.wc_recepcja.c1', next: 'wc_pokoj' },
     ],
   },
 
   wc_recepcja_basen: {
     art: recepcjaBasenArt,
     choices: [
-      { label: 'Idź do pokoju', next: 'wc_pokoj' },
+      { label: 'games.wczasy.scenes.wc_recepcja_basen.c0', next: 'wc_pokoj' },
     ],
   },
 
   wc_pokoj: {
     art: pokojArt,
     choices: [
-      { label: 'Zapukaj do pokoju 304', next: 'wc_pukanie', setsFlag: { knocked: true } },
-      { label: 'Idź spać', next: 'wc_stolowka', setsFlag: { knocked: false } },
+      { label: 'games.wczasy.scenes.wc_pokoj.c0', next: 'wc_pukanie', setsFlag: { knocked: true } },
+      { label: 'games.wczasy.scenes.wc_pokoj.c1', next: 'wc_stolowka', setsFlag: { knocked: false } },
     ],
   },
 
   wc_pukanie: {
     art: pukanieArt,
     choices: [
-      { label: 'Zapukaj', next: 'wc_przy_stole' },
-      { label: 'Zawróć', next: 'wc_stolowka', setsFlag: { knocked: false } },
+      { label: 'games.wczasy.scenes.wc_pukanie.c0', next: 'wc_przy_stole' },
+      { label: 'games.wczasy.scenes.wc_pukanie.c1', next: 'wc_stolowka', setsFlag: { knocked: false } },
     ],
   },
 
   wc_przy_stole: {
     art: przyStoleArt,
     choices: [
-      { label: 'Graj do końca nocy', next: 'wc_stolowka' },
+      { label: 'games.wczasy.scenes.wc_przy_stole.c0', next: 'wc_stolowka' },
     ],
   },
 
   wc_stolowka: {
     art: stolowkaArt,
     choices: [
-      { label: 'Zagadaj do sąsiada', next: 'wc_sasiad' },
-      { label: 'Jedz w milczeniu', next: 'wc_basen' },
+      { label: 'games.wczasy.scenes.wc_stolowka.c0', next: 'wc_sasiad' },
+      { label: 'games.wczasy.scenes.wc_stolowka.c1', next: 'wc_basen' },
     ],
   },
 
   wc_sasiad: {
     art: sasiadArt,
     choices: [
-      { label: 'Idź na basen', next: 'wc_basen' },
+      { label: 'games.wczasy.scenes.wc_sasiad.c0', next: 'wc_basen' },
     ],
   },
 
   wc_basen: {
     art: basenArt,
     choices: [
-      { label: 'Wróć do pokoju', next: 'wc_widok' },
+      { label: 'games.wczasy.scenes.wc_basen.c0', next: 'wc_widok' },
     ],
   },
 
   wc_widok: {
     art: widokArt,
     choices: [
-      { label: 'Wyjdź na spacer', next: 'wc_spacer' },
-      { label: 'Następny dzień', next: 'wc_wycieczka_wybor' },
+      { label: 'games.wczasy.scenes.wc_widok.c0', next: 'wc_spacer' },
+      { label: 'games.wczasy.scenes.wc_widok.c1', next: 'wc_wycieczka_wybor' },
     ],
   },
 
   wc_spacer: {
     art: spacerArt,
     choices: [
-      { label: 'Następny dzień', next: 'wc_wycieczka_wybor' },
+      { label: 'games.wczasy.scenes.wc_spacer.c0', next: 'wc_wycieczka_wybor' },
     ],
   },
 
   wc_wycieczka_wybor: {
     art: autokarArt,
     choices: [
-      { label: 'Jedź na zamek', next: 'wc_zamek' },
-      { label: 'Zostań w pokoju', next: 'wc_zostal' },
+      { label: 'games.wczasy.scenes.wc_wycieczka_wybor.c0', next: 'wc_zamek' },
+      { label: 'games.wczasy.scenes.wc_wycieczka_wybor.c1', next: 'wc_zostal' },
     ],
   },
 
   wc_zamek: {
     art: zamekArt,
     choices: [
-      { label: 'Zaczekaj w kawiarni', next: 'wc_kawiarnia_zamek' },
-      { label: 'Wróć do autokaru', next: 'wc_karty' },
+      { label: 'games.wczasy.scenes.wc_zamek.c0', next: 'wc_kawiarnia_zamek' },
+      { label: 'games.wczasy.scenes.wc_zamek.c1', next: 'wc_karty' },
     ],
   },
 
   wc_kawiarnia_zamek: {
     art: kawiarniaZamekArt,
     choices: [
-      { label: 'Wróć do ośrodka', next: 'wc_karty' },
+      { label: 'games.wczasy.scenes.wc_kawiarnia_zamek.c0', next: 'wc_karty' },
     ],
   },
 
   wc_zostal: {
     art: zostalArt,
     choices: [
-      { label: 'Wieczór w pokoju', next: 'wc_karty' },
+      { label: 'games.wczasy.scenes.wc_zostal.c0', next: 'wc_karty' },
     ],
   },
 
   wc_karty: {
     art: kartyArt,
     choices: [
-      { label: 'Następny dzień', next: 'wc_telefon_wybor' },
+      { label: 'games.wczasy.scenes.wc_karty.c0', next: 'wc_telefon_wybor' },
     ],
   },
 
   wc_telefon_wybor: {
     art: ostatniRanekArt,
     choices: [
-      { label: 'Zadzwoń do domu', next: 'wc_telefon' },
-      { label: 'Zostań do końca', next: 'wc_reklamacja_wybor' },
+      { label: 'games.wczasy.scenes.wc_telefon_wybor.c0', next: 'wc_telefon' },
+      { label: 'games.wczasy.scenes.wc_telefon_wybor.c1', next: 'wc_reklamacja_wybor' },
     ],
   },
 
   wc_telefon: {
     art: telefonArt,
     choices: [
-      { label: 'Wyjedź jutro rano', next: 'wc_wyjazd_wczesny' },
+      { label: 'games.wczasy.scenes.wc_telefon.c0', next: 'wc_wyjazd_wczesny' },
     ],
   },
 
   wc_wyjazd_wczesny: {
     art: wyjazd,
     choices: [
-      { label: 'Podpisz i wyjedź', next: 'wc_koniec_d' },
+      { label: 'games.wczasy.scenes.wc_wyjazd_wczesny.c0', next: 'wc_koniec_d' },
     ],
   },
 
   wc_reklamacja_wybor: {
     art: wymeldowanieArt,
     choices: [
-      { label: 'Złóż reklamację', next: 'wc_reklamacja', setsFlag: { complained: true } },
-      { label: 'Daj spokój', next: 'wc_wymeldowanie' },
+      { label: 'games.wczasy.scenes.wc_reklamacja_wybor.c0', next: 'wc_reklamacja', setsFlag: { complained: true } },
+      { label: 'games.wczasy.scenes.wc_reklamacja_wybor.c1', next: 'wc_wymeldowanie' },
     ],
   },
 
   wc_reklamacja: {
     art: reklamacjaArt,
     choices: [
-      { label: 'Złóż i wyjdź', next: 'wc_koniec_c' },
+      { label: 'games.wczasy.scenes.wc_reklamacja.c0', next: 'wc_koniec_c' },
     ],
   },
 
   wc_wymeldowanie: {
     art: wymeldowanieArt,
     choices: [
-      { label: 'Wyjedź', next: 'wc_router' },
+      { label: 'games.wczasy.scenes.wc_wymeldowanie.c0', next: 'wc_router' },
     ],
   },
 
@@ -191,28 +191,28 @@ export const scenes = {
   wc_koniec_a: {
     art: koniecArt,
     ending: true,
-    endingLabel: 'Zakończenie I — Wróciłeś.',
+    endingLabel: 'games.wczasy.scenes.wc_koniec_a.ending',
     choices: [],
   },
 
   wc_koniec_b: {
     art: koniecBart,
     ending: true,
-    endingLabel: 'Zakończenie II — Asymilacja.',
+    endingLabel: 'games.wczasy.scenes.wc_koniec_b.ending',
     choices: [],
   },
 
   wc_koniec_c: {
     art: koniecCart,
     ending: true,
-    endingLabel: 'Zakończenie III — Zakaz wstępu.',
+    endingLabel: 'games.wczasy.scenes.wc_koniec_c.ending',
     choices: [],
   },
 
   wc_koniec_d: {
     art: koniecDart,
     ending: true,
-    endingLabel: 'Zakończenie IV — Wyjechałeś wcześniej.',
+    endingLabel: 'games.wczasy.scenes.wc_koniec_d.ending',
     choices: [],
   },
 

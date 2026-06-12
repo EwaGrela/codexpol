@@ -77,7 +77,7 @@ export default function GameEngine({ scenes, start, initialFlags = {} }) {
         {scene.ending ? (
           <>
             {scene.endingLabel && (
-              <div className="game-ending-label">{scene.endingLabel}</div>
+              <div className="game-ending-label">{t(scene.endingLabel)}</div>
             )}
             <button className="game-btn game-btn-restart" onClick={restart}>
               {t('games.ctaRestart')}
@@ -86,7 +86,7 @@ export default function GameEngine({ scenes, start, initialFlags = {} }) {
         ) : (
           scene.choices.map((choice, i) => (
             <button key={i} className="game-btn" onClick={() => choose(choice)}>
-              {choice.label}
+              {t(choice.label)}
             </button>
           ))
         )}
