@@ -1,0 +1,18 @@
+╔═════════════════════════════════════════════╗
+║  {c}FWP USTROŃ  ·  WORKERS' RESORT "GRUSZA"{a}║
+╠═════════════════════════════════════════════╣
+║                                             ║
+║  {w}COMPLAINT FORM  FR-12/1988{a}               ║
+║  {d}· · · · · · · · · · · · · · · · · · ·{a}  ║
+║  {a}Subject of complaint:                  ║
+║  {w}[{r}X{w}]{a} pool   {w}[{r}X{w}]{a} noise  {w}[{r}X{w}]{a} breakfast  ║
+║  {w}[{r}X{w}]{a} window {w}[{r}X{w}]{a} wall   {w}[{r}X{w}]{a} other      ║
+║  {d}· · · · · · · · · · · · · · · · · · ·{a}  ║
+║                                             ║
+║  {w}Signature:  __________________________{a} ║
+║                                             ║
+╚═════════════════════════════════════════════╝
+
+{d}  The receptionist takes the form.
+  Doesn't look at you.
+  Says "we will process it within 30 working days".

@@ -1,0 +1,24 @@
+╔═════════════════════════════════════════════╗
+║     {y}CHEST  –  CONTENTS{a}                    ║
+╠═════════════════════════════════════════════╣
+║                                             ║
+║      {w}┌───────────────────────────┐{a}        ║
+║      {w}│{a}                           {w}│{a}        ║
+║      {w}│{a}   {d}piece of paper{a}              {w}│{a}        ║
+║      {w}│{a}                           {w}│{a}        ║
+║      {w}└───────────────────────────┘{a}        ║
+║                                             ║
+║   {d}...next: treasure chamber...{a}            ║
+║   {d}[ scene not ready ]{a}                     ║
+║                                             ║
+╚═════════════════════════════════════════════╝
+
+{d}  Written on the paper in pencil:
+
+{a}  "After what they wrote about our previous games,
+   I see no point in continuing."
+
+{d}  14.03.1992  —  Z.K.
+
+  The game was never released.
+  The floppy disk sits in Zdzisław's drawer.{a}

@@ -1,0 +1,17 @@
+╔═════════════════════════════════════════════╗
+║  {c}REGIONAL LOGISTICS BOARD  –  KATOW.    {a}║
+╠═════════════════════════════════════════════╣
+║                                             ║
+║  {w}VAT INVOICE  no. 1991/08/KAT/00847      {a}║
+║  {d}· · · · · · · · · · · · · · · · · · ·  {a}║
+║  {a}Net value:           {y}4,847.00 zł{a}       ║
+║  {a}VAT 22%:             {r}1,066.34 zł ← wrong{a}║
+║  {a}Gross value:         {y}5,913.34 zł{a}       ║
+║  {d}· · · · · · · · · · · · · · · · · · ·  {a}║
+║                                             ║
+║  {w}Recipient's signature: ________________{a}║
+║                                             ║
+╚═════════════════════════════════════════════╝
+
+{d}  The invoice is wrong. Mrs. Krystyna says
+  it's "always been this way". You sign.

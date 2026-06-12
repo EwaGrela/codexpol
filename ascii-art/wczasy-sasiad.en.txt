@@ -1,0 +1,20 @@
+╔═════════════════════════════════════════════╗
+║           {c}CANTEEN  (ground floor){a}          ║
+╠═════════════════════════════════════════════╣
+║                                             ║
+║   {a}◉                         ◉{a}             ║
+║  ▐█▌                        ▐█▌             ║
+║  ╱ ╲                        ╱ ╲             ║
+║  {a}You                   Mr. Ryszard{a}         ║
+║           {d}(Sosnowiec, metalworking){a}       ║
+║                                             ║
+║  {w}┌──────────┐       ┌──────────┐{a}          ║
+║  {w}│{d} milk soup{w}│       │{d} milk soup{w}│{a}          ║
+║  {w}└──────────┘       └──────────┘{a}          ║
+╚═════════════════════════════════════════════╝
+
+{d}  Mr. Ryszard: "From Bydgoszcz?"
+  You: "Yes."
+  Mr. Ryszard: "Ah."
+  You eat milk soup in silence.
+{a}  Mr. Ryszard is OK.

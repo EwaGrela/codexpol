@@ -1,0 +1,21 @@
+╔═════════════════════════════════════════════╗
+║  {c}REGIONAL LOGISTICS BOARD  –  KATOW.    {a}║
+╠═════════════════════════════════════════════╣
+║                                             ║
+║  {w}"But this figure is wrong."            {a}║
+║                                             ║
+║  {d}Mrs. Krystyna looks for a moment.      {a}║
+║  {d}She stands up. Takes her bag.          {a}║
+║                                             ║
+║  {a}◉╱ → {d}[bag]{a} → {w}[door]{a}                   ║
+║  █                                          ║
+║  ╱╲  ← Mrs. Krystyna                        ║
+║                                             ║
+║                   {y}┌──────────────┐{a}        ║
+║                   {y}│  clock 14:02 │{a}        ║
+║                   {y}└──────────────┘{a}        ║
+╚═════════════════════════════════════════════╝
+
+{d}  She'll be back at 14:30. That's what the man from next door said.
+  You wait. There is one chair.
+{r}  The chair has three legs.

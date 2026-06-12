@@ -1,0 +1,18 @@
+╔═════════════════════════════════════════════╗
+║               {c}CHECK-OUT{a}                    ║
+╠═════════════════════════════════════════════╣
+║                                             ║
+║  {a}Room:  {y}303{a}          Number of days:  {y}7{a}  ║
+║  {a}Charge: {y}420.00 zł{a}                      ║
+║  {a}Supplement (phone):   {y}3.40 zł{a}           ║
+║  {a}Pool complaint:       {r}REJECTED{a}           ║
+║                                             ║
+║  {w}Please rate your stay:{a}                   ║
+║  {d}[ ] excellent  [ ] good  {w}[{g}X{w}]{a} average   ║
+║                                             ║
+║  {w}Signature: ___________________________{a}  ║
+╚═════════════════════════════════════════════╝
+
+{d}  "We warmly invite you back next year."
+  You won't come back next year.
+{a}  You come back next year.

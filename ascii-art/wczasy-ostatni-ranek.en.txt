@@ -1,0 +1,19 @@
+╔═════════════════════════════════════════════╗
+║      {c}ROOM 303  –  DAY 6  (morning){a}        ║
+╠═════════════════════════════════════════════╣
+║  {w}┌──┐  ┌──────────────────┐  ┌──────┐{a}   ║
+║  {w}│W │  │{d}  car park / pear tree  {w}│  │WARD- │{a}║
+║  {w}│A │  │{d}  (same view as always) {w}│  │ROBE  │{a}║
+║  {w}│R │  └──────────────────┘  │{d}empty{w}│{a}   ║
+║  {w}│D │                        └──────┘{a}   ║
+║  {w}│R │  {a}╔════════════════════════╗{a}      ║
+║  {w}└──┘  {a}║{d}▓▓▓ suitcase (packed) ▓▓▓{a}║{a}     ║
+║         {a}╚════════════════════════╝{a}      ║
+║                                             ║
+║  {d}[phone booth: ground floor]  {a}bus: {y}11:05{a} ║
+╚═════════════════════════════════════════════╝
+
+{d}  Packed just in case.
+  One more day to go.
+  Your wife doesn't know you're thinking about this.
+{a}  You weren't sure either. Until now.

@@ -1,0 +1,20 @@
+╔═════════════════════════════════════════════╗
+║        {c}ROOM 303  –  THURSDAY{a}              ║
+║        {d}(everyone went to the castle){a}      ║
+╠═════════════════════════════════════════════╣
+║                                             ║
+║  {c}┌──────┐{a}                                 ║
+║  {c}│{w}░░░░░░{c}│{a}  ch. 1: Mr. Blot's Academy      ║
+║  {c}│{w}░ TV ░{c}│{a}  ch. 2: parliamentary broadcast ║
+║  {c}└──────┘{a}                                 ║
+║                                             ║
+║           {a}◉  ← You                         ║
+║          ▐█▌                                ║
+║       {d}[▓▓▓▓▓▓▓▓▓▓ bed ▓▓▓▓▓▓▓▓]{a}          ║
+║                   {d}[silence in the corridor]{a}║
+╚═════════════════════════════════════════════╝
+
+{d}  For the first time in four days
+  the room is quiet.
+  It is very quiet.
+  Too quiet.

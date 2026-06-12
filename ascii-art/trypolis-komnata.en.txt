@@ -1,0 +1,20 @@
+╔═════════════════════════════════════════════╗
+║     {y}CALIPH'S PALACE  –  CHAMBER NO. 7{a}    ║
+╠═════════════════════════════════════════════╣
+║                                             ║
+║  {w}│{a}                {y}╔═══╗{a}            {w}│{a}       ║
+║  {w}│{a}                {y}║{d}░░░{y}║{a}            {w}│{a}       ║
+║  {w}│{a}                {y}║{d}░{c}☪{d}░{y}║{a}  ← mosaic   {w}│{a}   ║
+║  {w}│{a}                {y}║{d}░░░{y}║{a}            {w}│{a}       ║
+║  {w}│{a}                 {y}╚═══╝{a}             {w}│{a}       ║
+║  {w}│{a}                                   {w}│{a}       ║
+║  {w}│{a}  {d}[chest]{a}                        {w}│{a}       ║
+║  {w}│{a}  {d}───────────{a}                     {w}│{a}       ║
+║  {w}│{a}          {w}◉╱{a}  ← You               {w}│{a}       ║
+║  {w}│{a}          {w}█{a}                        {w}│{a}       ║
+║  {w}│{a}         {w}╱ ╲{a}                      {w}│{a}       ║
+╚═════════════════════════════════════════════╝
+
+{d}  The chamber is empty. A chest stands in the corner.
+  A mosaic on the wall. Nobody here.
+{a}  Something is off.

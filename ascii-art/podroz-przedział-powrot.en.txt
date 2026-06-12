@@ -1,0 +1,18 @@
+╔═════════════════════════════════════════════╗
+║{d} [bag]          [nothing]       [nothing]  {a}║
+╠══════════════ {w}COMPARTMENT 6{a} ══════════════╣
+║                                             ║
+║  {a}◉                              ◉{a}        ║
+║  ▐█▌  {d}[briefcase w. RK-7b]       {a}▐█▌      ║
+║  ╱ ╲   {d}[on lap]                  {a}╱ ╲      ║
+║  {a}Zenon                      Stranger{a}      ║
+║                                             ║
+║  {d}Outside: ░░░░ darkness and Silesia ░░░░{a}║
+║                                             ║
+╚═════════════════════════════════════════════╝
+
+{d}  The stranger asks what Zenon does.
+  Zenon says "logistics".
+  The stranger nods and looks out the window.
+  Zenon looks out the window too.
+  The journey takes 2 hours and 43 minutes.

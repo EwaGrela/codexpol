@@ -1,0 +1,19 @@
+╔═════════════════════════════════════════════╗
+║       {c}KSIĄŻ CASTLE  –  WAŁBRZYCH          {a}║
+╠═════════════════════════════════════════════╣
+║                                             ║
+║        {w}▄█▄    ▄█▄{a}                         ║
+║        {w}███    ███{a}   ← towers              ║
+║        {w}█{d}░{w}█    █{d}░{w}█{a}                         ║
+║     {w}▄▄▄████████████▄▄▄{a}                   ║
+║     {w}███{a}              {w}███{a}               ║
+║     {w}███  {r}[gate closed]{w}    ███{a}           ║
+║     {w}███████████████████{a}                   ║
+║        {d}← half closed for renovation{a}      ║
+║                                             ║
+╚═════════════════════════════════════════════╝
+
+{d}  The coach arrived at 11:47. The guide vanished.
+  It's been raining since 10:00. You visit what's open:
+  one room and a magnet shop.
+{y}  Magnet: 4.00 zł. {a}You buy it.

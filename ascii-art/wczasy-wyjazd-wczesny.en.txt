@@ -1,0 +1,20 @@
+╔═════════════════════════════════════════════╗
+║  {c}FWP USTROŃ  ·  WORKERS' RESORT "GRUSZA"{a}║
+║           {w}EARLY CHECK-OUT{a}                 ║
+╠═════════════════════════════════════════════╣
+║                                             ║
+║  {a}Days purchased:      {y}7{a}                  ║
+║  {a}Stay:                {y}6{a}                  ║
+║  {a}Refund for day 7:    {r}0.00 zł  ← none{a}   ║
+║                                             ║
+║  {a}Final charge:       {y}420.00 zł{a}           ║
+║  {a}Paid:               {y}420.00 zł{a}           ║
+║                                             ║
+║  {w}Signature: ___________________________{a}  ║
+║                                             ║
+╚═════════════════════════════════════════════╝
+
+{d}  The receptionist says the "regulations do not
+  provide for refunds on unused days".
+  You know. You already read that.
+  You sign and leave.

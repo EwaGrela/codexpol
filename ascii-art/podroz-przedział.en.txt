@@ -1,0 +1,14 @@
+╔═════════════════════════════════════════════╗
+║{d} [bag]  [suitcase]  [coat]  [suitcase]   {a}║
+╠══════════════ {w}COMPARTMENT 4{a} ══════════════╣
+║                                             ║
+║  {a}◉     ◉     ◉     ◉     ◉              ║
+║  ▐█▌    █    ▐█▌    █    ▐█▌              ║
+║  ╱ ╲   ╱╲   ╱ ╲   ╱╲   ╱ ╲              ║
+║                                             ║
+╠═════════════════════════════════════════════╣
+║{d} [egg]   [thermos]   [newspaper fr. 1989] {a}║
+╚═════════════════════════════════════════════╝
+
+{d}  The man by the window has been eating a hard-boiled egg since Łódź.
+  No air conditioning. The window won't close.

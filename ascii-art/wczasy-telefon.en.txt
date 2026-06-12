@@ -1,0 +1,20 @@
+╔═════════════════════════════════════════════╗
+║       {c}PHONE BOOTH  –  GROUND FLOOR{a}        ║
+╠═════════════════════════════════════════════╣
+║                                             ║
+║   {c}┌──────────────────┐{a}                    ║
+║   {c}│{a}  {w}[receiver]{a}        {c}│{a}    ◉  ← You    ║
+║   {c}│{a}   {w}┌──────────┐{a}   {c}│{a}   ▐█▌           ║
+║   {c}│{a}   {w}│ {y}###      {w}│{a}   {c}│{a}   ╱ ╲           ║
+║   {c}│{a}   {w}└──────────┘{a}   {c}│{a}                  ║
+║   {c}└──────────────────┘{a}                    ║
+║                                             ║
+║   {a}Call: {y}1.20 zł / min{a}                   ║
+║   {a}Tokens: {y}4{a}                              ║
+╚═════════════════════════════════════════════╝
+
+{d}  Your wife picks up after the first ring.
+  You say you're coming back tomorrow.
+  She asks if something happened.
+  You say no. That's true.
+  It's also not true.

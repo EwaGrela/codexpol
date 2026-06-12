@@ -1,0 +1,20 @@
+╔═════════════════════════════════════════════╗
+║    {c}RUCHU KIOSK  –  PLATFORM 2  KATOWICE  {a}║
+╠═════════════════════════════════════════════╣
+║                                             ║
+║  {w}┌──────────────────────────────────┐{a}   ║
+║  {w}│{d}  [Przekrój]  [Sport]  [Trybuna] {w}  │{a}   ║
+║  {w}│{g}  [sweets]    [gum]    [matches] {w}  │{a}   ║
+║  {w}│{c}  [Sprite 0.33l]     [orange soda]{w} │{a}   ║
+║  {w}│                                  │{a}   ║
+║  {w}│          ◉  ← Man in the window  │{a}   ║
+║  {w}│         ▐█▌                      │{a}   ║
+║  {w}└──────────────────────────────────┘{a}   ║
+║                                             ║
+╚═════════════════════════════════════════════╝
+
+{d}  You have a fifty-zloty note.
+  Sprite costs 3.50 zł.
+  The man doesn't have change for fifty.
+  The man has change for twenty.
+{r}  You don't have twenty.

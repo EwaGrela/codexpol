@@ -1,0 +1,20 @@
+╔═════════════════════════════════════════════╗
+║                                             ║
+║            {w}ENDING  I{a}                      ║
+║            {g}You went home.{a}                  ║
+║                                             ║
+║  {a}◉╱ → {d}[suitcase]{a} → {w}[bus stop]{a}           ║
+║  █                                          ║
+║  ╱╲  ← You                                  ║
+║                                             ║
+║       {w}┌────────────────────────────┐{a}      ║
+║       {w}│{a}  bus: departs {y}11:05              {w}│{a}      ║
+║       {w}│{a}  ticket: {y}12.50 zł               {w}│{a}      ║
+║       {w}└────────────────────────────┘{a}      ║
+║                                             ║
+╚═════════════════════════════════════════════╝
+
+{d}  You arrived home Sunday at 15:30.
+  Your wife asked how it was.
+  You said "fine".
+{a}  That was the right word.

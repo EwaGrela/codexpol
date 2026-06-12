@@ -1,0 +1,20 @@
+╔═════════════════════════════════════════════╗
+║     {c}HUTNICZA ST.  –  KATOWICE            {a}║
+╠═════════════════════════════════════════════╣
+║                                             ║
+║  {w}┌─────────────────────────────────────┐{a} ║
+║  {w}│{d} METALLURGICAL PLANT "HUTNIK" NO. 3{w} │{a} ║
+║  {w}│{r}           NO ENTRY               {w}│{a} ║
+║  {w}└─────────────────────────────────────┘{a} ║
+║                                             ║
+║  {r}?  {a}← Zenon  {y}13:31{a}                      ║
+║  ◉                                          ║
+║  ▐█▌  {d}[briefcase][address slip]{a}             ║
+║  ╱ ╲                                        ║
+║  {y}Hutnicza St.  {d}← this is not Stalowa St.  {a}║
+╚═════════════════════════════════════════════╝
+
+{d}  The man at the station said "straight and left".
+  Stalowa is "straight and right".
+{r}  The office closes at 15:00.
+{d}  Zenon has known this since 13:31.

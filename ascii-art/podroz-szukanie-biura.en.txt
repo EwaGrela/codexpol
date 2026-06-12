@@ -1,0 +1,19 @@
+╔═════════════════════════════════════════════╗
+║       {c}STALOWA ST.  –  KATOWICE           {a}║
+╠═════════════════════════════════════════════╣
+║                                             ║
+║  {w}[8]{a}   {w}[10]{a}   {w}[12]{a}   {y}[14 ???]{a}           ║
+║                                             ║
+║     {w}┌───────────┐{a}  ← no. 14             ║
+║     {w}│   GATE    │{a}                      ║
+║     {w}│ {r}[CLOSED]{w}  │{a}  {d}"Entrance from       ║
+║     {w}└───────────┘{a}   {d}Górna St."     {a}║
+║                                             ║
+║  {a}◉  ← Zenon {y}13:08{a}                       ║
+║  ▐█▌  {d}[briefcase]                        {a}║
+║  ╱ ╲                                        ║
+╚═════════════════════════════════════════════╝
+
+{d}  No. 14 exists. Gate locked since 12:00.
+  Note says "entrance from Górna St."
+  Zenon doesn't know where Górna St. is.

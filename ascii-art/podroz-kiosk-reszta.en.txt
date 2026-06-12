@@ -1,0 +1,19 @@
+╔═════════════════════════════════════════════╗
+║    {c}RUCHU KIOSK  –  PLATFORM 2  KATOWICE  {a}║
+╠═════════════════════════════════════════════╣
+║                                             ║
+║  {w}┌──────────────────────────────────┐{a}   ║
+║  {w}│{d}          (window closed)        {w}│{a}   ║
+║  {w}│                                  │{a}   ║
+║  {w}│  {d}He went to get change.         {w}│{a}   ║
+║  {w}│  {c}[Sprite 0.33l]{d} sits behind the counter.{w}│{a}║
+║  {w}└──────────────────────────────────┘{a}   ║
+║                                             ║
+║  {a}◉  ← Zenon  {y}17:09{a}                       ║
+║  ▐█▌  {d}[fifty zlotys: spent]{a}                ║
+║  ╱ ╲                                        ║
+╚═════════════════════════════════════════════╝
+
+{d}  He came back after 14 minutes.
+  Change: 46.50 zł in 5-grosz coins.
+{a}  Sprite: warm. Worth every second.

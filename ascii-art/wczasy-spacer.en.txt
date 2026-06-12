@@ -1,0 +1,19 @@
+╔═════════════════════════════════════════════╗
+║       {c}USTROŃ  –  WCZASOWA ST.            {a}║
+╠═════════════════════════════════════════════╣
+║                                             ║
+║         {g}▲  ▲    ▲   ▲  ▲{a}                 ║
+║        {g}/▲\/▲\  /▲\ /▲\/▲\{a}                ║
+║       {g}▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄{a}                ║
+║                                             ║
+║  {d}[FWP "SOSNA"]  [FWP "JODŁA"]  [FWP ?]{a}   ║
+║                                             ║
+║      {a}◉  ← You                              ║
+║     ▐█▌  {d}[no destination]{a}                 ║
+║     ╱ ╲                                     ║
+╚═════════════════════════════════════════════╝
+
+{d}  The mountains are here. That is certain.
+  The air is clean. That too is certain.
+  Kiosk closed. Monday.
+{a}  You stand for a moment. You go back.

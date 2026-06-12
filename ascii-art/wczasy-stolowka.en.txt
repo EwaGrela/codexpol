@@ -1,0 +1,18 @@
+╔═════════════════════════════════════════════╗
+║           {c}CANTEEN  (ground floor){a}          ║
+╠═════════════════════════════════════════════╣
+║  {w}┌───────────────────────────────────┐{a}  ║
+║  {w}│{a}  BREAKFAST:                       {w}│{a}  ║
+║  {w}│{g}  – milk soup      {w}│{g} – bread (2 sl.)  {w}│{a}  ║
+║  {w}│{g}  – proc. cheese   {w}│{d} – tea (no spoon){w}│{a}  ║
+║  {w}└───────────────────────────────────┘{a}  ║
+║                                             ║
+║  {d}○  ○  ○  ○  ○  ○  ○  ○  ○  ○{a}          ║
+║  {d}plates · plates · plates{a}               ║
+║                                             ║
+║  {a}◉  ◉  ◉  ◉  ◉  ◉  ◉  ◉{a}                ║
+║  {d}everyone eats in silence{a}               ║
+╚═════════════════════════════════════════════╝
+
+{d}  Everyone eats in silence.
+{y}  7:44. {d}The lady takes the plates.

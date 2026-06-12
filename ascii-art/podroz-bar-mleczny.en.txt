@@ -1,0 +1,20 @@
+╔═════════════════════════════════════════════╗
+║       {c}MILK BAR "POD STALOWĄ"             {a}║
+╠═════════════════════════════════════════════╣
+║  {w}MENU:{a}                                   ║
+║  {g}tomato soup        {y}1.80 zł{a}              ║
+║  {g}dumplings (6 pcs.) {y}2.40 zł{a}              ║
+║  {d}buckwheat w. sauce  1.60 zł  ← sold out{a}║
+║  {g}fruit compote       {y}0.60 zł{a}              ║
+║  {w}──────────────────────────────────────  {a}║
+║                                             ║
+║  {a}◉ → ◉ → ◉ → {w}┌──────┐{a} ← Mrs. Jadwiga    ║
+║  █    █    █   {w}│ TILL │{a}                 ║
+║  ╱╲   ╱╲   ╱╲  {w}└──────┘{a}                 ║
+╚═════════════════════════════════════════════╝
+
+{d}  Third in queue.
+  Buckwheat sold out. There are dumplings.
+  It's 13:11. The office closes at 15:00.
+  Mrs. Krystyna returns from her break at 14:30.
+{r}  You don't have time.

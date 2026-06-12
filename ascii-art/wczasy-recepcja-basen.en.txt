@@ -1,0 +1,18 @@
+╔═════════════════════════════════════════════╗
+║  {c}FWP USTROŃ  ·  WORKERS' RESORT "GRUSZA"{a}║
+╠═════════════════════════════════════════════╣
+║                                             ║
+║   {w}╔══════════╗{a}       ◉  ← not looking      ║
+║   {w}║ REG.     ║{a}      ▐█▌                    ║
+║   {w}║ BOOK     ║{a}       █                     ║
+║   {w}╠══════════╣{a}               {c}╔══════╗{a}   ║
+║   {w}║{d}▓▓▓▓▓▓▓▓▓▓{w}║{a}               {c}║  TV  ║{a}   ║
+║   {w}╚══════════╝{a}               {c}╚══════╝{a}   ║
+║                                             ║
+║  {d}"Closed since eighty-eight."           {a}║
+║  {d}Doesn't look up.                       {a}║
+╚═════════════════════════════════════════════╝
+
+{d}  You: "And when will it be open?"
+  She: (turns a page in the registration book)
+{r}  That is the answer.

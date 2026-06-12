@@ -1,0 +1,19 @@
+╔═════════════════════════════════════════════╗
+║       {c}KATOWICE  CENTRAL STATION          {a}║
+╠═════════════════════════════════════════════╣
+║                                             ║
+║  {w}┌──────┐ ┌──────┐ ┌──────┐ ┌──────┐   {a}║
+║  {w}│{c} EXIT {w}│ │{c} EXIT {w}│ │{c} EXIT {w}│ │{c} EXIT {w}│   {a}║
+║  {w}└──┬───┘ └──┬───┘ └──┬───┘ └──┬───┘   {a}║
+║  {d}   N        S        E        W         {a}║
+║                                             ║
+║    {r}?                                     ║
+║  {a}◉  ← Zenon                              ║
+║  ▐█▌  {d}(holding a slip with the address)  {a}║
+║  ╱ ╲                                        ║
+║  {y}Stalowa St. 14  {d}← address in briefcase   {a}║
+╚═════════════════════════════════════════════╝
+
+{d}  Four exits. The slip says "near the station".
+  Zenon doesn't know which side "near" means.
+  Nobody's around. Nobody to ask.

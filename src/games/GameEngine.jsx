@@ -39,7 +39,7 @@ function ColoredArt({ text }) {
 }
 
 export default function GameEngine({ scenes, start, initialFlags = {} }) {
-  const { t } = useTranslation()
+  const { t, i18n } = useTranslation()
   const [sceneId, setSceneId] = useState(start)
   const [flags, setFlags] = useState(initialFlags)
 
@@ -61,14 +61,17 @@ export default function GameEngine({ scenes, start, initialFlags = {} }) {
   }
 
   const scene = scenes[sceneId]
+  const art = scene.art
+    ? (typeof scene.art === 'object' ? (scene.art[i18n.language] ?? scene.art.pl) : scene.art)
+    : null
 
   return (
     <div className="game-engine">
       {scene.title && (
         <div className="game-scene-title">{scene.title}</div>
       )}
-      {scene.art && (
-        <ColoredArt text={scene.art} />
+      {art && (
+        <ColoredArt text={art} />
       )}
       {scene.narration && (
         <p className="game-narration">{scene.narration}</p>

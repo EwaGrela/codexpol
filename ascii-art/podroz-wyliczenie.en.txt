@@ -1,0 +1,20 @@
+╔═════════════════════════════════════════════╗
+║  {c}REGIONAL LOGISTICS BOARD  –  KATOW.    {a}║
+╠═════════════════════════════════════════════╣
+║                                             ║
+║  {a}"There's an error. Please look here:"   ║
+║                                             ║
+║  {d}[finger pointing at the invoice]{a}        ║
+║                                             ║
+║   {a}◉  ← Mrs. Krystyna                    ║
+║  ▐█▌  {d}(not looking at the finger){a}         ║
+║  ╱ ╲                                        ║
+║                                             ║
+║        {d}[calling Mr. Mirek from the dept]{a} ║
+║        {d}Mr. Mirek: "it's always been this way"{a}║
+╚═════════════════════════════════════════════╝
+
+{d}  Mrs. Krystyna: "it's always been this way."
+  Mr. Mirek: "it's always been this way."
+  Zenon: understands that it's always been this way.
+{r}  It's always been this way.
