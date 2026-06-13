@@ -1,17 +1,20 @@
 ╔═════════════════════════════════════════════╗
-║       {c}KATOWICE  DWORZEC GŁÓWNY           {a}║
+║       {c}KATOWICE  DWORZEC GŁÓWNY{a}           ║
 ╠═════════════════════════════════════════════╣
+║  {d}╭─────────────────────────────────────╮{a}  ║
+║  {d}│        HALA GŁÓWNA  [13:47]         │{a}  ║
+║  {d}╰─────────────────────────────────────╯{a}  ║
 ║                                             ║
-║  {w}┌──────┐ ┌──────┐ ┌──────┐ ┌──────┐   {a}║
-║  {w}│{c}WYJŚCIE{w}│ │{c}WYJŚCIE{w}│ │{c}WYJŚCIE{w}│ │{c}WYJŚCIE{w}│   {a}║
-║  {w}└──┬───┘ └──┬───┘ └──┬───┘ └──┬───┘   {a}║
-║  {d}   Pn       Pd      Wsch     Zach       {a}║
-║                                             ║
-║    {r}?                                     ║
-║  {a}◉  ← Zenon                              ║
-║  ▐█▌  {d}(trzyma kartkę z adresem)          {a}║
-║  ╱ ╲                                        ║
-║  {y}ul. Stalowa 14  {d}← adres w teczce       {a}║
+║{w}  ╔═══════╗ ╔═══════╗ ╔═══════╗ ╔═══════╗{a} ║
+║{w}  ║{c}WYJŚCIE{w}║ ║{c}WYJŚCIE{w}║ ║{c}WYJŚCIE{w}║ ║{c}WYJŚCIE{w}║{a} ║
+║{w}  ║       ║ ║       ║ ║       ║ ║       ║{a} ║
+║{w}  ╚══╤════╝ ╚══╤════╝ ╚══╤════╝ ╚══╤════╝{a} ║
+║  {d}   Pn        Pd       Wsch      Zach{a}     ║
+║                  {r}?{a}                         ║
+║               {a}◉  ← Zenon                    ║
+║              ▐█▌  {d}(trzyma kartkę){a}          ║
+║            ╱ ╲                             ║
+║  {y}ul. Stalowa 14  {d}← adres w teczce{a}         ║
 ╚═════════════════════════════════════════════╝
 
 {d}  Cztery wyjścia. Kartka mówi "koło dworca".
