@@ -5,14 +5,14 @@
           ▐█▌
           ╱ ╲
 {w}▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-{w}█  {c}PLATFORM 3        BYDGOSZCZ MAIN  {w}   █
+{w}█  {c}PERON 3           BYDGOSZCZ GŁ.  {w}   █
 {w}█{d}▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓{w}█
       {a}┌─────────────────────┐
       │         bench       │
       └─────────────────────┘
 
-{y}  05:42  {w}EXPRESS → {c}KATOWICE
+{y}  05:42  {w}POSPIESZNY → {c}KATOWICE
 {a}  ──────────────────────────────────
-{r}  DELAY: +23 min
+{r}  OPÓŹNIENIE: +23 min
 
 {d}  Nobody is surprised.
