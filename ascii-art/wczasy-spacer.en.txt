@@ -1,19 +1,20 @@
 ╔═════════════════════════════════════════════╗
-║       {c}USTROŃ  –  WCZASOWA ST.            {a}║
+║       {c}USTROŃ  –  UL. WCZASOWA{a}             ║
 ╠═════════════════════════════════════════════╣
+║             {g}▲{a}        {g}▲    ▲{a}              ║
+║       {g}▲  /▲\  ▲    /▲\  /▲\ ▲{a}             ║
+║      {g}/▲\/▲▲▲\/▲\  /▲▲▲\/▲▲▲\/▲\{a}           ║
+║     {g}▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄{a}           ║
 ║                                             ║
-║         {g}▲  ▲    ▲   ▲  ▲{a}                 ║
-║        {g}/▲\/▲\  /▲\ /▲\/▲\{a}                ║
-║       {g}▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄{a}                ║
+║  {w}╔═════╗  ╔════════╗  ╔════════╗  ╔══╗{a}  ║
+║  {w}║{d} FWP {w}║  ║{d} SOSNA  {w} ║  ║{d}  JODŁA {w} ║  ║{d}??{w}║{a}  ║
+║  {w}╚═════╝  ╚════════╝  ╚════════╝  ╚══╝{a}  ║
 ║                                             ║
-║  {d}[FWP "SOSNA"]  [FWP "JODŁA"]  [FWP ?]{a}   ║
-║                                             ║
-║      {a}◉  ← You                              ║
-║     ▐█▌  {d}[no destination]{a}                 ║
-║     ╱ ╲                                     ║
+║     {a}◉  ← You  {d}[aimlessly]{a}                 ║
+║    ▐█▌                                      ║
 ╚═════════════════════════════════════════════╝
 
-{d}  The mountains are here. That is certain.
-  The air is clean. That too is certain.
-  Kiosk closed. Monday.
-{a}  You stand for a moment. You go back.
+{d}  The mountains are there. That much is certain.
+  The air is clean. That too.
+  The kiosk is closed. Monday.
+{a}  You stand for a moment. Then go back.
