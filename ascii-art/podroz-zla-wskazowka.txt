@@ -1,20 +1,20 @@
 ╔═════════════════════════════════════════════╗
 ║     {c}UL. HUTNICZA  –  KATOWICE            {a}║
 ╠═════════════════════════════════════════════╣
+║  {d}║ ║ ║ ║ ║ ║ ║ ║{a}   {d}║ ║ ║ ║ ║ ║ ║ ║{a}   ║
+║  {d}█ █ █ █ █ █ █ █{a}   {d}█ █ █ █ █ █ █ █{a}   ║
+║                   {g}↑ ogrodzenie{a}             ║
 ║                                             ║
 ║  {w}┌─────────────────────────────────────┐{a} ║
-║  {w}│{d} ZAKŁAD METALURGICZNY "HUTNIK" NR 3{w} │{a} ║
-║  {w}│{r}        WSTĘP WZBRONIONY           {w}│{a} ║
+║  {w}│{d} ZAKŁAD METALURGICZNY "HUTNIK" NR 3{w}│{a} ║
+║  {w}│{r}        WSTĘP WZBRONIONY          {w}│{a} ║
 ║  {w}└─────────────────────────────────────┘{a} ║
 ║                                             ║
 ║  {r}?  {a}← Zenon  {y}13:31{a}                      ║
-║  ◉                                          ║
-║  ▐█▌  {d}[teczka][kartka z adresem]{a}           ║
-║  ╱ ╲                                        ║
-║  {y}ul. Hutnicza  {d}← to nie jest ul. Stalowa  {a}║
+║  ◉    {d}[kartka: ul. Stalowa 14]{a}             ║
+║  ▐█▌  {d}← to nie jest ul. Stalowa{a}            ║
 ╚═════════════════════════════════════════════╝
 
 {d}  Pan na dworcu powiedział "prosto i w lewo".
   Stalowa jest "prosto i w prawo".
 {r}  Biuro zamykają o 15:00.
-{d}  Zenon to wie od 13:31.

@@ -1,20 +1,18 @@
 ╔═════════════════════════════════════════════╗
-║  {c}REGIONAL LOGISTICS BOARD  –  KATOW.    {a}║
+║  {c}ZARZĄD REJONOWY DS. LOGISTYKI – KATOW.  {a}║
 ╠═════════════════════════════════════════════╣
 ║                                             ║
-║  {a}"There's an error. Please look here:"   ║
+║  {w}"There is an error. Please look here:"{a}  ║
+║  {d}[finger points: VAT 22% = 1,066.34]{a}    ║
 ║                                             ║
-║  {d}[finger pointing at the invoice]{a}        ║
+║   {a}◉╱{w}☎{a}  ← Pani Krystyna               ║
+║   █    {d}calling Pan Mirek from the dept.{a}  ║
+║   ╱╲                                        ║
 ║                                             ║
-║   {a}◉  ← Mrs. Krystyna                    ║
-║  ▐█▌  {d}(not looking at the finger){a}         ║
-║  ╱ ╲                                        ║
-║                                             ║
-║        {d}[calling Mr. Mirek from the dept]{a} ║
-║        {d}Mr. Mirek: "it's always been this way"{a}║
+║  {d}Pan Mirek: {w}"always been this way"{a}       ║
+║  {d}Pani Krystyna: {w}"always been this way"{a}   ║
+║  {d}Zenon: understands.{a}                     ║
 ╚═════════════════════════════════════════════╝
 
-{d}  Mrs. Krystyna: "it's always been this way."
-  Mr. Mirek: "it's always been this way."
-  Zenon: understands that it's always been this way.
-{r}  It's always been this way.
+{d}  Always been this way.
+{r}  Always been this way.

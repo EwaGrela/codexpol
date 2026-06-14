@@ -1,18 +1,18 @@
 ╔═════════════════════════════════════════════╗
-║  {c}REGIONAL LOGISTICS BOARD  –  KATOW.    {a}║
+║  {c}ZARZĄD REJONOWY DS. LOGISTYKI – KATOW.  {a}║
 ╠═════════════════════════════════════════════╣
+║  {d}[binder]  [binder]  [binder]{a}            ║
 ║                                             ║
-║  {d}[binder]    [binder]    [binder]{a}        ║
+║   {w}┌──────┬──────┬───────┐{a}  {d}(@) {y}[13:47]{a}  ║
+║   {w}│  IN  │  OUT │ ARCH. │{a}   {d}↑{a}            ║
+║   {w}├──────┼──────┼───────┤{a}   {d}ashtray{a}       ║
+║   {w}│{y}▓▓▓▓▓▓{w}│      │       │{a}  {d}┌──┐ ← stamp{a}  ║
+║   {w}└──────┴──────┴───────┘{a}  {d}└──┘{a}           ║
 ║                                             ║
-║   {w}┌──────┬──────┬───────┐{a}  {d}(@) ← ashtray{a} ║
-║   {w}│  IN  │  OUT │ ARCH. │{a}                ║
-║   {w}├──────┼──────┼───────┤{a}  {a}┌──┐ ← stamp    ║
-║   {w}│{y}▓▓▓▓▓▓{w}│      │       │{a}  └──┘              ║
-║   {w}└──────┴──────┴───────┘{a}                ║
-║               {a}◉                           ║
-║              ▐█▌  ← Mrs. Krystyna          ║
-║              ╱ ╲                             ║
+║          {a}◉  ← Pani Krystyna              ║
+║         ▐█▌  {d}(back after 14:30){a}           ║
+║         ╱ ╲                                 ║
 ╚═════════════════════════════════════════════╝
 
-{d}  "Please wait. Mrs. Krystyna will be back after 14:30."
-  It's 13:47.
+{d}  "Please wait. Pani Krystyna is back after 14:30."
+  It is 13:47.

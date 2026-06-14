@@ -1,12 +1,12 @@
 ╔═════════════════════════════════════════════╗
-║         {c}PERON 2  –  KATOWICE  {y}17:06       {a}║
+║         {c}PERON 2  –  KATOWICE  {y}17:06{a}       ║
 ╠═════════════════════════════════════════════╣
 ║                                             ║
 ║  {w}┌─────────────────────────────────────┐{a} ║
-║  {w}│{a} FAK. VAT  1991/08/KAT/00847       {w}│{a} ║
-║  {w}│{a} VAT 22%:     {r}1.066,34 zł  ← zła  {w}│{a} ║
-║  {w}│{a} Podpis:  {d}_________________{a}       {w}│{a} ║
-║  {w}│{d} [RK-7b do Bożeny]               {w}│{a} ║
+║  {w}│{c} FAKTURA VAT 1991/08/KAT/00847    {w}│{a} ║
+║  {w}│{a}  VAT 22%:  {r}1.066,34 zł  ← BŁĘDNA{w}│{a} ║
+║  {w}│{a}  Podpis:   {d}[Zenon Wróblewski]{a}   {w}│{a} ║
+║  {w}│{d}  RK-7b  (do Bożeny, Bydgoszcz)  {w}│{a} ║
 ║  {w}└─────────────────────────────────────┘{a} ║
 ║                                             ║
 ║          {a}◉  ← Zenon                       ║
@@ -16,5 +16,4 @@
 
 {d}  Faktura jest błędna. Wiesz o tym.
   Podpisałeś. Też o tym wiesz.
-  Do odjazdu: {y}1 godz. 16 min.
 {a}  Zamykasz teczkę.

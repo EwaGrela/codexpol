@@ -1,21 +1,18 @@
 ╔═════════════════════════════════════════════╗
-║  {c}REGIONAL LOGISTICS BOARD  –  KATOW.    {a}║
+║  {c}ZARZĄD REJONOWY DS. LOGISTYKI – KATOW.  {a}║
 ╠═════════════════════════════════════════════╣
+║  {d}[binder]  [binder]  [binder]{a}            ║
 ║                                             ║
-║  {w}"But this figure is wrong."            {a}║
+║   {w}┌──────┬──────┬───────┐{a}  {y}┌────────┐{a}  ║
+║   {w}│  IN  │  OUT │ ARCH. │{a}  {y}│ 14:02  │{a}  ║
+║   {w}│{y}▓▓▓▓▓▓{w}│      │       │{a}  {y}└────────┘{a}  ║
+║   {w}└──────┴──────┴───────┘{a}  {d}← back at 14:30{a}║
 ║                                             ║
-║  {d}Mrs. Krystyna looks for a moment.      {a}║
-║  {d}She stands up. Takes her bag.          {a}║
-║                                             ║
-║  {a}◉╱ → {d}[bag]{a} → {w}[door]{a}                   ║
-║  █                                          ║
-║  ╱╲  ← Mrs. Krystyna                        ║
-║                                             ║
-║                   {y}┌──────────────┐{a}        ║
-║                   {y}│  clock 14:02 │{a}        ║
-║                   {y}└──────────────┘{a}        ║
+║  {a}◉  {d}[waiting]  {r}[chair: 3 legs]{a}          ║
+║  ▐█▌                                        ║
+║  ╱ ╲                                        ║
 ╚═════════════════════════════════════════════╝
 
-{d}  She'll be back at 14:30. That's what the man from next door said.
+{d}  Back at 14:30. Said the man from the next office.
   You wait. There is one chair.
 {r}  The chair has three legs.

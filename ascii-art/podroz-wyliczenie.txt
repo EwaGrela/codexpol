@@ -2,19 +2,17 @@
 ║  {c}ZARZĄD REJONOWY DS. LOGISTYKI – KATOW.  {a}║
 ╠═════════════════════════════════════════════╣
 ║                                             ║
-║  {a}"Tu jest błąd. Proszę zobaczyć:"        ║
+║  {w}"Tu jest błąd. Proszę zobaczyć:"{a}       ║
+║  {d}[palec wskazuje: VAT 22% = 1.066,34]{a}   ║
 ║                                             ║
-║  {d}[palec wskazuje na fakturę]{a}              ║
+║   {a}◉╱{w}☎{a}  ← Pani Krystyna               ║
+║   █    {d}dzwoni do Pana Mirka z działu{a}     ║
+║   ╱╲                                        ║
 ║                                             ║
-║   {a}◉  ← Pani Krystyna                     ║
-║  ▐█▌  {d}(nie patrzy na palec){a}               ║
-║  ╱ ╲                                        ║
-║                                             ║
-║        {d}[dzwoni do pana Mirka z działu]{a}    ║
-║        {d}Pan Mirek: "tak jest od zawsze"{a}    ║
+║  {d}Pan Mirek: {w}"tak jest od zawsze"{a}         ║
+║  {d}Pan. Krystyna: {w}"tak jest od zawsze"{a}     ║
+║  {d}Zenon: rozumie.{a}                         ║
 ╚═════════════════════════════════════════════╝
 
-{d}  Pani Krystyna: "tak jest od zawsze".
-  Pan Mirek: "tak jest od zawsze".
-  Zenon: rozumie że tak jest od zawsze.
+{d}  Tak jest od zawsze.
 {r}  Tak jest od zawsze.

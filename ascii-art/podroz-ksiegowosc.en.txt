@@ -1,18 +1,19 @@
 ╔═════════════════════════════════════════════╗
-║           {c}ACCOUNTING DEPARTMENT{a}           ║
+║           {c}DZIAŁ KSIĘGOWOŚCI{a}               ║
 ╠═════════════════════════════════════════════╣
+║  {y}▓▓▓{a}  {y}▓▓▓{a}  {y}▓▓▓{a}  {y}▓▓▓{a}  {y}▓▓▓{a}  {y}▓▓▓{a}  {y}▓▓▓{a}     ║
+║  {y}▓▓▓{a}  {y}▓▓▓{a}  {y}▓▓▓{a}  {y}▓▓▓{a}  {y}▓▓▓{a}  {y}▓▓▓{a}  {y}▓▓▓{a}     ║
+║  {d}RK-7b RK-7b RK-7b RK-7b RK-7b RK-7b{a}  ║
 ║                                             ║
-║  {y}▓▓▓{a}  {y}▓▓▓{a}  {y}▓▓▓{a}  {y}▓▓▓{a}  {y}▓▓▓{a}  {y}▓▓▓{a}         ║
-║  {y}▓▓▓{a}  {y}▓▓▓{a}  {y}▓▓▓{a}  {y}▓▓▓{a}  {y}▓▓▓{a}  {y}▓▓▓{a}         ║
-║  {d}stack stack stack stack stack stack{a}   ║
+║  {w}╔════════════╗{a}  {r}[printing RK-7b]{a}         ║
+║  {w}║{d} ░░░░░░░░░ {w}║{a}   {d}← form{a}                  ║
+║  {w}║{d} printer  {w}║{a}   {r}(obsolete since 1990){a}    ║
+║  {w}╚════════════╝{a}                           ║
 ║                                             ║
-║  {w}┌──────────────┐{a}          ◉  ← Bożena  ║
-║  {w}│  FORM        │{a}         ▐█▌            ║
-║  {w}│  RK-7b       │{a}         ╱ ╲            ║
-║  {w}│ {r}(outdated)  {w}│{a}                     ║
-║  {w}└──────────────┘{a}                       ║
+║          {a}◉  ← Bożena                      ║
+║         ▐█▌  {d}"try it anyway"{a}              ║
 ╚═════════════════════════════════════════════╝
 
 {d}  Form RK-7b is no longer valid.
-  The valid form is RK-7c. It's only in Warsaw.
-  Bożena prints RK-7b and says to try it anyway.
+  RK-7c is valid. Only available in Warsaw.
+  Bożena prints RK-7b and says to try anyway.
