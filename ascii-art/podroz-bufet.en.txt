@@ -1,14 +1,13 @@
-{d}  ·   ★    ·      ★       ·    ★    ·    ·
+  {d}·   ★    ·      ★       ·    ★    ·    ·
 
 ╔═════════════════════════════════════════════╗
-║    {c}BUFET  –  DWORZEC BYDGOSZCZ GŁ.     {a}║
+║    {c}BUFET  –  DWORZEC BYDGOSZCZ GŁ.      {a}║
 ╠═════════════════════════════════════════════╣
-║                                             ║
-║  {w}┌───────────────┐{a}  {d}[VENDING MACHINE]{a}   ║
-║  {w}│{g} tea    0.80  {w}│{a}  {r}[ OUT OF ORDER ]{a}   ║
-║  {w}│{g} roll   1.20  {w}│{a}                        ║
-║  {w}│{d} coffee (none){w}│{a}  {d}← "since Wednesday"{a}║
-║  {w}└───────────────┘{a}                        ║
+║  {w}┌───────────────┐{a}  {r}╔═════════════╗{a}      ║
+║  {w}│{g} tea    0.80  {w}│{a}  {r}║ COFFEE      ║{a}      ║
+║  {w}│{g} roll   1.20  {w}│{a}  {r}║ MACHINE     ║{a}      ║
+║  {w}│{d} coffee (none){w}│{a}  {r}║ OUT OF ORDER║{a}      ║
+║  {w}└───────────────┘{a}  {r}╚═════════════╝{a}      ║
 ║                                             ║
 ║      {a}◉  ← Zenon  {y}05:21{a}                    ║
 ║     ▐█▌  {d}[wallet, briefcase]{a}                ║
@@ -16,5 +15,5 @@
 ╚═════════════════════════════════════════════╝
 
 {d}  Machine broken since Wednesday. Nobody fixes it.
-  Tea from a bag. Warm. It is not coffee.
-{r}  At 05:39 the train enters platform 3.
+  Bag tea. Warm. Not coffee.
+{r}  At 05:39 the train arrives at platform 3.

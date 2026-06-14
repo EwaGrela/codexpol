@@ -1,18 +1,19 @@
 ╔═════════════════════════════════════════════╗
-║               {c}WYMELDOWANIE{a}                 ║
+║          {c}RECEPCJA  –  WYMELDOWANIE{a}        ║
 ╠═════════════════════════════════════════════╣
 ║                                             ║
-║  {a}Pokój:  {y}303{a}           Liczba dni:  {y}7{a}    ║
-║  {a}Opłata: {y}420,00 zł{a}                      ║
-║  {a}Dopłata (telefon):     {y}3,40 zł{a}          ║
-║  {a}Reklamacja basenu:     {r}ODRZUCONA{a}         ║
+║  {d}╔═══════════════════════════════════╗{a}    ║
+║  {d}║  KARTA POBYTU  nr 303/91        ║{a}    ║
+║  {d}║  Pobyt: 7 dni × 156 zł          ║{a}    ║
+║  {d}║  Razem: {g}1092 zł  (zapłacono){d}   ║{a}    ║
+║  {d}║  Reklamacja nr 7/91: {y}w toku{d}    ║{a}    ║
+║  {d}╚═══════════════════════════════════╝{a}    ║
 ║                                             ║
-║  {w}Prosimy o opinię:{a}                        ║
-║  {d}[ ] doskonale  [ ] dobrze  {w}[{g}X{w}]{a} średnio  ║
-║                                             ║
-║  {w}Podpis: ____________________________{a}   ║
+║  {a}◉  ← Pani Jadwiga                        ║
+║  {d}  "Podpisz pan tu i tu."               ║
+║  {d}  "Zapraszamy za rok."                 ║
 ╚═════════════════════════════════════════════╝
 
-{d}  "Serdecznie zapraszamy za rok."
-  Nie wracasz za rok.
-{a}  Wracasz za rok.
+{d}  Podpisujesz. Dostajesz pieczęć wyjazdową.
+  Reklamacja rozpatrzona zostanie
+  w ciągu 30 dni roboczych.

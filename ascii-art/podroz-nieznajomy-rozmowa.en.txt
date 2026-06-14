@@ -1,19 +1,18 @@
 ╔═════════════════════════════════════════════╗
-║{d} [bag]          [nothing]       [nothing]  {a}║
+║{d} [bag]             [nothing]      [nothing] {a}║
 ╠══════════════ {w}COMPARTMENT 6{a} ══════════════╣
-║                                             ║
+║ {d}╔═══════════════════════════════════════╗{a} ║
+║ {d}║{a} ░░ darkness ░░ Silesia ░░ darkness ░ {d}║{a} ║
+║ {d}╚═══════════════════════════════════════╝{a} ║
 ║  {a}◉                              ◉{a}        ║
 ║  ▐█▌                             ▐█▌        ║
 ║  ╱ ╲                             ╱ ╲        ║
-║  {a}Zenon                      Stranger{a}      ║
+║  {a}Zenon                     Stranger{a}       ║
 ║                                             ║
-║  {d}"Invoices" — says the Stranger.         {a}║
-║  {d}Nods. Looks out the window.             {a}║
-║  {d}"Same with me."                         {a}║
-║                                             ║
+║  {d}"Invoices." — nods — "Same for me."{a}     ║
 ╚═════════════════════════════════════════════╝
 
-{d}  Zenon doesn't ask what "same with me" means.
-  The Stranger doesn't ask for details.
+{d}  Zenon doesn't ask what "same for me" means.
+  The stranger doesn't ask for details.
   They ride in silence through Silesia.
 {a}  That is enough.

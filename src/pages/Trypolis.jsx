@@ -1,15 +1,17 @@
 import { Link } from 'react-router-dom'
+import { useTranslation } from 'react-i18next'
 import GameEngine from '../games/GameEngine'
 import { scenes, start, initialFlags } from '../games/trypolis-scenes'
 
 export default function Trypolis() {
+  const { t } = useTranslation()
   return (
     <div className="game-page">
       <div className="game-monitor">
         <div className="game-monitor-titlebar">
           <Link to="/gry" className="game-back">← /gry</Link>
-          <span className="game-monitor-title">PRINCE OF TRYPOLIS</span>
-          <span className="game-monitor-meta">1992 · 0 kopii</span>
+          <span className="game-monitor-title">{t('games.trypolis.name')}</span>
+          <span className="game-monitor-meta">1992 · {t('games.trypolis.copies')}</span>
         </div>
         <div className="game-screen">
           <GameEngine scenes={scenes} start={start} initialFlags={initialFlags} />

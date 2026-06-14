@@ -1,18 +1,18 @@
 ╔═════════════════════════════════════════════╗
-║{d} [bag]          [nothing]       [nothing]  {a}║
+║{d} [bag]             [nothing]      [nothing] {a}║
 ╠══════════════ {w}COMPARTMENT 6{a} ══════════════╣
-║                                             ║
+║ {d}╔═══════════════════════════════════════╗{a} ║
+║ {d}║{a} ░░░ darkness ░░░ Silesia ░░░░░░░░░ {d}║{a} ║
+║ {d}╚═══════════════════════════════════════╝{a} ║
 ║  {a}◉                              ◉{a}        ║
-║  ▐█▌  {d}[briefcase w. RK-7b]       {a}▐█▌      ║
-║  ╱ ╲   {d}[on lap]                  {a}╱ ╲      ║
-║  {a}Zenon                      Stranger{a}      ║
+║  ▐█▌  {d}[briefcase w/ RK-7b]     {a}▐█▌        ║
+║  ╱ ╲   {d}[on lap]                {a}╱ ╲        ║
+║  {a}Zenon                     Stranger{a}       ║
 ║                                             ║
-║  {d}Outside: ░░░░ darkness and Silesia ░░░░{a}║
-║                                             ║
+║  {d}2 hours 43 minutes to go.{a}               ║
 ╚═════════════════════════════════════════════╝
 
-{d}  The stranger asks what Zenon does.
-  Zenon says "logistics".
-  The stranger nods and looks out the window.
+{d}  Stranger asks what Zenon does for work.
+  Zenon says "logistics."
+  Stranger nods and looks out the window.
   Zenon looks out the window too.
-  The journey takes 2 hours and 43 minutes.

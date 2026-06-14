@@ -4,13 +4,13 @@
 ║            {r}Zakaz wstępu.{a}                  ║
 ║                                             ║
 ║  {w}┌─────────────────────────────────────┐{a} ║
-║  {w}│{a}  ZWIĄZEK ZAWODOWY PRACOWNIKÓW      {w}│{a} ║
-║  {w}│{a}  PRZEMYSŁU LEKKIEGO               {w}│{a} ║
+║  {w}│{a}  ZWIĄZEK ZAWODOWY / FWP USTROŃ    {w}│{a} ║
 ║  {w}│{a}  DECYZJA NR 1991/FWP/083          {w}│{a} ║
-║  {w}│{a}                                   {w}│{a} ║
-║  {w}│{r}  DOŻYWOTNI ZAKAZ WSTĘPU           {w}│{a} ║
-║  {w}│{r}  DO OBIEKTÓW FWP USTROŃ           {w}│{a} ║
-║  {w}│{d}  [stempel]  [podpis nieczytelny]  {w}│{a} ║
+║  {w}│─────────────────────────────────────│{a} ║
+║  {w}│{r}  DOŻYWOTNI ZAKAZ WSTĘPU DO FWP   {w}│{a} ║
+║  {w}│─────────────────────────────────────│{a} ║
+║  {w}│{d}  [stempel: ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓]{w}│{a} ║
+║  {w}│{d}  [podpis nieczytelny]             {w}│{a} ║
 ║  {w}└─────────────────────────────────────┘{a} ║
 ╚═════════════════════════════════════════════╝
 

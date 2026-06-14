@@ -1,20 +1,20 @@
 ╔═════════════════════════════════════════════╗
-║       {c}CAFÉ  –  KSIĄŻ CASTLE              {a}║
+║       {c}CAFÉ  –  ZAMEK KSIĄŻ             {a}║
 ╠═════════════════════════════════════════════╣
+║  {d}╔═══════════════════════════════════╗{a}   ║
+║  {d}║{a} ░░░░░░░░░ raining outside ░░░░░ {d}║{a}   ║
+║  {d}╚═══════════════════════════════════╝{a}   ║
 ║                                             ║
 ║  {w}┌─────────────────────────────────────┐{a} ║
-║  {w}│{g}  black coffee       {y}12.00 zł       {w}│{a} ║
-║  {w}│{g}  tea                 {y}8.00 zł        {w}│{a} ║
-║  {w}│{d}  cake (none)                      {w}│{a} ║
+║  {w}│{g}  black coffee     {y}12.00 zł       {w}│{a} ║
+║  {w}│{g}  tea               {y}8.00 zł       {w}│{a} ║
+║  {w}│{d}  pastry (unavail.)               {w}│{a} ║
 ║  {w}└─────────────────────────────────────┘{a} ║
-║                                             ║
-║  {d}░░░░░░ raining outside ░░░░░░░░░░░░░░  {a}║
 ║                                             ║
 ║      {a}◉  ← You  {d}(dry, warm){a}               ║
 ║     ▐█▌  {d}[magnet in pocket]{a}               ║
-║     ╱ ╲                                     ║
 ╚═════════════════════════════════════════════╝
 
-{d}  12 zlotys for coffee. At the resort, coffee: 0.80 zł.
-  It's warm and dry and nobody is here.
+{d}  12 złotych for a coffee. At the centre: 0.80 zł.
+  Warm and dry and nobody here.
 {a}  You order.

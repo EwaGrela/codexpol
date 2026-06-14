@@ -1,16 +1,15 @@
 ╔═════════════════════════════════════════════╗
 ║{d} [torba]           [nic]           [nic]   {a}║
 ╠══════════════ {w}PRZEDZIAŁ 6{a} ════════════════╣
-║                                             ║
+║ {d}╔═══════════════════════════════════════╗{a} ║
+║ {d}║{a} ░░ ciemność ░░ Śląsk ░░ ciemność ░░ {d}║{a} ║
+║ {d}╚═══════════════════════════════════════╝{a} ║
 ║  {a}◉                              ◉{a}        ║
 ║  ▐█▌                             ▐█▌        ║
 ║  ╱ ╲                             ╱ ╲        ║
-║  {a}Zenon                    Nieznajomy      ║
+║  {a}Zenon                    Nieznajomy{a}      ║
 ║                                             ║
-║  {d}"Faktury" – mówi Nieznajomy.            {a}║
-║  {d}Kiwa głową. Patrzy przez okno.          {a}║
-║  {d}"U mnie też tak jest."                  {a}║
-║                                             ║
+║  {d}"Faktury." — kiwa głową — "U mnie też."{a} ║
 ╚═════════════════════════════════════════════╝
 
 {d}  Zenon nie pyta co znaczy "u mnie też".

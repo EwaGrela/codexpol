@@ -3,18 +3,15 @@
 ║            {w}ZAKOŃCZENIE  I{a}                 ║
 ║            {g}Wróciłeś.{a}                      ║
 ║                                             ║
-║  {a}◉╱ → {d}[walizka]{a} → {w}[przystanek PKS]{a}     ║
-║  █                                          ║
-║  ╱╲  ← Ty                                   ║
+║  {d}[walizka]{a}  {a}◉╱{a} →  {w}┌──────────────────┐{a}  ║
+║             █   {w}│{a} PKS  odjazd {y}11:05 {w}│{a}  ║
+║             ╱╲  {w}│{a} bilet:  {y}12,50 zł  {w}│{a}  ║
+║                 {w}└──────────────────┘{a}  ║
 ║                                             ║
-║       {w}┌────────────────────────────┐{a}      ║
-║       {w}│{a}  autobus: odjazd {y}11:05         {w}│{a}      ║
-║       {w}│{a}  bilet: {y}12,50 zł               {w}│{a}      ║
-║       {w}└────────────────────────────┘{a}      ║
+║  {d}Niedziela. 15:30. Dom.{a}                   ║
+║  {d}Żona: "Jak było?"{a}                         ║
+║  {a}Ty: "Normalnie."{a}                          ║
 ║                                             ║
 ╚═════════════════════════════════════════════╝
 
-{d}  Wróciłeś w niedzielę o 15:30.
-  Żona zapytała jak było.
-  Powiedziałeś "normalnie".
-{a}  To było prawdziwe słowo.
+{d}  "Normalnie" było prawdziwym słowem.

@@ -1,17 +1,18 @@
 ╔═════════════════════════════════════════════╗
-║  {c}REGIONAL LOGISTICS BOARD  –  KATOW.    {a}║
+║  {c}ZARZĄD REJONOWY DS. LOGISTYKI – KATOW.  {a}║
 ╠═════════════════════════════════════════════╣
 ║                                             ║
-║  {w}VAT INVOICE  no. 1991/08/KAT/00847      {a}║
-║  {d}· · · · · · · · · · · · · · · · · · ·  {a}║
-║  {a}Net value:           {y}4,847.00 zł{a}       ║
-║  {a}VAT 22%:             {r}1,066.34 zł ← wrong{a}║
-║  {a}Gross value:         {y}5,913.34 zł{a}       ║
-║  {d}· · · · · · · · · · · · · · · · · · ·  {a}║
-║                                             ║
-║  {w}Recipient's signature: ________________{a}║
-║                                             ║
+║  {w}┌─────────────────────────────────────┐{a} ║
+║  {w}│  INVOICE VAT  1991/08/KAT/00847     │{a} ║
+║  {w}│─────────────────────────────────────│{a} ║
+║  {w}│  Net value:          {a}4,847.00 zł   {w}│{a} ║
+║  {w}│  VAT 22%:            {r}1,066.34 zł ←!{w}│{a} ║
+║  {w}│  Gross value:        {a}5,913.34 zł   {w}│{a} ║
+║  {w}│─────────────────────────────────────│{a} ║
+║  {w}│  Signature: ______________________  │{a} ║
+║  {w}└─────────────────────────────────────┘{a} ║
+║              {r}↑ this number is wrong{a}         ║
 ╚═════════════════════════════════════════════╝
 
-{d}  The invoice is wrong. Mrs. Krystyna says
-  it's "always been this way". You sign.
+{d}  The invoice is wrong. Pani Krystyna says
+  it's "always been this way." You sign it.

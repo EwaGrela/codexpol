@@ -4,16 +4,16 @@
 ║                                             ║
 ║  {w}[8]{a}   {w}[10]{a}   {w}[12]{a}   {y}[14 ???]{a}           ║
 ║                                             ║
-║     {w}┌───────────┐{a}  ← nr 14             ║
-║     {w}│  BRAMA    │{a}                      ║
-║     {w}│ {r}[ZAMKN.]{w} │{a}  {d}"Wejście od        ║
-║     {w}└───────────┘{a}   {d}ul. Górnej"     {a}║
+║     {w}┌─────────────────────────┐{a}          ║
+║     {w}│         BRAMA           │{a}          ║
+║     {w}│     {r}[ZAMKNIĘTA]{a}           {w}│{a}          ║
+║     {w}│  {d}"wejście od ul. Górnej"{a}  {w}│{a}          ║
+║     {w}└─────────────────────────┘{a}          ║
 ║                                             ║
-║  {a}◉  ← Zenon {y}13:08{a}                       ║
-║  ▐█▌  {d}[teczka]                           {a}║
-║  ╱ ╲                                        ║
+║  {a}◉  ← Zenon  {y}13:08{a}  {d}[teczka]{a}            ║
+║  ▐█▌                                        ║
 ╚═════════════════════════════════════════════╝
 
 {d}  Nr 14 istnieje. Brama zamknięta od 12:00.
-  Karteczka mówi "wejście od ul. Górnej".
+  Karteczka: "wejście od ul. Górnej".
   Zenon nie wie gdzie jest ul. Górna.

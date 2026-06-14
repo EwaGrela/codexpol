@@ -1,20 +1,19 @@
 ╔═════════════════════════════════════════════╗
-║  {c}FWP USTROŃ  ·  WORKERS' RESORT "GRUSZA"{a}║
-║           {w}EARLY CHECK-OUT{a}                 ║
+║       {c}ROOM 303  –  DAY 7  [5:48]{a}        ║
 ╠═════════════════════════════════════════════╣
 ║                                             ║
-║  {a}Days purchased:      {y}7{a}                  ║
-║  {a}Stay:                {y}6{a}                  ║
-║  {a}Refund for day 7:    {r}0.00 zł  ← none{a}   ║
+║   {d}████████████{a} ← suitcase (ready)         ║
+║   {d}════════════{a}                            ║
 ║                                             ║
-║  {a}Final charge:       {y}420.00 zł{a}           ║
-║  {a}Paid:               {y}420.00 zł{a}           ║
+║   {w}[PKS 6:30 → Ustroń → Bielsko]{a}          ║
 ║                                             ║
-║  {w}Signature: ___________________________{a}  ║
+║   {d}Loss:{a}                                   ║
+║     {r}− 156 zł{d}  (day 7, unoccupied){a}      ║
+║     {r}− phone token{d}  (call to wife: 3 min){a}║
 ║                                             ║
+║   {d}[corridor: silence]  [Zdzisław: asleep]{a}║
 ╚═════════════════════════════════════════════╝
 
-{d}  The receptionist says the "regulations do not
-  provide for refunds on unused days".
-  You know. You already read that.
-  You sign and leave.
+{d}  You leave the key under the door.
+  No one sees you leave.
+  That's better.

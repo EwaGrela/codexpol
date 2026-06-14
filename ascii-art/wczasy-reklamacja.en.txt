@@ -1,18 +1,20 @@
 ╔═════════════════════════════════════════════╗
-║  {c}FWP USTROŃ  ·  WORKERS' RESORT "GRUSZA"{a}║
+║          {c}RECEPTION  –  COMPLAINT{a}          ║
 ╠═════════════════════════════════════════════╣
 ║                                             ║
-║  {w}COMPLAINT FORM  FR-12/1988{a}               ║
-║  {d}· · · · · · · · · · · · · · · · · · ·{a}  ║
-║  {a}Subject of complaint:                  ║
-║  {w}[{r}X{w}]{a} pool   {w}[{r}X{w}]{a} noise  {w}[{r}X{w}]{a} breakfast  ║
-║  {w}[{r}X{w}]{a} window {w}[{r}X{w}]{a} wall   {w}[{r}X{w}]{a} other      ║
-║  {d}· · · · · · · · · · · · · · · · · · ·{a}  ║
+║  {y}Issue 1:  {r}no hot water{a}                  ║
+║  {y}Issue 2:  {r}wardrobe has no shelf{a}          ║
+║  {y}Issue 3:  {r}window: view of carpark{a}        ║
 ║                                             ║
-║  {w}Signature:  __________________________{a} ║
+║  {d}╔═══════════════════════════════╗{a}        ║
+║  {d}║  FAULT REPORT no. 7/91      ║{a}        ║
+║  {d}║  Date: __________           ║{a}        ║
+║  {d}║  Signed: ___________        ║{a}        ║
+║  {d}╚═══════════════════════════════╝{a}        ║
 ║                                             ║
+║  {a}◉  ← Pani Jadwiga {d}[writing]{a}           ║
 ╚═════════════════════════════════════════════╝
 
-{d}  The receptionist takes the form.
-  Doesn't look at you.
-  Says "we will process it within 30 working days".
+{d}  Pani Jadwiga says there was water this morning.
+  The report goes "to management."
+  Management is in Katowice.

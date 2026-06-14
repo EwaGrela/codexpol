@@ -8,12 +8,12 @@
 ║  {d} Zdz.  Henryk Wiesiek  {y}YOU{a}              ║
 ║                                             ║
 ║   {w}┌──────────────────────────────────┐{a}   ║
-║   {w}│{g}  A   K   Q   J   2   3   4   {w}      │{a}   ║
-║   {w}│{d}  tea · tea · tea              {w}│{a}   ║
+║   {w}│{g}  A ♠  K ♥  D ♦  W ♣  2   3   {w}│{a}   ║
+║   {w}│{d}  ☕        ☕        ☕tea      {w}│{a}   ║
 ║   {w}└──────────────────────────────────┘{a}   ║
-║                               {y}01:22{a}       ║
+║               {y}01:22{a}  {d}(−3.40 zł){a}       ║
 ╚═════════════════════════════════════════════╝
 
-{d}  Zdzisław says you're "pretty alright".
-  Wiesiek puts down tea. You don't ask where he got it.
-  You play until 2:30. You lose 3.40 zł.
+{d}  Zdzisław says you're "pretty decent."
+  Wiesiek pours tea. You don't ask where he got it.
+  You play until 2:30.

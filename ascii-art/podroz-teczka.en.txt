@@ -1,20 +1,19 @@
 ╔═════════════════════════════════════════════╗
-║         {c}PLATFORM 2  –  KATOWICE  {y}17:06     {a}║
+║         {c}PLATFORM 2  –  KATOWICE  {y}17:06{a}    ║
 ╠═════════════════════════════════════════════╣
 ║                                             ║
 ║  {w}┌─────────────────────────────────────┐{a} ║
-║  {w}│{a} VAT INV.  1991/08/KAT/00847       {w}│{a} ║
-║  {w}│{a} VAT 22%:     {r}1,066.34 zł  ← wrong {w}│{a} ║
-║  {w}│{a} Signature: {d}_________________{a}      {w}│{a} ║
-║  {w}│{d} [RK-7b for Bożena]              {w}│{a} ║
+║  {w}│{c} INVOICE VAT 1991/08/KAT/00847    {w}│{a} ║
+║  {w}│{a}  VAT 22%:  {r}1,066.34 zł  ← WRONG{w}│{a}  ║
+║  {w}│{a}  Signed:   {d}[Zenon Wróblewski]{a}   {w}│{a} ║
+║  {w}│{d}  RK-7b  (for Bożena, Bydgoszcz)  {w}│{a} ║
 ║  {w}└─────────────────────────────────────┘{a} ║
 ║                                             ║
 ║          {a}◉  ← Zenon                       ║
-║         ▐█▌  {d}[briefcase on lap]{a}            ║
+║         ▐█▌  {d}[briefcase on lap]{a}           ║
 ║         ╱ ╲                                 ║
 ╚═════════════════════════════════════════════╝
 
-{d}  The invoice is wrong. You know that.
+{d}  The invoice is wrong. You know this.
   You signed it. You know that too.
-  Until departure: {y}1 hr 16 min.
 {a}  You close the briefcase.

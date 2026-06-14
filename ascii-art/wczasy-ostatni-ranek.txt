@@ -1,19 +1,18 @@
 ╔═════════════════════════════════════════════╗
-║      {c}POKÓJ 303  –  DZIEŃ 6  (ranek){a}       ║
+║      {c}POKÓJ 303  –  DZIEŃ 7  (ranek){a}       ║
 ╠═════════════════════════════════════════════╣
 ║  {w}┌──┐  ┌──────────────────┐  ┌──────┐{a}   ║
 ║  {w}│S │  │{d}  parking / grusza {w}│  │SZAFA │{a}   ║
 ║  {w}│Z │  │{d}  (ten sam widok)  {w}│  │{d}pusta{w} │{a}   ║
 ║  {w}│A │  └──────────────────┘  └──────┘{a}   ║
-║  {w}│F │                                  {a}  ║
-║  {w}│A │  {a}╔════════════════════════╗{a}      ║
-║  {w}└──┘  {a}║{d}▓▓▓ walizka (spakowana) ▓▓{a}║{a}      ║
-║         {a}╚════════════════════════╝{a}      ║
+║  {w}│F │{a}                                     ║
+║  {w}│A │  {a}╔══════════════════════════╗{a}    ║
+║  {w}└──┘  {a}║{d}▓▓▓ walizka (spakowana) ▓▓▓{a}║{a}    ║
+║         {a}╚══════════════════════════╝{a}    ║
 ║                                             ║
-║  {d}[budka tel.: parter]  {a}autobus: {y}11:05{a}    ║
+║  {d}[śniadanie 7:00]  autobus: {y}11:05{a}       ║
 ╚═════════════════════════════════════════════╝
 
-{d}  Spakowana na wszelki wypadek.
-  Zostaje jeszcze jeden dzień.
-  Żona nie wie że o tym myślisz.
-{a}  Ty też nie byłeś pewien. Do teraz.
+{d}  Spakowana od wczoraj wieczór.
+  Zostaje jeszcze jeden dzień, ale walizka już spakowana.
+{a}  To też coś znaczy.

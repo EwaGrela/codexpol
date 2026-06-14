@@ -1,18 +1,18 @@
 ╔═════════════════════════════════════════════╗
 ║{d} [torba]           [nic]           [nic]   {a}║
 ╠══════════════ {w}PRZEDZIAŁ 6{a} ════════════════╣
-║                                             ║
+║ {d}╔═══════════════════════════════════════╗{a} ║
+║ {d}║{a} ░░░ ciemność ░░░ Śląsk ░░░░░░░░░░ {d}║{a} ║
+║ {d}╚═══════════════════════════════════════╝{a} ║
 ║  {a}◉                              ◉{a}        ║
 ║  ▐█▌  {d}[teczka z RK-7b]        {a}▐█▌        ║
 ║  ╱ ╲   {d}[na kolanach]           {a}╱ ╲        ║
-║  {a}Zenon                    Nieznajomy      ║
+║  {a}Zenon                    Nieznajomy{a}      ║
 ║                                             ║
-║  {d}Za oknem: ░░░░ ciemność i Śląsk ░░░░   {a}║
-║                                             ║
+║  {d}Jedzie się 2 godziny 43 minuty.{a}          ║
 ╚═════════════════════════════════════════════╝
 
 {d}  Nieznajomy pyta czym się Zenon zajmuje.
   Zenon mówi "logistyka".
   Nieznajomy kiwa głową i patrzy przez okno.
   Zenon też patrzy przez okno.
-  Jedzie się 2 godziny 43 minuty.

@@ -1,17 +1,17 @@
 ╔═════════════════════════════════════════════╗
-║       {c}OPTIONAL EXCURSION{a}                  ║
-║       {c}Książ Castle  –  departure 9:00{a}     ║
+║       {c}OPTIONAL EXCURSION{a}                   ║
+║       {c}Zamek Książ  –  departure 9:00{a}       ║
 ╠═════════════════════════════════════════════╣
+║  {d}░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░{a}  ║
+║  {d}░░░░░░░░░░░░ raining ░░░░░░░░░░░░░░░{a}  ║
 ║                                             ║
-║  {a}◉  ◉  ◉  ◉  ◉  ◉  ◉  ◉  ◉  ◉  ◉  ◉{a}   ║
-║  █  █  █  █  █  █  █  █  █  █  █  █     ║
-║  {d}everyone has been waiting since 9:00{a}    ║
+║  {d}╔══════════════════════════╗{a}             ║
+║  {d}║{a} ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉ ◉{d}║{a}             ║
+║  {d}║{a} █ █ █ █ █ █ █ █ █ █ █{d}║  {y}[9:52]{a}    ║
+║  {d}╚══════{y}[bus shelter]{d}════════════╝{a}       ║
 ║                                             ║
-║  {c}· · · · · · · · · · · · · · · · · ·{a}    ║
-║  {d}raining{a}                                 ║
-║                              {r}?{a}            ║
-║                          ← {d}coach{a}          ║
+║              {r}[coach should be here]{a}      ║
 ╚═════════════════════════════════════════════╝
 
-{y}  It's 9:52.
-{d}  Driver "will be here soon".
+{y}  It is 9:52.
+{d}  The driver "will be here shortly."

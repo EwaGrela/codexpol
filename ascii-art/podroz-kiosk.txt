@@ -2,19 +2,18 @@
 ║      {c}KIOSK RUCHU – PERON 2 KATOWICE      {a}║
 ╠═════════════════════════════════════════════╣
 ║                                             ║
-║  {w}┌──────────────────────────────────┐{a}   ║
-║  {w}│{d} [Przekrój]  [Sport]  [Trybuna] {w}  │{a}   ║
-║  {w}│{g} [cukierki]  [guma]   [zapałki] {w}  │{a}   ║
-║  {w}│{c} [Sprite 0,33l]       [oranżada]{w}  │{a}   ║
-║  {w}│                                  │{a}   ║
-║  {w}│          ◉  ← Pan w okienku      │{a}   ║
-║  {w}│         ▐█▌                      │{a}   ║
-║  {w}└──────────────────────────────────┘{a}   ║
+║     {d}▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄{a}    ║
+║     {w}│{d} [Przekrój] [Sport]  [Trybuna]{w}│{a}    ║
+║     {w}│{g} [cukierki] [guma]   [zapałki]{w}│{a}    ║
+║     {w}│{c} [Sprite]   [Fanta]  [oranżada]{w}│{a}   ║
+║     {w}│─────────────────────────────────│{a}    ║
+║     {w}│    ◉  ← Pan w okienku          │{a}    ║
+║     {w}│   ▐█▌                          │{a}    ║
+║     {w}└─────────────────────────────────┘{a}    ║
 ║                                             ║
 ╚═════════════════════════════════════════════╝
 
 {d}  Masz banknot pięćdziesięciozłotowy.
   Sprite kosztuje 3,50 zł.
   Pan nie ma reszty z pięćdziesięciu.
-  Pan ma resztę z dwudziestu.
 {r}  Nie masz dwudziestu.

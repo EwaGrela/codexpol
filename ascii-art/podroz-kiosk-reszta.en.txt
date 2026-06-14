@@ -1,19 +1,19 @@
 ╔═════════════════════════════════════════════╗
-║    {c}RUCHU KIOSK  –  PLATFORM 2  KATOWICE  {a}║
+║      {c}KIOSK RUCHU – PERON 2 KATOWICE      {a}║
 ╠═════════════════════════════════════════════╣
 ║                                             ║
-║  {w}┌──────────────────────────────────┐{a}   ║
-║  {w}│{d}          (window closed)        {w}│{a}   ║
-║  {w}│                                  │{a}   ║
-║  {w}│  {d}He went to get change.         {w}│{a}   ║
-║  {w}│  {c}[Sprite 0.33l]{d} sits behind the counter.{w}│{a}║
-║  {w}└──────────────────────────────────┘{a}   ║
+║     {d}▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄{a}    ║
+║     {w}│{d}        (window closed)       {w}│{a}    ║
+║     {w}│{d}                              {w}│{a}    ║
+║     {w}│   {c}[Sprite 0.33l]{d} ← behind counter{w}│{a} ║
+║     {w}│{d}   Man went to get change.    {w}│{a}    ║
+║     {w}└─────────────────────────────────┘{a}    ║
 ║                                             ║
-║  {a}◉  ← Zenon  {y}17:09{a}                       ║
-║  ▐█▌  {d}[fifty zlotys: spent]{a}                ║
+║  {a}◉  ← Zenon  {y}17:09  {d}[50 zł in hand]{a}      ║
+║  ▐█▌                                        ║
 ║  ╱ ╲                                        ║
 ╚═════════════════════════════════════════════╝
 
 {d}  He came back after 14 minutes.
   Change: 46.50 zł in 5-grosz coins.
-{a}  Sprite: warm. Worth every second.
+{a}  Sprite: lukewarm. Worth every second.

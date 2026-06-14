@@ -1,20 +1,21 @@
 ╔═════════════════════════════════════════════╗
-║           {c}STOŁÓWKA  (parter){a}               ║
+║          {c}KORYTARZ  –  SĄSIAD{a}             ║
 ╠═════════════════════════════════════════════╣
 ║                                             ║
-║   {a}◉                         ◉{a}             ║
-║  ▐█▌                        ▐█▌             ║
-║  ╱ ╲                        ╱ ╲             ║
-║  {a}Ty                   Pan Ryszard{a}          ║
-║           {d}(Sosnowiec, obróbka metali){a}      ║
+║   {d}[303]      [304]{a}                        ║
+║     {a}▐█▌       {y}▐█▌{a}                       ║
+║     ╱ ╲       {y}╱ ╲{a}                        ║
+║    {d}Ty       Zdzisław{a}                      ║
 ║                                             ║
-║  {w}┌──────────┐       ┌──────────┐{a}          ║
-║  {w}│{d} zupa ml. {w}│       │{d} zupa ml. {w}│{a}          ║
-║  {w}└──────────┘       └──────────┘{a}          ║
+║   {y}Zdzisław:{a}                               ║
+║   {d}╔═══════════════════════════════╗{a}       ║
+║   {d}║  "Chłopie, tu karta w 304.  ║{a}       ║
+║   {d}║   Chodź."                   ║{a}       ║
+║   {d}╚═══════════════════════════════╝{a}       ║
+║                                             ║
+║   {d}[wtorek, 23:08]{a}                         ║
 ╚═════════════════════════════════════════════╝
 
-{d}  Pan Ryszard: "Z Bydgoszczy?"
-  Ty: "Tak."
-  Pan Ryszard: "Aaa."
-  Jecie zupę mleczną w milczeniu.
-{a}  Pan Ryszard jest OK.
+{d}  Zdzisław mieszka w 304 od tygodnia.
+  Mówi że z Katowic. Pracuje w "branży".
+  Nie pyta o Twoją branżę. To miłe.

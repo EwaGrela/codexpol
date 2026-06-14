@@ -3,17 +3,16 @@
 ║            {w}ZAKOŃCZENIE  IV{a}                ║
 ║            {g}Wyjechałeś wcześniej.{a}           ║
 ║                                             ║
-║  {d}[walizka]{a}  ◉╱ → {w}[autobus 6:30]{a}           ║
+║  {d}[walizka]{a}  {a}◉╱{a} →  {w}[autobus 6:30]{a}         ║
 ║             █                               ║
 ║             ╱╲                              ║
 ║                                             ║
-║  {a}Strata: {r}60,00 zł {d}(dzień 7){a}               ║
-║  {a}Zysk:   {g}jeden dzień w domu{a}               ║
+║  {d}Strata: {r}60,00 zł{d}  (dzień 7, niepobyt){a}   ║
+║  {d}Zysk:   {g}jeden dzień w domu{a}               ║
 ║                                             ║
+║  {d}Żona powiedziała żebyś następnym razem  {a}║
+║  {d}wziął urlop razem z nią.{a}                ║
 ╚═════════════════════════════════════════════╝
 
-{d}  Wróciłeś w sobotę przed południem.
-  Żona zdziwiła się. Powiedziała żebyś
-  następnym razem wziął urlop razem z nią.
-{r}  To była groźba.
+{d}  To była groźba.
 {a}  Zgodziłeś się.

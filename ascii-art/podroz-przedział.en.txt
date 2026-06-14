@@ -1,14 +1,15 @@
 ╔═════════════════════════════════════════════╗
-║{d} [bag]  [suitcase]  [coat]  [suitcase]   {a}║
-╠══════════════ {w}COMPARTMENT 4{a} ══════════════╣
-║                                             ║
-║  {a}◉     ◉     ◉     ◉     ◉              ║
-║  ▐█▌    █    ▐█▌    █    ▐█▌              ║
-║  ╱ ╲   ╱╲   ╱ ╲   ╱╲   ╱ ╲              ║
-║                                             ║
+║{d} [bag]  [suitcase]  [jacket]  [suitcase]  {a}║
+╠════════════ {w}COMPARTMENT 4{a} ════════════════╣
+║ {d}╔═══════════════════════════════════════╗{a} ║
+║ {d}║{a} · ─ · ─ · ─ ·  fields  · ─ · ─ · ─ {d}║{a} ║
+║ {d}╚═══════════════════════════════════════╝{a} ║
+║  {a}◉    ◉    ◉   {d}│{a}   ◉    ◉    {y}◉{a}           ║
+║  ▐█▌  ▐█▌  ▐█▌  {d}│{a}   █   ▐█▌   {y}▐█▌{a}          ║
+║  ╱ ╲  ╱ ╲  ╱ ╲  {d}│{a}  ╱╲   ╱ ╲   {y}╱ ╲{a}          ║
 ╠═════════════════════════════════════════════╣
-║{d} [egg]   [thermos]   [newspaper fr. 1989] {a}║
+║{d} [egg]  [thermos]  {y}EGG!{d}  [Tribune/89]{a}   ║
 ╚═════════════════════════════════════════════╝
 
-{d}  The man by the window has been eating a hard-boiled egg since Łódź.
-  No air conditioning. The window won't close.
+{d}  The man by the window has been eating an egg since Łódź.
+  No AC. The window won't close.
