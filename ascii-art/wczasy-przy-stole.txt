@@ -8,12 +8,12 @@
 ║  {d} Zdz.  Henryk Wiesiek  {y}TY{a}               ║
 ║                                             ║
 ║   {w}┌──────────────────────────────────┐{a}   ║
-║   {w}│{g}  A   K   D   W   2   3   4   {w}      │{a}   ║
-║   {w}│{d}  herbata · herbata · herbata   {w}│{a}   ║
+║   {w}│{g}  A ♠  K ♥  D ♦  W ♣  2   3   {w}│{a}   ║
+║   {w}│{d}  ☕        ☕        ☕herbata  {w}│{a}   ║
 ║   {w}└──────────────────────────────────┘{a}   ║
-║                               {y}01:22{a}       ║
+║               {y}01:22{a}  {d}(−3,40 zł){a}       ║
 ╚═════════════════════════════════════════════╝
 
 {d}  Zdzisław mówi że jesteś "całkiem spoko".
   Wiesiek stawia herbatę. Nie pytasz skąd ma.
-  Grasz do 2:30. Przegrywasz 3,40 zł.
+  Grasz do 2:30.

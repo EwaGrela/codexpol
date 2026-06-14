@@ -3,17 +3,16 @@
 ║            {w}ENDING  IV{a}                     ║
 ║            {g}You left early.{a}                 ║
 ║                                             ║
-║  {d}[suitcase]{a}  ◉╱ → {w}[bus 6:30]{a}              ║
+║  {d}[suitcase]{a}  {a}◉╱{a} →  {w}[bus 6:30]{a}              ║
 ║              █                              ║
 ║              ╱╲                             ║
 ║                                             ║
-║  {a}Loss:  {r}60.00 zł {d}(day 7){a}                 ║
-║  {a}Gain:  {g}one day at home{a}                  ║
+║  {d}Lost: {r}60.00 zł{d}  (day 7, unused){a}         ║
+║  {d}Gained: {g}one day at home{a}                  ║
 ║                                             ║
+║  {d}Wife said next time you should take     {a}║
+║  {d}holiday together.{a}                        ║
 ╚═════════════════════════════════════════════╝
 
-{d}  You came home Saturday before noon.
-  Your wife was surprised. She said next time
-  you should take a holiday together.
-{r}  That was a threat.
+{d}  That was a threat.
 {a}  You agreed.

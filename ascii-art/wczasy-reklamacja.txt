@@ -1,18 +1,20 @@
 ╔═════════════════════════════════════════════╗
-║  {c}FWP USTROŃ  ·  DOM WCZASOWY "GRUSZA"{a}    ║
+║          {c}RECEPCJA  –  REKLAMACJA{a}          ║
 ╠═════════════════════════════════════════════╣
 ║                                             ║
-║  {w}FORMULARZ REKLAMACYJNY  FR-12/1988{a}       ║
-║  {d}· · · · · · · · · · · · · · · · · · ·{a}  ║
-║  {a}Przedmiot reklamacji:                   ║
-║  {w}[{r}X{w}]{a} basen   {w}[{r}X{w}]{a} hałas   {w}[{r}X{w}]{a} śniadanie  ║
-║  {w}[{r}X{w}]{a} okno    {w}[{r}X{w}]{a} ściana  {w}[{r}X{w}]{a} inne       ║
-║  {d}· · · · · · · · · · · · · · · · · · ·{a}  ║
+║  {y}Problem nr 1:  {r}brak ciepłej wody{a}        ║
+║  {y}Problem nr 2:  {r}szafa bez półki{a}           ║
+║  {y}Problem nr 3:  {r}okno: widok parking{a}       ║
 ║                                             ║
-║  {w}Podpis:  ____________________________{a}  ║
+║  {d}╔═══════════════════════════════╗{a}        ║
+║  {d}║  PROTOKÓŁ USTERKI nr 7/91   ║{a}        ║
+║  {d}║  Data: __________           ║{a}        ║
+║  {d}║  Podpis: ___________        ║{a}        ║
+║  {d}╚═══════════════════════════════╝{a}        ║
 ║                                             ║
+║  {a}◉  ← Pani Jadwiga {d}[pisze coś]{a}         ║
 ╚═════════════════════════════════════════════╝
 
-{d}  Recepcjonistka przyjmuje formularz.
-  Nie patrzy na Ciebie.
-  Mówi "rozpatrzymy w ciągu 30 dni roboczych".
+{d}  Pani Jadwiga mówi że woda była rano.
+  Protokół trafi "do zarządu".
+  Zarząd jest w Katowicach.

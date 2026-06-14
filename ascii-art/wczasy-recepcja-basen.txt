@@ -1,18 +1,20 @@
 ╔═════════════════════════════════════════════╗
-║  {c}FWP USTROŃ  ·  DOM WCZASOWY "GRUSZA"   {a}║
+║          {c}RECEPCJA  –  [RANO]{a}              ║
 ╠═════════════════════════════════════════════╣
 ║                                             ║
-║   {w}╔══════════╗{a}       ◉  ← nie patrzy     ║
-║   {w}║ KSIEGA   ║{a}      ▐█▌                  ║
-║   {w}║ MELD.    ║{a}       █                   ║
-║   {w}╠══════════╣{a}               {c}╔══════╗{a}   ║
-║   {w}║{d}▓▓▓▓▓▓▓▓▓▓{w}║{a}               {c}║  TV  ║{a}   ║
-║   {w}╚══════════╝{a}               {c}╚══════╝{a}   ║
+║  {d}╔══════════════════════════════════╗{a}     ║
+║  {d}║  BASEN — HARMONOGRAM            ║{a}     ║
+║  {d}║  pn–pt   7:00–9:00  (wyłącznie) ║{a}     ║
+║  {d}║  wt–czw  17:00–19:00            ║{a}     ║
+║  {d}║  sob–nd  ZAMKNIĘTY              ║{a}     ║
+║  {d}╚══════════════════════════════════╝{a}     ║
 ║                                             ║
-║  {d}"Nieczynny od osiemdziesiątego ósmego." {a}║
-║  {d}Nie podnosi wzroku.                     {a}║
+║  {y}Dziś: {w}środa{a}  {d}[godzina 08:47]{a}          ║
+║                                             ║
+║  {a}◉  ← Pani Jadwiga                        ║
+║  {d}     "Pan z basenu?"                     ║
 ╚═════════════════════════════════════════════╝
 
-{d}  Ty: "A kiedy będzie czynny?"
-  Ona: (odwraca stronę w księdze meldunkowej)
-{r}  To jest odpowiedź.
+{d}  Teoretycznie basen jest czynny.
+  Praktycznie: klucz od szatni ma konserwator,
+  który przychodzi po 9:00.

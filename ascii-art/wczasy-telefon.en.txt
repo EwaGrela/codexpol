@@ -1,20 +1,20 @@
 ╔═════════════════════════════════════════════╗
-║       {c}PHONE BOOTH  –  GROUND FLOOR{a}        ║
+║       {c}PHONE BOX  –  USTROŃ{a}               ║
 ╠═════════════════════════════════════════════╣
 ║                                             ║
-║   {c}┌──────────────────┐{a}                    ║
-║   {c}│{a}  {w}[receiver]{a}        {c}│{a}    ◉  ← You    ║
-║   {c}│{a}   {w}┌──────────┐{a}   {c}│{a}   ▐█▌           ║
-║   {c}│{a}   {w}│ {y}###      {w}│{a}   {c}│{a}   ╱ ╲           ║
-║   {c}│{a}   {w}└──────────┘{a}   {c}│{a}                  ║
-║   {c}└──────────────────┘{a}                    ║
+║   {w}┌─────────────────────────────────┐{a}    ║
+║   {w}│  {d}☎  TP S.A.{a}                  {w}│{a}    ║
+║   {w}│{a}                                 {w}│{a}    ║
+║   {w}│  {g}insert token / TP card         {w}│{a}    ║
+║   {w}│  {d}────────────────────────      {w}│{a}    ║
+║   {w}│  {a}☐ {d}no.: {y}48 32 xxx-xxx          {w}│{a}  ║
+║   {w}│                                 │{a}    ║
+║   {w}│  {r}[line busy]                  {w}│{a}    ║
+║   {w}└─────────────────────────────────┘{a}    ║
 ║                                             ║
-║   {a}Call: {y}1.20 zł / min{a}                   ║
-║   {a}Tokens: {y}4{a}                              ║
+║   {d}[Wednesday 14:35]  rain outside{a}         ║
 ╚═════════════════════════════════════════════╝
 
-{d}  Your wife picks up after the first ring.
-  You say you're coming back tomorrow.
-  She asks if something happened.
-  You say no. That's true.
-  It's also not true.
+{d}  Third attempt.
+  Wife is probably in the garden.
+  Or she knows you're calling and won't pick up.

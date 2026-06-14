@@ -1,20 +1,21 @@
 ╔═════════════════════════════════════════════╗
-║           {c}CANTEEN  (ground floor){a}          ║
+║          {c}CORRIDOR  –  NEIGHBOUR{a}           ║
 ╠═════════════════════════════════════════════╣
 ║                                             ║
-║   {a}◉                         ◉{a}             ║
-║  ▐█▌                        ▐█▌             ║
-║  ╱ ╲                        ╱ ╲             ║
-║  {a}You                   Mr. Ryszard{a}         ║
-║           {d}(Sosnowiec, metalworking){a}       ║
+║   {d}[303]      [304]{a}                        ║
+║     {a}▐█▌       {y}▐█▌{a}                       ║
+║     ╱ ╲       {y}╱ ╲{a}                        ║
+║    {d}You      Zdzisław{a}                      ║
 ║                                             ║
-║  {w}┌──────────┐       ┌──────────┐{a}          ║
-║  {w}│{d} milk soup{w}│       │{d} milk soup{w}│{a}          ║
-║  {w}└──────────┘       └──────────┘{a}          ║
+║   {y}Zdzisław:{a}                               ║
+║   {d}╔═══════════════════════════════╗{a}       ║
+║   {d}║  "Mate, cards in 304.       ║{a}       ║
+║   {d}║   Come on."                 ║{a}       ║
+║   {d}╚═══════════════════════════════╝{a}       ║
+║                                             ║
+║   {d}[Tuesday, 23:08]{a}                        ║
 ╚═════════════════════════════════════════════╝
 
-{d}  Mr. Ryszard: "From Bydgoszcz?"
-  You: "Yes."
-  Mr. Ryszard: "Ah."
-  You eat milk soup in silence.
-{a}  Mr. Ryszard is OK.
+{d}  Zdzisław has been in 304 for a week.
+  Says he's from Katowice. Works in "the trade."
+  Doesn't ask about your trade. That's nice.

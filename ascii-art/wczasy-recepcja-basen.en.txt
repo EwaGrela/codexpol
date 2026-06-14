@@ -1,18 +1,20 @@
 ╔═════════════════════════════════════════════╗
-║  {c}FWP USTROŃ  ·  WORKERS' RESORT "GRUSZA"{a}║
+║          {c}RECEPTION  –  [MORNING]{a}          ║
 ╠═════════════════════════════════════════════╣
 ║                                             ║
-║   {w}╔══════════╗{a}       ◉  ← not looking      ║
-║   {w}║ REG.     ║{a}      ▐█▌                    ║
-║   {w}║ BOOK     ║{a}       █                     ║
-║   {w}╠══════════╣{a}               {c}╔══════╗{a}   ║
-║   {w}║{d}▓▓▓▓▓▓▓▓▓▓{w}║{a}               {c}║  TV  ║{a}   ║
-║   {w}╚══════════╝{a}               {c}╚══════╝{a}   ║
+║  {d}╔══════════════════════════════════╗{a}     ║
+║  {d}║  POOL — SCHEDULE                ║{a}     ║
+║  {d}║  Mon–Fri  7:00–9:00  (exclusive) ║{a}    ║
+║  {d}║  Tue–Thu  17:00–19:00           ║{a}     ║
+║  {d}║  Sat–Sun  CLOSED                ║{a}     ║
+║  {d}╚══════════════════════════════════╝{a}     ║
 ║                                             ║
-║  {d}"Closed since eighty-eight."           {a}║
-║  {d}Doesn't look up.                       {a}║
+║  {y}Today: {w}Wednesday{a}  {d}[08:47]{a}             ║
+║                                             ║
+║  {a}◉  ← Pani Jadwiga                        ║
+║  {d}     "Are you here for the pool?"        ║
 ╚═════════════════════════════════════════════╝
 
-{d}  You: "And when will it be open?"
-  She: (turns a page in the registration book)
-{r}  That is the answer.
+{d}  The pool is theoretically open.
+  Practically: the changing-room key is with
+  the maintenance man, who arrives after 9:00.

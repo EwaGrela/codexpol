@@ -1,18 +1,20 @@
 ╔═════════════════════════════════════════════╗
-║               {c}CHECK-OUT{a}                    ║
+║          {c}RECEPTION  –  CHECK-OUT{a}          ║
 ╠═════════════════════════════════════════════╣
 ║                                             ║
-║  {a}Room:  {y}303{a}          Number of days:  {y}7{a}  ║
-║  {a}Charge: {y}420.00 zł{a}                      ║
-║  {a}Supplement (phone):   {y}3.40 zł{a}           ║
-║  {a}Pool complaint:       {r}REJECTED{a}           ║
+║  {d}╔═══════════════════════════════════╗{a}    ║
+║  {d}║  STAY CARD  no. 303/91          ║{a}    ║
+║  {d}║  Stay: 7 days × 156 zł          ║{a}    ║
+║  {d}║  Total: {g}1092 zł  (paid){d}          ║{a}    ║
+║  {d}║  Complaint 7/91: {y}pending{d}       ║{a}    ║
+║  {d}╚═══════════════════════════════════╝{a}    ║
 ║                                             ║
-║  {w}Please rate your stay:{a}                   ║
-║  {d}[ ] excellent  [ ] good  {w}[{g}X{w}]{a} average   ║
-║                                             ║
-║  {w}Signature: ___________________________{a}  ║
+║  {a}◉  ← Pani Jadwiga                        ║
+║  {d}  "Sign here and here."                ║
+║  {d}  "We look forward to seeing you       ║
+║  {d}   next year."                         ║
 ╚═════════════════════════════════════════════╝
 
-{d}  "We warmly invite you back next year."
-  You won't come back next year.
-{a}  You come back next year.
+{d}  You sign. You receive a departure stamp.
+  The complaint will be reviewed
+  within 30 working days.

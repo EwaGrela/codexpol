@@ -1,20 +1,18 @@
 ╔═════════════════════════════════════════════╗
-║        {c}ROOM 303  –  THURSDAY{a}              ║
-║        {d}(everyone went to the castle){a}      ║
+║      {c}ROOM 303  –  DECISION  [19:44]{a}     ║
 ╠═════════════════════════════════════════════╣
 ║                                             ║
-║  {c}┌──────┐{a}                                 ║
-║  {c}│{w}░░░░░░{c}│{a}  ch. 1: Mr. Blot's Academy      ║
-║  {c}│{w}░ TV ░{c}│{a}  ch. 2: parliamentary broadcast ║
-║  {c}└──────┘{a}                                 ║
+║   {w}┌────────────────────────────────┐{a}    ║
+║   {w}│{d}  REMAINING DAYS SCHEDULE     {w}│{a}    ║
+║   {w}│                                │{a}    ║
+║   {w}│{a}  Wed  {d}[pool?]  [canteen]  {w}   │{a}    ║
+║   {w}│{a}  Thu  {d}[Zdzisław: cards?]  {w}   │{a}    ║
+║   {w}│{a}  Fri  {d}[trip: Wisła?]      {w}   │{a}    ║
+║   {w}│{a}  Sat  {d}[check-out 11:00]   {w}   │{a}    ║
+║   {w}└────────────────────────────────┘{a}    ║
 ║                                             ║
-║           {a}◉  ← You                         ║
-║          ▐█▌                                ║
-║       {d}[▓▓▓▓▓▓▓▓▓▓ bed ▓▓▓▓▓▓▓▓]{a}          ║
-║                   {d}[silence in the corridor]{a}║
+║   {d}Outside: carpark. Rain. Evening.{a}       ║
 ╚═════════════════════════════════════════════╝
 
-{d}  For the first time in four days
-  the room is quiet.
-  It is very quiet.
-  Too quiet.
+{d}  You stayed. That was a choice.
+  Not the worst one, all things considered.

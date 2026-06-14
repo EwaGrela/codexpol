@@ -1,20 +1,20 @@
 ╔═════════════════════════════════════════════╗
-║       {c}BUDKA TELEFONICZNA  –  PARTER{a}        ║
+║       {c}BUDKA TELEFONICZNA  –  USTROŃ{a}      ║
 ╠═════════════════════════════════════════════╣
 ║                                             ║
-║   {c}┌──────────────────┐{a}                    ║
-║   {c}│{a}  {w}[słuchawka]{a}      {c}│{a}    ◉  ← Ty      ║
-║   {c}│{a}   {w}┌──────────┐{a}   {c}│{a}   ▐█▌           ║
-║   {c}│{a}   {w}│ {y}###      {w}│{a}   {c}│{a}   ╱ ╲           ║
-║   {c}│{a}   {w}└──────────┘{a}   {c}│{a}                  ║
-║   {c}└──────────────────┘{a}                    ║
+║   {w}┌─────────────────────────────────┐{a}    ║
+║   {w}│  {d}☎  TP S.A.{a}                  {w}│{a}    ║
+║   {w}│{a}                                 {w}│{a}    ║
+║   {w}│  {g}wrzuć żeton / kartę TP        {w}│{a}    ║
+║   {w}│  {d}────────────────────────      {w}│{a}    ║
+║   {w}│  {a}☐ {d}nr docelowy: {y}48 32 xxx-xxx  {w}│{a}  ║
+║   {w}│                                 │{a}    ║
+║   {w}│  {r}[linia zajęta]               {w}│{a}    ║
+║   {w}└─────────────────────────────────┘{a}    ║
 ║                                             ║
-║   {a}Rozmowa: {y}1,20 zł / min{a}                 ║
-║   {a}Masz żetonów: {y}4{a}                         ║
+║   {d}[środa 14:35]  deszcz za szybą{a}         ║
 ╚═════════════════════════════════════════════╝
 
-{d}  Żona odbiera po pierwszym sygnale.
-  Mówisz że wracasz jutro.
-  Ona pyta czy coś się stało.
-  Mówisz że nie. To jest prawda.
-  To jest też nieprawda.
+{d}  Próbujesz trzeci raz.
+  Żona pewnie jest w ogrodzie.
+  Albo wie że dzwonisz i specjalnie nie odbiera.

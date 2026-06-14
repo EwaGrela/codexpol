@@ -1,20 +1,20 @@
 ╔═════════════════════════════════════════════╗
-║  {c}FWP USTROŃ  ·  DOM WCZASOWY "GRUSZA"{a}    ║
-║           {w}WCZESNE WYMELDOWANIE{a}            ║
+║       {c}POKÓJ 303  –  DZIEŃ 7  [5:48]{a}     ║
 ╠═════════════════════════════════════════════╣
 ║                                             ║
-║  {a}Wykupione dni:       {y}7{a}                  ║
-║  {a}Pobyt:               {y}6{a}                  ║
-║  {a}Zwrot za dzień 7:    {r}0,00 zł  ← brak{a}   ║
+║   {d}████████████{a} ← walizka (gotowa)         ║
+║   {d}════════════{a}                            ║
 ║                                             ║
-║  {a}Opłata końcowa:     {y}420,00 zł{a}           ║
-║  {a}Zapłacono:          {y}420,00 zł{a}           ║
+║   {w}[PKS 6:30 → Ustroń → Bielsko]{a}          ║
+║   {w}[PKS 6:30 → Ustroń → Bielsko]{a}          ║
 ║                                             ║
-║  {w}Podpis: ____________________________{a}   ║
+║   {d}Strata:{a}                                 ║
+║     {r}− 156 zł{d}  (dzień 7, niezamieszkały){a}║
+║     {r}− żeton TP{d}  (rozmowa z żoną: 3 min){a}║
 ║                                             ║
+║   {d}[korytarz: cisza]  [Zdzisław: śpi]{a}     ║
 ╚═════════════════════════════════════════════╝
 
-{d}  Recepcjonistka mówi że "regulamin nie
-  przewiduje zwrotu za niewykorzystane dni".
-  Wiesz. Już to czytałeś.
-  Podpisujesz i wychodzisz.
+{d}  Zostawiasz klucz pod drzwiami.
+  Nikt nie widzi jak wychodzisz.
+  To jest lepiej.

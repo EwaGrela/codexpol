@@ -1,20 +1,18 @@
 ╔═════════════════════════════════════════════╗
-║        {c}POKÓJ 303  –  CZWARTEK{a}             ║
-║        {d}(wszyscy pojechali na zamek){a}        ║
+║      {c}POKÓJ 303  –  DECYZJA  [19:44]{a}     ║
 ╠═════════════════════════════════════════════╣
 ║                                             ║
-║  {c}┌──────┐{a}                                 ║
-║  {c}│{w}░░░░░░{c}│{a}  prog. 1: akademia pana kleksa ║
-║  {c}│{w}░ TV ░{c}│{a}  prog. 2: transmisja z sejmu   ║
-║  {c}└──────┘{a}                                 ║
+║   {w}┌────────────────────────────────┐{a}    ║
+║   {w}│{d}  HARMONOGRAM POZOSTAŁYCH DNI  {w}│{a}    ║
+║   {w}│                                │{a}    ║
+║   {w}│{a}  śr   {d}[basen?]  [stołówka]{w}    │{a}    ║
+║   {w}│{a}  czw  {d}[Zdzisław: karty?]  {w}   │{a}    ║
+║   {w}│{a}  pt   {d}[wycieczka: Wisła?] {w}   │{a}    ║
+║   {w}│{a}  sob  {d}[wymeldowanie 11:00]{w}   │{a}    ║
+║   {w}└────────────────────────────────┘{a}    ║
 ║                                             ║
-║           {a}◉  ← Ty                          ║
-║          ▐█▌                                ║
-║       {d}[▓▓▓▓▓▓▓▓▓▓ łóżko ▓▓▓▓▓▓▓▓]{a}       ║
-║                   {d}[cisza w korytarzu]{a}     ║
+║   {d}Za oknem: parking. Deszcz. Wieczór.{a}   ║
 ╚═════════════════════════════════════════════╝
 
-{d}  Po raz pierwszy od czterech dni
-  pokój jest cichy.
-  Jest bardzo cichy.
-  Zbyt cichy.
+{d}  Zostałeś. To był wybór.
+  W sumie nie najgorszy.

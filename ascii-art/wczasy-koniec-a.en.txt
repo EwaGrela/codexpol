@@ -3,18 +3,15 @@
 ║            {w}ENDING  I{a}                      ║
 ║            {g}You went home.{a}                  ║
 ║                                             ║
-║  {a}◉╱ → {d}[suitcase]{a} → {w}[bus stop]{a}           ║
-║  █                                          ║
-║  ╱╲  ← You                                  ║
+║  {d}[suitcase]{a}  {a}◉╱{a} →  {w}┌──────────────────┐{a}  ║
+║              █   {w}│{a} PKS  dep.  {y}11:05 {w}│{a}  ║
+║              ╱╲  {w}│{a} ticket: {y}12.50 zł {w}│{a}  ║
+║                  {w}└──────────────────┘{a}  ║
 ║                                             ║
-║       {w}┌────────────────────────────┐{a}      ║
-║       {w}│{a}  bus: departs {y}11:05              {w}│{a}      ║
-║       {w}│{a}  ticket: {y}12.50 zł               {w}│{a}      ║
-║       {w}└────────────────────────────┘{a}      ║
+║  {d}Sunday. 15:30. Home.{a}                     ║
+║  {d}Wife: "How was it?"{a}                       ║
+║  {a}You: "Fine."{a}                              ║
 ║                                             ║
 ╚═════════════════════════════════════════════╝
 
-{d}  You arrived home Sunday at 15:30.
-  Your wife asked how it was.
-  You said "fine".
-{a}  That was the right word.
+{d}  "Fine" was the true word.
